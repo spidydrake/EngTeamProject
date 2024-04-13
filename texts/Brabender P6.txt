@@ -1,0 +1,4179 @@
+Brabender' 
+.. where quality is measured. 
+a te Sd ~~ > Pa e fet Ps 
+Anstruetion’ Manual , ¢: " 5 en s ; f 
+, ( : 
+iy = . 
+bn D ae > 4“ be 
+a . od Pe, —- & 
+Conical Twin Screw Extruder 
+KDSE Mark III (counter-rotation) 
+ID ho. 8 346 07 
+for drive units 
+Plasti-Corder® Lab-Station 
+Plastograph® EC Plus 
+Brabender® GmbH & Co. KG e Kulturstr. 51-55 e 47055 Duisburg « Germany 
+‘@ Phone - 49 - 203 - 7788 - 0 e B Fax - 49 - 203 - 7788 - 101 
+fe E-mail: brabender@brabender.com 
+Agencies all over the world 
+© Brabender® GmbH & Co. KG 2014 Copyright protection DIN 34 
+Edition 0814 Instruction Manuat No. 834607-000_KDSE-Mark-Iil_BA-01-¢ B rabende r REGISTRATION CARD _| Brabender® GmbH & Co. KG 
+Important! Please complete and return to: 
+Important! Veuillez compléter et retourner a: / Wichtig! Bitte ausfillen und zurlicksenden an: / 
+mportante: Voglia completare e rispedire a: / Importante: Haga el favor de completar y devolver a: 
+Brabender® GmbH & Co. KG, Kulturstr. 51-55, 47055 Duisburg, Germany 
+Tel. No: ++ 49 - 203 - 7788-0 
+Fax. No.: ++ 49 - 203 - 7788 - 100 
+E-mail: brabender@brabender.com 
+Please state the Brabender® order no. of your equipment: 
+Inscrire ici le numéro de commande Brabender® de votre appareil / Bitte hier die Brabender® Order-Nr. Ihres Gerdts eintragen / 
+tscrivere qui il numero d'ordine Brabender® dell'apparecchio / Inscribir aqui el numero de pedido Brabender® del aparato 
+USER OF EQUIPMENT 
+Utilisateur / Benutzer / Utente / Utilizador 
+Title Company 
+Titre / Titel / Titolo / Titulo Société / Firma / Ragione Sociale / Nombre de la Compafiia 
+Surname Address 
+Nom / Name / Cognome / Appelido Adresse / Adresse / Indirizzo / Direccién 
+First Name 
+Prénom / Vorname / Nome / Nombre 
+Tel. No. Country 
+Téléphone / Telefon / Numero di telefono / Numero de teléfono Pays / Land / Nazione / Pais 
+Fax No. E-mail 
+Télécopieur / Fax / Numero di fax / Numero de fax 
+EQUIPMENT 
+Appareil / Gerat / Apparecchio / Aparato 
+Instrument / Software 
+Instrument / Logiciel 
+Apparecchio / Software 
+Aparato / Software 
+Ident No. 
+Version No. {only in case of software / seulement pour logiciel / nur fur Software / 
+solamente per if software / solamente para el software) 
+[1 If you do not wish your name to be used for marketing purposes, tick this box. 
+Si vous ne souhaitez pas que votre nom soit utilisé a des fins commerciales, cochez cette case. / Wenn Sie nicht wiinschen, dass 
+Ihr Name fir Marketingzwecke verwendet wird, kreuzen Sie dieses Feld an. / Spunti questa casella se non desidera che il Suo 
+nome venga uiilizzato a scopi di marketing. / Marque el recuadro si no desea que su nombre sea usado para razones comerciales.Minimum PC data for running the 
+Brabender® Windows software with CAN instruments 
+Dual Core CPU 2 GHz 
+Hard disk capacity: CPU: Minimum: 
+Memory: Minimum: 4 GB RAM with 32 bit, depending on operating system 
+Operating system: = Minimum: Windows XP / Vista / 7/8 
+ah Professional systems only! 
+Each Brabender® program: The program package requires less than 100 MB 
+on the hard disk. 
+Depending on the operating system and on the 
+software installation status, additional 100 - 500 MB 
+hard disk capacity is required. 
+@ There must be enough space on the hard 
+disk for local saving of measuring data. 
+Graphics controller: 
+Ports: 
+| Printer: Minimum: The display must have a resolution of at least 
+1024 * 768 pixel and 16 million colors 
+e USB 2.0 For printer 
+e 1 free PCI plug-in port For CANopen adapter 
+with a free slot (full size, 
+not low profile!) 
+or 
+© 1more USB-Port 2.0 For MSB to CAN 
+Each printer supported by Windows and its printer drivers. For other or new printers, 
+please ask the manufacturer. 
+The active USB instruments connected share the signal band width. For this reason, observe the 
+following during operation of Brabender® measuring programs: 
+Do not activate any antivirus scan 
+Do not run any update of your antivirus program 
+Do not activate any screensaver 
+Close all other programs 
+Do not run any video games 
+Do not run any music CD/DVD in the CD/DVD disk drive of your PC 
+Edition: June 2014Contents 
+1. GENERAL INFORMATION .........:cccsccccssssseeeesesseeeeseeseneneessseeereenseceeeee ET 
+1.1 Use of the instruction manual.........0..0..c cee cite ce eee r ences rastastasesestasseraaesanserseeeteereeeneae 11 
+41.2 Disclaimer of liability... ee eee reece ere ce ner cee eee e ene tne tie cee caste ced ee see esenees asec sneseseseeseeeeeeaees 11 
+1.3. Software 
+1.4 Scope of supply. 
+1.5 Acquisition of components from external suppliers. 
+2 CONTACT .... 0... ecssesenseecccecceeeseeeenesseneereeseeees eee eee reese an anaeaeeeeeeneeeeenterere DO 
+3 STYLISTIC FEATURES .......cccccsestereseeseesesesenssenseneseeseaeeeeeneeees eeeeeeeneeee TH 
+3.1 General stylistic features 0... ccc eeceeensscceeseneceaseecserecauesaensensesecnecssaeraseecienepssisesisereranaeseaeanes 15 
+3.2 Mandatory SIGNS occ ccc cseceeeeeeeseeeetececeneseaeeecaeieusecsaecseseceenesaseepeteesssiseesiasescsesasasnasacases 15 
+3.3 Hazard warning SIQNs................0..cccccsesseeeeeseeeecaseecaeenenassaaeseersesseesesnacareesassaassesaninenerasenesesceses 15 
+3.4 Design of safety MESSAGES 00... ec cece eeeeeereeneee eee ceeseeseretseaeerensseseecesnasssianassaseasseeaaseneanavases 16 
+8.5 DePINITIONS 0 cece ceeee cae eecaerecsenenecevscneceseaceecescseetsanessteaseregsteceavanessatienasaeeesseseasasennanavases 16 
+4 SAFETY ooo. cececcccceecesneensensenennencesesseseseneneneeseeeeeeeseneee ceseceeeseareeeeetenesessmeene TL 
+4.1 Intended use.. 
+4.2 Target group 
+4.3 Carrier duties 
+44 Protective devices occ eceeceee cette cee eeeeeeeeenaeeeeeeeaeeeeneeeeeeeceeeeeeseeaeeesaeeetesteeeeeeeneeeeetees 
+4.4.1. Emergency motor stop button at the drive unit* 
+4.4.1.1 Position of the emergency motor stop button. 
+4.4.1.2 Procedure after actuation of the emergency motor stop button . 
+4.4.2 Emergency shut-off switch (isolator switch) 
+4.4.2.1 Position of the emergency shut-off switch (isolator switch) 
+4.4.2.2 Procedure after actuation of the emergency shut-off switch .. 
+4.4.3 Safety device 
+4.4.4 Automatic instrument recognition and torque limitation 
+4.4.5 Bursting pin 
+4.4.6 Protective cover sheet over the hot processing unit.. 
+4.4.7 Protective cover over the screw shaft coupling 
+4.4.8 Feed hopper on the feed opening 
+4.5 Residual danger... 
+4.5.1 Rotating screws* - Danger of crushing . 
+4.5.2 Hot surfaces - Danger of burning.... 
+4.5.3 Danger by emerging harmful or irritant vapor, gas, or liquid .. 
+4.5.4 Danger by electricity 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 7TRANSPORT AND STORAGE .........:cccssesseceseneesensnessnaeveseesestensasseesersee OO 
+5.1 Packing 
+5.2 Unpacking ... 
+5.3. Checking the scope of supply .... 
+5.4 Checking for and notification Of daMage....... see cceeseeeeeeceseteteeeeseeestecaeaeseaeaeeesetteenenesneeteneeseatete 37 
+5.5 TrAMS POF... eee ceeescec ec ceseecaccecee cscs eeseecuensesaesseceacacaccaaesaeeasensecesseaeeeeeeeceeeeeeenesnesnecnesenieeeessene 38 
+BB SHOP GG eens eee eeeceseeseceseeeseesesaesesaeuesaesecrsseuecaesecseuacssesesaeseseessseessusseesseaecaesaseesaecaseesaeseerassesatensaes 39 
+COMPONENTS AND FUNCTIONAL FEATURES .......0..c.cccseeeeeeeeeeeeee AD 
+6.1 Gereral description .........ccceccecscssesessescssnsesessesessecessesscseseceesssessesescssueesessseesesesesessesensassasaeecaeees A 
+6.2 Product labels 
+6.2.1 Name plate 
+6.2.2. Further product labels. 
+6.3. Main components...... 
+6.4 
+TECHNICAL DATA.. 
+7.1 6.3.1 General description, measuring principle .. 
+6.3.2 Processing unit. 
+6.3.3 Screws* 
+6.3.4 Feed hopper... 
+Connections .... 
+6.4.1 Electric connections of the safety devices.... 
+6.4.1.1 Connection of the proximity safety switch.... 
+6.4.1.2 Connection of the automatic instrument recognition and torque limitation . 
+6.4.2 Heating/cooling connections ............. cece 
+6.4.2.1 Bayonet nipples for control thermocouples .. 
+6.4.2.2 Heater band cables .... 
+6.4.2.3. Cooling air connection: 
+6.4.2.4 Gear cooling connections... cece 
+6.4.2.5 Cooling water flanges at the feed zone.... 
+6.4.3. Mains connection 
+Noise measurement..... --- 54 
+8.1 
+8.2 
+83 
+8.4 
+8.5 
+8.6 
+8.7 Safety notes concerning MOUNTING. .......... ee ce ceceeecceeeeceeeesee cece ceeeeeeeseeateceeceateeeseestenereeneetaeacaes 55 
+Requirements to the place of mounting 
+Mechanical mounting of the KDSE to the Plastograph® EC PIUS* osc eee ceeeeeecneeesereeeeaereeereeeees 
+8.3.1 Mounting the conical twin screw extruder KDSE on the mobile frame* 
+8.3.2 Mounting the conical twin screw extruder KDSE to the Plastograph® EC Plus* . 
+Mechanical mounting of the KDSE to the Plasti-Corder® Lab-Station ....0...0...000..00ccccccceceeseceeeeeeeceees 
+8.4.1 Mounting the conical twin screw extruder KDSE onto the docking station’. 
+8.4.2 Cooling water/cooling air connections 
+8.4.3 Mounting the docking station* with the KDSE to the Plasti-Corder® Lab-Station* 
+Mounting the feed hopper 
+Mounting the die head* 
+Mounting the control thermocouples .............:ceececcceeeececeseeceneeeecetaeeeeecaterteeeecaeeecaeneceeeraeneraeeenaes 72 
+Conical twin screw extruder KDSE Mark III (counter-rotation)10 
+11 
+12 
+13 
+14 
+15 8.8 Mounting of pressure transducer(s)* and melt temperature thermocouple(s)*... 
+8.9 Mounting a vent exhaust block* 
+8.10 Connections 
+8.10.1 Safety devices 
+8.10.2 Melt temperature and control thermocouples, heater band cables 
+8.10.3 CAN COMMECHION ....0 ccc cect ete e eter re tee reneteeeetiseneesreseetenase 
+8.10.4 Cooling connections... ce ce ccc ceee erect 
+8.10.4.1 Cooling water connection for gear cooling .. 
+8.10.4.2 Cooling water connection for feed zone...... 
+8.10.4.3 Cooling air connection to the barrel contro! zones ... 
+8.11 Mounting the SCreWS* oo. ee ceeseereeree cere seececestseeceenecateseneciecaneneeetessasessieasanssaseaseteeseesiseene® 
+8.11.1 Disassembly of the processing unit... 
+8.11.2 Disassembling/mounting the screws* 
+8.12 Mains COnmection oo... ee ceceeeceenees eerste eceeecescscnetseesteececatersseceecseteatseisssseseatanssassasasersersisieene 
+START-UP ........:sccsceeeeeeeeeeeeees ance anncneeeeenaeneeeeeanseeenaeesaseneeesstecentenseeeeen OL 
+9.1 Safety notes concerning Start-Up oo... cent ee ecteeceeee cate eereetereserecreesetescseitneseseesereeseaseansees 97 
+9.2 Preparations, SWitChing On eee eee eee ee ee reeneteenereeeecaeeecneviceseneestereeseseesseateessassasesensensereeens 97 
+9.3 Functional check of the safety devices .. 
+9.3.1 Proximity switch safety device .... 
+9.3.2 Emergency motor stop button at the drive unit* 
+9.3.3 Emergency shut-off switch (isolator switch) at the drive unit * ... 
+9.3.4 Emergency shut-off switch (isolator switch) at the docking station*.....0.0...000:. ccc 
+SETUP AND OPERATION ........::cssccreeeseseereenseneereeees eesestenerseraseseeseeces 101 
+970.1 Target QrOuUp oo... ec ce ececse ess eseeerastae sense see sineaetnieesiaeeeeeeeees letra 
+10.2 Daily work before start of operation .... 
+10.3. Running a measurement 
+10.3.1 General remarks..... 
+40.3.2 MGaSUreMeONt occ ce cneecnereeeeaeseeeneerssienecsenecseseeneraecatersesereeaseses 
+CLEANING. .......ccsccsesessesssssnsenseeeseenses eeu easeuseseuvaasensnrasanvannecnssoctereneeee TTD 
+11.1 Safety notes concerning cleaning 
+11.2 Cleaning after each test series 
+MAINTENANCE... ccsesestcensenneeeeesssesnrenesseeeeenseseneereenees veteeeseeneeeeere 2D 
+12.1 Safety notes concerning Maintenance... ee ee cece reteetee eee reeeeranensasensssaseeeeseaseetaseeseecieres 121 
+12.2 Maintenance intervals ooo... cc cece cece ee cee ree cenesenseerecresecesecrssceiensesusenensesesenseeneennnees 122 
+12.3 Gear oil CHANGE... cee cece cee cenececeeseeteensaceeeerseeneseneravenseeeesreneeceeeecstereatetedeaseneisieseraneasessieate 123 
+TROUBLE-SHOOTING .........eccstecseeeeeeeeeeseernseeeeeeeeens eenentavseneneeneeeeeeees 127 
+REPAIR.....:cccesseccesscessreccnensennenserssseeessscesessassacsanenececesseseassesensensesssaeee TOO 
+DISPOSAL ......ecccccseeesseerseceessneeessersseeeeeenes eaneeeeeeeenenneeensensenteresseeressnenes LOO 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 916 
+17 
+18 
+19 
+10 ACCESSORIES ........-..-sc-scscececeeeeeeeeeeeeeesceeceneeeaaueeseeseeeesessanensenneennaeens 
+16.1 Reordering instructions 
+16.2 List Of ACCESSOTIOS oo... ecceceseeenseceeseseceseeeeseeeseceecerceteseseeeeeeceesedeeseeaeaeneneaeecaeineetsneaenesneneoaes 
+SPARE PARTS. .....cccceccesseeeeseessceeeneeneneeesnasseeseessesensesensenneaeesanneneatenees 
+17.1 Ordering instructions 
+17.2 Spare parts list 0.0.0... cceccccecsesessesceecssecseescasesucecsesscasessesecssascaecececesseeaeseceecceeseaeeneeeesssenaeeneee 
+SUPPLEMENTARY MODULES, ADDITIONAL EQUIPMENT............ 141 
+18.1 Ordering instructions .........c cece ceccsseeecaeceeeseceeeeseeeescesseseeeceeceesaeecassaesseesaeseessevsetiseuseeeneesenss 141 
+18.2 List of supplementary MOdUIES ..0...0.... eee ee cee ee cetee este neee tens tetesteseeseesesasesnesanenesansneeteseniners 142 
+ANNEX... ceccectetee eee cnessnesenaneneeaeeeensneesseseeenoneeeeseesereseysesseessecsnneeaneaeeees 143 
+19.1 Electrical documents, wiring Giagrams............ eee e ec eee cece cet ee eee etree tae soneseeaesesaeaeseaniee 143 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)Read the manual thoroughly! 
+Strictly observe instructions and 
+safety instructions! 
+Keep and hand over 
+together with the instrument! 
+Keep instruction manual 
+accessible at any time! 1 GENERAL INFORMATION 
+1 GENERAL INFORMATION 
+1.1 Use of the instruction manual 
+Brabender® instruments/software are developed/designed and built 
+according to the state-of-the-art and comply with the demand for 
+simple and safe handling. In order to become familiar with the 
+applications and to use the Brabender® instrument/software in an 
+optimum way, it is imperative to study this instruction manual very 
+carefully before putting the Brabender® instrument into operation. 
+The instructions, safety instructions and precautions given in the 
+present instruction manual have to be observed strictly. 
+This instruction manual was supplied together with the Brabender® 
+instrument/software and is intended for operation in practice. It is to 
+make the operating personnel familiar with the Brabender® 
+instrument/software and to inform them about details concerning 
+transport, storage, mounting, start-up, operation, maintenance, 
+trouble-shooting, and disposal. 
+Maintenance and service instructions must be observed for reasons 
+of effective operational safety and a long lifetime of the Brabender® 
+instrument. 
+This instruction manual is, therefore, to be considered part of the 
+Brabender® instrument/software and must be kept and handed over 
+together with the instrument/software. 
+The operating personnel as well as the personnel in charge of 
+maintenance and repair must always have free access to this 
+instruction manual. 
+1.2 Disclaimer of liability 
+Within the scope of legal regulations, Brabender® GmbH & Co. KG 
+refuses any liability - for whatever legal argument - for direct or 
+indirect damage caused in connection with the delivery or use of the 
+Brabender® instrument/software. This is in particular true for - but not 
+limited to - improper use and/or improper operation and handling of 
+the Brabender® instrument/software. 
+In this context, Brabender® explicitly excludes any warranty for wear 
+parts, in particular for those with product contact. 
+Under no circumstances, Brabender® GmbH & Co. KG can be made 
+liable for any damage or injuries caused by non-observance of the 
+safety regulations included in the data sheets of the producer of 
+substances to be tested or processed with the Brabender® 
+instrument. This is also valid if a recommendation was made 
+concerning the application of certain substances and/or if the 
+provision of test material is part of the scope of supply and service. 
+The Brabender® instrument is subject to modifications of color and 
+design as well as to technical modification without prior notice. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 111 GENERAL INFORMATION 
+1.3 Software 
+The Brabender® software is developed with due care and is tested 
+internally - within the frame of general safety standards also for 
+computer virus. This does, however, not involve any warranty 
+whatsoever that the data carriers provided by Brabender® and/or 
+data transmitted electronically by Brabender® are virus free. 
+It is within the exclusive responsibility of the user to test the 
+Brabender® software by means of state-of-the-art virus searching 
+programs and to make sure that only Brabender® software is applied 
+which has been duly tested for computer virus by the user and has 
+been found virus free. 
+Any claims under material damage liability for functioning, 
+faultlessness, and usability of Brabender® software and/or for 
+Brabender® software being virus free are, therefore, excluded. 
+Our liability for any other damage arisen by the use of the 
+Brabender® software is limited to intent or gross negligence. Any 
+further liability - for whatever legal argument, in particular for direct or 
+indirect consequential damage - is excluded. 
+The software is subject to modification serving functional 
+improvement and technical progress without prior notice. 
+Due to continuous progress and development of the software, the 
+screen dumps included in the present instruction manual may slightly 
+differ from the software version supplied. 
+1.4 Scope of supply 
+The scope of supply is given in the shipping documents. 
+Any special tools required for mounting are listed in chapter 16 
+"Accessories". Apart from these, customary tools like screw-drivers, 
+etc, are required for mounting, cleaning, and maintenance. 
+4.5 Acquisition of components from external suppliers 
+Brabender® cannot guarantee that any components bought by the 
+carrier/user from external suppliers and incorporated into the system 
+without prior consultation of Brabender® will be recognized correctly 
+by the Brabender® software and will work properly within the system. 
+@ Brabender® urgently recommends contacting the Brabender® 
+Service dept. before installing such foreign components. 
+12 Conical twin screw extruder KDSE Mark III (counter-rotation)2 CONTACT 
+2 CONTACT 
+Data to be stated in case of inquiries 
+All data on the name plate e If there are any inquiries to Brabender® - e.g. relating to handling of 
+the Brabender® instrument/software, ordering of spare parts, 
+accessories, additional equipment or to sending back Brabender® 
+instruments or instrument parts for maintenance or repair - all data 
+given on the name plate must be stated. 
+@ Concerning the name plate, please refer to chapter 6.2.1. 
+Inquiries concerning software: e For questions concerning the Brabender® software, the ID no. of the 
+state ID no. and version no.! software and the version no. must be stated. 
+Contact 
+e For any questions, further information, or in case of problems with 
+the Brabender® instrument/software, please do not hesitate to 
+contact the Brabender® customer service/Service department. 
+Contact Contact: Brabender® GmbH & Co. KG 
+KulturstraBe 51 - 55 
+47055 Duisburg 
+Germany 
+@ Phone -49-203-7788-0 
+&@ E-mail: service@brabender.com 
+North American Regions 
+Contact: C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+6 E-mail: service@cwbrabender.com 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 132 CONTACT 
+14 Conical twin screw extruder KDSE Mark II (counter-rotation)3. STYLISTIC FEATURES 
+3 STYLISTIC FEATURES 
+3.1 General stylistic features 
+The following stylistic features are used in the instruction manual: 
+* marks optional or additional equipment 
+(4) marks instructions for actions to be taken in their serial order 
+> [indented] marks individual steps of a preceding general 
+instruction 
+> [indented] marks the consequences of a preceding action 
+> [in safety messages] marks instructions for actions to be taken 
+@ marks lists or (in instructions) alternatives 
+- [indented] marks subordinated lists 
+3.2 Mandatory signs 
+The following mandatory signs are used in the instruction manual: 
+@ General mandatory sign, additional information 
+@ Read the instructions before, cross reference 
+3.3 Hazard warning signs 
+The following hazard warning signs are used in the instruction manual: 
+General warning sign 
+Danger overhead load 
+Hot surface 
+Rotating parts - entanglement hazard! Keep hands, loose clothing, 
+and long hair away from moving parts 
+Entanglement - rotating parts 
+Danger machine starts automatically 
+Danger electricity, electric shock 
+PPPP PRPPRP 
+Harmful or irritant materials 
+Conical twin screw extruder KDSE Mark III {counter-rotation) 153 STYLISTIC FEATURES 
+Signal word, signal color 
+Plasti-Corder® Lab-Station 
+16 Plasti-Corder® Lab-Station/ 
+Plasti-Corder® Lab-Station EC 3.4 Design of safety messages 
+The safety messages given in the instruction manual are marked by a 
+hazard warning sign and a signal word. 
+The signal word and the associated signal color indicate the relative 
+degree of the hazard: 
+DANGER 
+Describes an imminently hazardous situation which, if not 
+avoided, will result in death or serious injury. 
+Describes a potentially hazardous situation which, if not 
+avoided, could result in death or serious injury 
+Describes a potentially hazardous situation which, if not 
+avoided, may result in minor or moderate injury. 
+NOTICE 
+Describes a situation which, if not avoided, may result in 
+property damage. 
+3.5 Definitions 
+In order to facilitate reading, the notion "Plasti-Corder® Lab-Station" 
+stands for both "Plasti-Corder® Lab-Station” and "Plasti-Corder® Lab- 
+Station EC" in the following because the steps for mounting the conical 
+twin screw extruder KDSE and the corresponding docking station* as well 
+as operation of both instruments are mostly identical. 
+Conical twin screw extruder KDSE Mark III (counter-rotation)4 SAFETY 
+NEVER operate the instrument 
+with explosives! 
+Do not undertake any 
+unauthorized modifications! 
+No sudden and rigid 
+speed changes! 4 SAFETY 
+4.1 Intended use 
+Intended use 
+¢ The Brabender® conical twin screw extruder KDSE may only be used 
+in non-hazardous locations when having been completely assembled. 
+¢ The Brabender® conical twin screw extruder KDSE may only be used 
+in combination with Brabender® drive units* type Plastograph® EC 
+Plus* or Plasti-Corder® Lab-Station* (year of mounting 2008 or later). 
+¢ For operation with a Brabender® Plasti-Corder® Lab-Station* (year of 
+mounting 2008 or later), the Brabender® conical twin screw extruder 
+KDSE must be mounted onto a suitable Brabender® docking station’. 
+@ The Brabender® conical twin screw extruder KDSE may only be used 
+within the limits stated in chapter 7 “Technical Data" and only for 
+testing or processing non-explosive and non-inflammable plastic or 
+plastifiable materials. 
+e Brabender® measuring instruments are high-precision instruments 
+with a highly sensitive measuring system. Always handle the 
+instrument with due care in order to avoid damage to the instrument 
+and to the measuring system. 
+Improper application 
+e The Brabender® conical twin screw extruder KDSE must NEVER be 
+used for testing of or in connection with explosives - explosion 
+hazard! 
+¢ Unauthorized modifications of the Brabender® conical twin screw 
+extruder KDSE may cause danger for the personnel or property 
+damage and, moreover, result in loss of guarantee and are, 
+therefore, forbidden. 
+e Sudden and rigid speed changes may cause damage to or even 
+destruction of the machine and are, therefore, forbidden. 
+4.2 Target group 
+Mounting, modification, disposal 
+e@ Mounting, modification, and disposal of the Brabender® conical twin 
+screw extruder KDSE may only be carried out by technically skilled 
+personnel with the corresponding qualification. 
+e Electric work is only allowed to be carried out by skilled electricians. 
+Conical twin screw extruder KDSE Mark III {counter-rotation) 174 SAFETY 
+18 Operation, cleaning, maintenance 
+Routine operation, cleaning during routine operation, and maintenance 
+of the Brabender® conical twin screw extruder KDSE may be carried 
+out by unskilled personnel. 
+However, the personnel in charge of operation, cleaning, and 
+maintenance of the Brabender® conical twin screw extruder KDSE 
+must have been instructed by a skilled person. 
+The persons in charge of operation, cleaning, and maintenance of 
+the Brabender® conical twin screw extruder KDSE must have the 
+technical and computer skills enabling them to carry out the work 
+described in chapters 10 "Set-up and operation", 11 “Cleaning”, and 12 
+"Maintenance" safely and without any risk for themselves or others. 
+Repair 
+Repair work at the Brabender® conical twin screw extruder KDSE is 
+only allowed to be executed by Brabender® service technicians or by 
+skilled personnel authorized for this work by Brabender® 
+4.3 Carrier duties 
+The carrier of the Brabender® conical twin screw extruder KDSE has 
+to make sure that mounting, operation, maintenance of the instrument 
+as well as repair and disposal, if applicable, are carried out 
+exclusively by the personnel defined in chapter 4.2 "Target group". 
+The carrier of the Brabender® conical twin screw extruder KDSE has 
+to furnish proof of training of the personnel in charge of operation, 
+cleaning, and maintenance of the Brabender® conical twin screw 
+extruder KDSE. 
+Prior to instrument set-up, the carrier of the Brabender® conical twin 
+screw extruder KDSE has to make sure of the proper condition, 
+assembly, and mounting of the instrument according to the 
+instructions given in chapter 8 "Mounting". 
+The carrier of the Brabender® conical twin screw extruder KDSE has 
+to make sure that the operating personnel, prior to testing and 
+processing any test material with the Brabender® conical twin screw 
+extruder KDSE, read and understood the instruction manual of the 
+Brabender® conical twin screw extruder KDSE as well as the safety 
+data sheets of the respective producer of the test materia! and will 
+observe them. 
+The measures listed in the respective safety data sheets of the 
+producer of the test material for avoiding any possible danger when 
+handling the corresponding material must strictly be observed. 
+Conical twin screw extruder KDSE Mark III (counter-rotation)4 SAFETY 
+4.4 Protective devices 
+4.4.1 Emergency motor stop button at the drive unit* 
+4.4.1.1 Position of the emergency motor stop button 
+© — The drive unit of the conical twin screw extruder KDSE (Plastograph® EC 
+Plus* or Plasti-Corder® Lab-Station*) is equipped with an emergency motor 
+stop button which immediately stops the drive motor upon actuation. 
+e@ The emergency motor stop button is located on the top surface of the 
+drive unit* above the control panel of the controller (see figs. below). 
+a) When the emergency motor stop button has been activated 
+(pressed down), a red indicator lamp will light on top of the 
+emergency motor stop button. 
+The emergency motor stop button does NOT switch off the 
+heating/cooling system! 
+Danger of burning even after actuation of the emergency motor 
+stop button! 
+> Strictly observe the safety messages concerning hot surfaces 
+in chapter 4.5.2! 
+The emergency motor stop button helps to avoid potentially 
+hazardous situations. 
+Never bridge the emergency motor stop button! 
+> Never lock the emergency motor stop button mechanically! 
+> Always keep the emergency motor stop button visible and 
+easily accessible! 
+Emergency motor stop 
+button 
+Emergency motor stop 
+button 
+emi aie y 
+Fig. 4-2: Emergency motor stop button at the Plasti-Corder® Lab-Station* 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 194 SAFETY 
+4.4.1.2 Procedure after actuation of the emergency motor stop button 
+Risk of injury, risk of property damage! 
+Before restarting the system upon actuation of the emergency 
+motor stop button 
+> Make sure that the cause for the actuation of the emergency 
+motor stop button has been eliminated. 
+> Make sure that there is no risk for the personal or for the 
+machine when restarting the system! 
+Pull up the emergency motor stop button. 
+6 & 
+Press the "Start" button ® at the control and display unit of the 
+drive unit* in order to switch on the drive* again. 
+= The Brabender® conical twin screw extruder KDSE 
+immediately starts rotating with the speed set last in the 
+software ("Remote” mode) or at the potentiometer of the 
+drive unit* ("Local" mode). 
+20 Conical twin screw extruder KDSE Mark III (counter-rotation)4 SAFETY 
+4.4.2 Emergency shut-off switch (isolator switch) 
+4.4.2.1 Position of the emergency shut-off switch (isolator switch) 
+© ~The drive unit of the conical twin screw extruder KDSE (Plastograph® 
+EC Plus* or Plasti-Corder® Lab-Station*) is equipped with an 
+emergency shut-off switch (isolator switch). 
+The docking station* (only with Plasti-Corder® Lab-Station*) is 
+Position “}" Position "0" equipped with an emergency shut-off switch (isolator switch) of its 
+ON OFF own at the front side. 
+Fig. 4-3: Emergency shut-off @ Operation witha Plasti-Corder® Lab-Station*: 
+switch (isolator switch) The emergency shut-off switch at the Plasti-Corder® Lab-Station* 
+immediately cuts off power supply to the drive unit’, i.e. 
+- the drive motor stops 
+- heating continues 
+The emergency shut-off switch at the docking station* immediately 
+cuts off power supply to the docking station* (temperature controller) 
+and, via a safety relay, to the motor of the drive unit*, i.e. 
+- the drive motor stops 
+- heating stops 
+© Operation with a Plastograph® EC Plus*: 
+The emergency shut-off_switch at the Plastograph® EC Plus* 
+immediately cuts off power to the entire system, i.e. 
+- the drive motor stops 
+- heating stops 
+The conical twin screw extruder KDSE still remains hot even after 
+having switched off heating/cooling by actuation of the emergency 
+shut-off switch! 
+Danger of burning even after actuation of the emergency shut-off 
+switch! 
+> Strictly observe the safety messages concerning hot surfaces 
+in chapter 4.5.21 
+The emergency motor stop button helps to avoid potentially 
+hazardous situations. 
+Never bridge the emergency motor stop button! 
+Never fock the emergency motor stop button mechanically! 
+Always keep the emergency motor stop button visible and 
+easily accessible! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 214 SAFETY 
+4.4.2.2 Procedure after actuation of the emergency shut-off switch 
+Risk of injury, risk of property damage! 
+Before restarting the system upon actuation of the emergency 
+shut-off switch 
+> Make sure that the cause for the actuation of the emergency 
+shut-off switch has been eliminated. 
+> Make sure that there is no risk for the personal or for the 
+machine when restarting the system! 
+2 If the Brabender® conical twin screw extruder KDSE is controlled 
+through the software, i.e. in "Remote" mode, switching-off of the 
+machine by means of one of the two isolator switches causes a 
+software alarm which needs to be acknowledged (similar to the 
+fig. below). 
+SSS calttz 
+A Alara, Temperature controtir missing <4 > 
+= Fig. 4-4 
+As, however, the drive unit* and the temperature controller in 
+the docking station*, respectively, has been removed from the 
+CAN bus by switching off, this alarm will be given every 5 s. 
+NOTICE 
+Risk of property damage! 
+Frequent switching on and off of the mains may damage the 
+cutting-in electronics of the Brabender® drive unit’. 
+Frequent actuation of the emergency shut-off switch leads to 
+automatic high-impedance disconnection of the drive unit* from the 
+mains. In this case, switching on is possible only after a rest time 
+of several minutes. 
+> Actuate the emergency shut-off switch in case of necessity only! 
+> Do not actuate the emergency shut-off switch in intervals 
+shorter than every 120 s. 
+In order to register a CAN module that has been switched off with 
+the CAN bus again, a new test must be started so that the CAN bus 
+is scanned anew - risk of loss of data! 
+> Actuate the emergency shut-off switch in case of necessity only! 
+> If possible, do not actuate the emergency shut-off switch 
+during a running test. 
+22 Conical twin screw extruder KDSE Mark Ill (counter-rotation)4 SAFETY 
+Acknowledge the software alarm. 
+Click the button in the WinExt software* in order to stop 
+the test. 
+=> The acoustic alarm stops. 
+Turn the emergency shut-off switch clockwise to position "I" again. 
+Wait until the frequency inverter of the drive unit* has initialized. 
+fay 
+Press the "Start" button “= at the control and display unit of the 
+drive unit* in order to switch on the drive* again. © @ec ce 
+If conical twin screw extruder KDSE is operated in a CAN bus 
+system and controlled through the WinExt software*: 
+& For starting the conical twin screw extruder KDSE in 
+"Remote" mode through the WinExt software*, please 
+also refer to chapter 10.3 "Measurement". 
+> Click the button in the main window of the WinExt 
+program* or select the menu "File" - "New". 
+> If applicable, answer the question whether you want to save 
+the last test. 
+= The CAN bus is scanned anew and the conical twin 
+screw extruder KDSE will be recognized again. 
+=> On the monitor*, the "Test Parameter’ window opens 
+with the test parameters and (on the "Equipment" tab) 
+with the test equipment of the previous test with all 
+CAN modules recognized. 
+> Enter the nominal temperatures of the individual control 
+zones once again in the WinExt software*. 
+Proceed as described in chapter 10.3 "Measurement" 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) - 234 SAFETY 
+4.4.3 Safety device 
+e On the right side, seen in processing direction, the processing unit of 
+the conical twin screw extruder KDSE is connected via a magnetic 
+proximity safety switch with the gear backstand (see fig. below). 
+Magnetic proximity safety switth ~_ 
+(the counterpart is mounted 
+under the gear cover hood) 
+Fig. 4-5 
+e This safety device triggers the control unit of the drive unit* via a 
+safety relay and prevents unintentional operation of the system when 
+the processing unit has been drawn off. 
+Danger of most serious injury by the rotating screws* when the 
+processing unit of the conical twin screw extruder KDSE has been 
+drawn off. 
+The magnetic proximity safety switch prevents operation of the 
+instrument system when the processing unit of the conical twin 
+screw extruder KDSE has been drawn off. 
+> Never bridge the magnetic proximity safety switch or put it 
+out of function in any other way! 
+> Operation of the conical twin screw extruder KDSE without 
+the magnetic proximity safety switch being mounted 
+correctly and working properly is not permitted 
+e The safety switch is connected to the control unit of the drive unit* 
+via the safety plug (see figs. below) coming out on the left side from 
+under the gear cover hood (seen in processing direction). 
+Safety plug —~ 
+connected to the socket 
+"Safety Device" 
+Safety plug 
+connected to the 
+socket 
+"Safety Device" 
+Fig. 4-6: Connection of the safety device Fig. 4-7: Connection of the safety device 
+at the Plastograph® EC Plus* at the docking station* 
+a 
+24 Conical twin screw extruder KDSE Mark III (counter-rotation)4 SAFETY 
+® The drive unit can only be started if the processing unit has been 
+pushed against the gear backstand all the way to the stop so that the 
+contact is closed, and if the safety plug has been connected to the 
+corresponding socket at the Plastograph® EC Plus” or at the docking 
+station* (see Fig. 4-6 and Fig. 4-7). 
+e As soon as the contact is interrupted by drawing off the processing 
+unit or by disconnecting the safety plug, the drive unit* is stopped 
+immediately by the inverter. 
+4.4.4 Automatic instrument recognition and torque limitation 
+@ The conical twin screw extruder KDSE is equipped with automatic 
+instrument recognition and torque limitation. For this purpose, the 8-pole 
+cable coming out on the right side (seen in processing direction) from 
+under the gear cover hood of the conical twin screw extruder KDSE 
+must be connected to the socket "Torque limit key” in the left top 
+corner of the control side of the drive unit Plasti-Corder® Lab-Station* 
+or Plastograph® EC Plus* 
+Socket "Torque 
+limit key" 
+Socket “Torque 
+limit key" 
+Fig. 4-8: Socket "Torque limit key" at the Fig. 4-9: Socket "Torque limit key" at 
+Plastograph’ EC Plus* the Plasti-Corder® Lab-Station* 
+e@ The drive unit* now automatically recognizes the conical twin screw 
+extruder KDSE connected and the corresponding maximum 
+admissible torque (200 Nm). 
+@ When the maximum admissible torque (200 Nm) is exceeded, the 
+speed of the conical twin screw extruder KDSE is reduced 
+automatically through the WinExt software* so as to keep the torque 
+on the max. permissible value. 
+e The WinExt software* also reduces the feed rate of any feeders* 
+connected correspondingly. 
+& Please also refer to the separate instruction manual of the 
+WinExt software*. 
+e As soon as the torque has fallen below the max. permissible value 
+again, the WinExt software* slowly increases the speed in consideration 
+of the current torque up to the preset nominal value again. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 254 SAFETY 
+26 4.4.5 Bursting pin 
+¢ The Brabender® conical twin screw extruder KDSE is designed for a 
+max. pressure of 700 bars at the screw tip. 
+e — In order to avoid risks for the operating personnel and the risk of damage 
+to the machine due to excessive pressure, the conical twin screw 
+extruder KDSE is equipped with a bursting pin in the threaded ring. 
+e The bursting pin is designed for a bursting pressure of 700 bars 
+at 150°C. 
+e® As soon as the pressure at the screw tip exceeds 700 bars, a 
+membrane within the bursting pin will burst, allowing immediate 
+pressure release. 
+Danger of injury, risk of property damage! 
+When the bursting pin fails, hot product and, possibly, hot steam, 
+gas, or liquid may emerge under high pressure through the 
+bursting pin until the pressure at the screw tips has released! 
+Danger of severe burning, danger of chemical burn, eye injuries, or 
+respiratory complications, and risk of damage to or destruction of 
+machine parts and/or of machines nearby by hot material spurting 
+out through the bursting pin! 
+> Never hold any part of your body directly in front of the 
+bursting pin or look directly into the bursting pin! 
+> Only use genuine Brabender® bursting pins (ID no. 4 30 308, 
+see chapter 17 "Spare parts! 
+When operating the conical twin screw extruder KDSE without 
+bursting pin, impermissibly high pressure may build up at the screw 
+tips! 
+Risk of damage to the gear bearings of the conical twin screw 
+extruder KDSE; the die head* may be blown off! 
+Danger of most serious injuries, risk of property damage by machine 
+parts being blown off and by hot melt spurting from the machine! 
+> Never operate the Brabender® conical twin screw extruder 
+KDSE without a properly mounted bursting pin! 
+> Once activated, IMMEDIATELY replace the bursting pin by a 
+new one! 
+Conical twin screw extruder KDSE Mark If (counter-rotation)4 SAFETY 
+Danger of injury, risk of property damage! 
+Improper mounting of the bursting pin causes risk of injury by 
+spurting or dropping hot melt! 
+The bursting pin must show downwards! 
+The bursting pin must NOT show towards the control side! 
+The bursting pin must NOT show upwards! 
+iControl side 
+Bursting pin (ID no. 4 30 308) Fig. 4-10: Bursting pin 
+4.4.6 Protective cover sheet over the hot processing unit 
+e A protective cover sheet is mounted over the hot processing unit of 
+the conical twin screw extruder KDSE. 
+e This protective cover sheet prevents direct touching of the hot 
+heating shells of the processing unit. 
+When the processing unit is not covered, the hot heating shells of 
+the processing unit are bare! 
+Danger of most severe burning! 
+> Never operate the Brabender® conical twin screw extruder 
+KDSE without the protective cover sheet being mounted 
+properly over the processing unit! 
+Protective cover hood over the Protective cover over the 
+processing unit SI screw shaft coupling 
+Fig. 4-11 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 274 SAFETY 
+4.4.7 Protective cover over the screw shaft coupling 
+A protective cover sheet is mounted over the screw shaft coupling of 
+the Brabender® conical twin screw extruder KDSE. 
+This protective cover sheet over the screw shaft coupling protects 
+the operating personnel from injuries at the rotating coupling 
+elements. 
+Rotating coupling elements are bare when the screw shaft 
+coupling is open! 
+Danger of injury, entanglement hazard! 
+> Never operate the Brabender® conical twin screw extruder 
+KDSE without the protective cover being mounted over the 
+screw shaft coupling! 
+4. 
+Feed hopper with protective grid 
+28 .4.8 Feed hopper on the feed opening 
+The scope of supply of the Brabender® conical twin screw extruder 
+KDSE comprises a feed hopper for feeding the product into the 
+conical twin screw extruder and preventing access to the rotating 
+screws* in the processing unit. 
+@ The feed hopper is usually disassembled for shipping and 
+needs to be mounted and fixed properly on the feed 
+opening of the machine prior to first start-up of the machine 
+(see chapter 8.5 “Mounting the feed hopper’). 
+The feed hopper is equipped with a protective grid inside the hopper 
+so as to prevent access to the rotating screws*. 
+When properly mounted, the feed hopper is a fixed guard which can 
+only be disassembled with tools. 
+Fig. 4-12 
+Conical twin screw extruder KDSE Mark III (counter-rotation)4 SAFETY 
+Risk of injury, risk of property damage! 
+If the feed opening is uncovered, the rotating screws* of the 
+conical twin screw extruder KDSE are bare. 
+Risk of severe injury, entanglement hazard! 
+When properly mounted and fixed, the feed hopper prevents 
+access to the rotating screws* within the processing unit. 
+> Operation of the Brabender® conical twin screw extruder 
+KDSE without the feed hopper (or any other feeder* which 
+safely prevents access onto the rotating screws*) being 
+mounted and secured properly is not permitted! 
+Never disassemble the protective grid in the feed hopper! 
+Never insert any spatula or other rigid objects into the feed 
+hopper while the screws* are rotating - risk of destruction of 
+the screws* and of the entire machine system! 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 294 SAFETY 
+4.5 Residual danger 
+4.5.1 Rotating screws* - Danger of crushing 
+When the feed opening of the conical twin screw extruder KDSE has not 
+been closed by the feed hopper or by any other feeder*, the rotating 
+screws” in the processing unit of the conical twin screw extruder KDSE 
+are no longer secured against access. 
+This may be the case, for example 
+e = during modification of the machine (change of feeder) 
+e — during cleaning 
+Risk of injury, risk of property damage! 
+If the feed opening is uncovered, the rotating screws* of the 
+conical twin screw extruder KDSE are bare. 
+Danger of most serious injury, entanglement hazard! 
+> Operation of the Brabender® conical twin screw extruder 
+KDSE is not permitted when the feed opening is open and 
+the screws”* are accessible! 
+Operation of the Brabender® conical twin screw extruder 
+KDSE is only permitted when the feed opening has been 
+closed properly by the feed hopper or by any other feeder’ 
+which safely prevents access onto the rotating screws* and 
+when access onto the rotating screws* is excluded! 
+30 Conical twin screw extruder KDSE Mark III (counter-rotation)4 SAFETY 
+4.5.2 Hot surfaces - Danger of burning 
+Due to the high processing temperatures required for many products to 
+be tested with the Brabender® conical twin screw extruder KDSE, the 
+entire machine system including further additional and downstream 
+equipment* may be very hot during operation. 
+During start-up, operation, and during cleaning and maintenance 
+work, the surfaces of the Brabender® conical twin screw extruder 
+KDSE and of all parts mounted thereto, including cooling air and 
+cooling water ducts, may reach temperatures of up to approx. 
+400°c. 
+Even after switching off of the system, these surfaces may still be 
+very hot for a long time. 
+Risk of severe burning! 
+> Never operate the Brabender® conical twin screw extruder 
+KDSE without the protective cover sheet being mounted 
+properly over the processing unit! 
+Always take care to keep a sufficient distance of unprotected 
+parts of your body to hot machine parts! 
+Always wear suitable protective gloves when working at the 
+machine! 
+Never splash water onto the hot surfaces of the machine 
+system! 
+Always take care to keep a sufficient distance of electric 
+cables to hot machine parts. 
+Place clear warning signs beside any hot parts in order to 
+avoid unintentional touching by third persons. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 314 SAFETY 
+32 4.5.3. Danger by emerging harmful or irritant vapor, gas, or liquid 
+Harmful or irritant vapor, gas, or liquids! 
+Danger of chemical burn, danger of eye injuries or respiratory 
+complications! 
+> Always wear suitable protective gloves and safety goggles 
+when working near to feed, discharge, or vent openings! 
+> Never look directly into feed, discharge, or vent openings 
+without suitable eye protection! 
+Always keep a sufficient distance of the respiratory organs 
+to any feed, discharge, or vent openings. 
+The carrier of the Brabender® conical twin screw extruder KDSE has 
+to make sure that the maintenance intervals given in chapter 12 
+“Maintenance” are strictly observed for all tubes and hoses as well 
+as for the corresponding connections and screw joints. 
+When exchanging defective tubes or hoses, the carrier of the 
+Brabender® conical twin screw extruder KDSE has to make sure that 
+only suitable tubes or hoses are applied which are in a perfect and 
+operationally safe condition and are certified to be suited for the 
+pressures to be expected. 
+The carrier of the Brabender® conical twin screw extruder KDSE has 
+to make sure that all openings provided for mounting additional 
+equipment at the Brabender® conical twin screw extruder KDSE are 
+closed - either by the corresponding additional equipment or by a 
+suitable closing plug. 
+The carrier of the Brabender® conical twin screw extruder KDSE has 
+to make sure that there are suitable fume hoods mounted above the 
+feed and discharge openings of the Brabender® conical twin screw 
+extruder KDSE for exhausting any harmful dust, gas, or vapor. 
+Only skilled personnel that has been informed about the possible 
+dangers before is allowed to work on feed, discharge, and vent 
+openings. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)4 SAFETY 
+4.5.4 Danger by electricity 
+a Current for the Brabender® conical twin screw extruder KDSE is 
+supplied via the drive unit Plastograph® EC Plus* and via the 
+docking station*, respectively. 
+e Do not expose the mains cable and the mains plug to humidity! 
+e Connect the drive unit* and the docking station’, if any, to a properly 
+installed mains socket with a protective earth contact (PE) only! 
+e Before connecting the drive unit* and the docking station’, if any, to 
+the mains, make sure that the line voltage and frequency match the 
+data given on the name plate of the docking station”! 
+@ See also the separate instruction manual of the 
+corresponding Brabender® drive unit* and docking station* 
+if any! 
+e Always pull the mains cable at the plug, never pull it at the cable 
+Conical twin screw extruder KDSE Mark III (counter-rotation} 334 SAFETY 
+34 Conical twin screw extruder KDSE Mark Ill (counter-rotation)5 TRANSPORT AND STORAGE 
+5 TRANSPORT AND STORAGE 
+5.1 Packing 
+Packing of the instrument, accessories, and additional equipment 
+¢ Brabender® instruments are packed properly and professionally into 
+wooden crates. 
+Small parts, accessories, and e Small parts and accessories are packed separately into cardboard 
+additional equipment may be boxes or bags contained in the crates. 
+packed in separate boxes or e Additional equipment is packed either in the same crate as the 
+instrument or in a separate crate, depending on the scope of the 
+order. crates 
+Shipping labels at the crate 
+# On the outside of the crate(s), there are the following labels which 
+must be observed by all means: 
+[44 | This side up! 
+[Y| Fragile, handle with care! 
+he Keep dry! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 355 TRANSPORT AND STORAGE 
+§.2 Unpacking 
+G) 
+@Q 
+cs) Upon arrival of the Brabender® instrument, the carrier of the 
+Brabender® instrument must inspect the shipping crate for any 
+outside damage. 
+If any damage is detected, notify the transport carrier immediately. 
+Please also refer to chapter 5.4 "Checking for and 
+Notification of damage". 
+Remove the cover of the crate(s). 
+NOTICE 
+Parts of the instrument may be damaged! 
+> When removing the lateral walls of the crate, take 
+care of braces and supports within the crate as well as 
+of bolt connections at the bottom of the crate, etc.! 
+Carefully remove the lateral walls of the crate. 
+Unpack the Brabender® instrument with due care. Take particular 
+care for small parts or accessories within the packing material. 
+@ Leave cover hoods and protective films at the Brabender® 
+instrument until mounting and commissioning, respectively. 
+Search the whole packing material very carefully. 
+@ Depending on the shipping way and on circumstances 
+which are beyond Brabender*'s influence, parts of the 
+Brabender® instrument may have loosened during 
+transport despite proper and professional packing and 
+may be hidden within the packing material. 
+Dispose the packing material in an ecologically friendly way in 
+compliance with the local regulations concerning disposal only 
+after the carrier of the Brabender® instrument has found the 
+scope of supply to be complete. 
+For checking the scope of supply, please refer to chapter 
+5.3 "Checking the scope of supply”. 
+36 Conical twin screw extruder KDSE Mark III (counter-rotation)5 TRANSPORT AND STORAGE 
+5.3 Checking the scope of supply 
+(1) The carrier of the Brabender® instrument must compare the 
+scope of supply with the shipping documents near in time to 
+arrival of the Brabender® instrument at the place of destination. 
+(2) lf there is any discrepancy, notify Brabender® GmbH & Co. KG 
+or in North America, C.W. Brabender® Instruments, Inc. 
+immediately in writing. 
+a Any claims of the carrier of the Brabender® instrument 
+for subsequent supply free of charge shall be excluded 
+if the carrier of the Brabender® instrument neglects to 
+state completeness of the scope of supply or states 
+incompleteness late. 
+5.4 Checking for and notification of damage 
+(4) Upon arrival of the Brabender® instrument, inspect the shipping 
+crate(s) for outside damage. 
+(2) Immediately upon unpacking and checking of the scope of supply, 
+check the Brabender® instrument as such for any signs of damage. 
+In case of damage, (3) In case of damage, notify the transport carrier immediately. 
+notify immediately: 
+© the transport carrier (4) Immediately send a copy of the notification of shipment damage, 
+© Brabender® GmbH & Co. KG stating also place and time of damage detection to Brabender® 
+or in North America GmbH &Co.KG or in North America, C.W. Brabender® 
+C.W. Brabende?® Instruments, Inc. Instruments, Inc. 
+@ If, in the order, the risks of carriage were agreed to be 
+taken by the buyer or by the receiver, the buyer or the 
+receiver has to observe the regulations of the 
+insurance policy. 
+@ If necessary, the average adjuster appointed by the 
+opposing partner of the rightful claimant must be given 
+the opportunity to inspect the shipmentthe 
+Brabender® instrument. 
+Risk of injury, risk of property damage by a defective instrument! 
+> Never mount or use a defective instrument! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 375 TRANSPORT AND STORAGE 
+5.5 Transport 
+DANGER 
+Danger of injury or death, risk of property damage by overhead load 
+and/or by the use of lifting devices with insufficient carrying capacity! 
+> Before lifting the Brabender® conical twin screw extruder KDSE, 
+make sure for sufficient carrying capacity of the lifting device! 
+When moving the instrument with an overhead crane by means of 
+ropes, chains, or belts: 
+> Do not stand underneath suspended loads! 
+> Only use ropes, chains, or belts with sufficient carrying capacity! 
+> Only use ropes, chains, or belts in safe operating condition! 
+> Fix the ropes, chains, or belts as near as possible to the 
+gravity center of the instrument! 
+When moving the instrument with a fork lift truck: 
+> Put on or mount the lifting device as near as possible to the 
+gravity center of the instrument! 
+> Do not stand underneath suspended loads! 
+Parts of the instrument may be damaged! 
+Take care for sensitive parts! > Fix lifting devices, ropes, chains, or belts so that no 
+sensitive parts of the instrument such as switches, 
+levers, etc. are damaged! 
+@ The conical twin screw extruder KDSE can be moved on the 
+mobile frame* or on the docking station* to the intended 
+mounting place. 
+(2) Move the unpacked instrument very carefully to the intended 
+mounting place. 
+NOTICE 
+The instrument or parts of it may be damaged by a hard 
+touchdown! 
+Avoid hard touchdowns! > Put down the instrument with utmost care! 
+———— 
+38 Conical twin screw extruder KDSE Mark III (counter-rotation)5 TRANSPORT AND STORAGE 
+5.6 Storage 
+NOTICE 
+Risk of property damage! 
+Residual product, in particular residues of aggressive products 
+like e.g. ceramics, distilled water, etc. may cause wear such as 
+abrasion and/or corrosion up to pitting within very short time. 
+Likewise, storage in humid or aggressive environment may cause 
+corrosion and, in extreme cases, pitting corrosion. 
+> Thoroughly clean and dry all machine parts before storage, in 
+particular those with product contact. 
+Particular care must be taken for clean and dry edges, 
+angles, and grooves. 
+Prior to storage, disassemble all parts with product contact 
+such as screws* etc. and thoroughly clean and dry them. 
+Apply a thin (!} film of machine oil (multi-purpose oil) on all 
+parts with product contact. 
+individual parts must be packed individually in protective nets. 
+Store the Brabender® instrument and all parts thereof in dry 
+rooms only. 
+Put the Brabender® instrument on a support which is at least 
+200 mm high in order to protect the instrument from ground 
+humidity. 
+> Arrange storage areas so that moisture can escape and 
+periodical inspections are possible. 
+Extreme temperature variations or long exposure to direct sun may 
+cause damage to the instrument or machine. 
+> Do not expose the Brabender® instrument or parts thereof to 
+extreme temperature variations or direct sun. 
+@ For details concerning the admissible limit values of ambient 
+temperature and humidity, please refer to chapter 7 "Technical 
+data™. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 395 TRANSPORT AND STORAGE 
+40 Conical twin screw extruder KDSE Mark Ill (counter-rotation)Definition of "discharge side" 
+Definition of "clutch side" 6 COMPONENTS AND FUNCTIONAL FEATURES 
+6 COMPONENTS AND FUNCTIONAL FEATURES 
+6.1 General description 
+The Brabender® conical twin screw extruder KDSE is a measuring 
+head heated electrically and driven by a Brabender® Plastograph® 
+EC Plus* or by a Brabender® Plasti-Corder® Lab-Station*. 
+For operation with the Plasti-Corder® Lab-Station*, the conical twin 
+screw extruder KDSE must be mounted and connected to the 
+corresponding Brabender® docking station* and the docking station* 
+must be locked at the Plasti-Corder® Lab-Station*. 
+For operation with the Plastograph® EC Plus*, the conical twin screw 
+extruder KDSE must be mounted on the mobile frame*. 
+Gh If the docking station* or the mobile frame” is included in 
+the scope of supply, the conical twin screw extruder KDSE 
+has, usually, been mounted in factory on the docking 
+station* or mobile frame*. 
+The scope of supply of the Brabender® conical twin screw extruder 
+KDSE comprises: 
+- a feed hopper 
+- a safety bursting pin 700 bars/150°C 
+- 4 control thermocouples for temperature control of the zones of 
+the conical twin screw extruder KDSE 
+The following components need to be ordered separately: 
+-  screws* 
+- die head* 
+- drive unit* 
+- docking station* (for operation with a Plasti-Corder® Lab-Station*) 
+or 
+mobile frame* (for operation with a Plastograph® EC Plus*) 
+- computer* and peripheral units* (the configuration software 
+CANfig* and the measuring and evaluation software WinExt* for 
+all current Windows® versions are included in the scope of supply 
+of the drive unit*) 
+- further software programs* (e.g. WinExt data correlation program) 
+- further supplementary modules, e.g. feeders*, conveyor belt*, 
+pelletizer* 
+g The side of the Brabender® conical twin screw extruder KDSE 
+with the threaded ring for connecting a die head* is referred to 
+as "discharge side" in the following. 
+The side opposite to the discharge side with the clutch for 
+connection to the drive unit* is referred to as "clutch side" in 
+the following. 
+Conical twin screw extruder KDSE Mark Il (counter-rotation) 416 COMPONENTS AND FUNCTIONAL FEATURES 
+Instrument name 
+ID no. 
+Admissible mains frequency 
+Admissible voltage 
+Electric drawing no. 6.2 Product labels 
+6.2.1 Name plate 
+The name plate of the Brabender® conical twin screw extruder KDSE 
+contains the following information: 
+" Brabender® GmbH & C Manufacturer's name 
+0. KG i Kulturstr. 51-55 D-47055 Duisburg = German and address 
+@ Phone:-49-203-7788-0 B Fax:-49-203-7788-100 : 
+——P product [KDSE Mark I sonal aie 
+—Model [14607] SIN YoM [20144 are power. ing 
+Sava ee ee Rated power —pDiagram g3a607e000-00] [ids 
+Fig. 6-1: Name plate (example) 
+6.2.2. Further product labels 
+checked Signification: 
+Brabender} Siqnification: 
+Tested to verily electrical safety 
+accorded to 
+EN 60204-1:2006/41:2009 
+by. 
+Date 
+Position: 
+Signification: 
+( Position: 
+caution hot 
+Signification: 
+Signification: 
+BF Instrument was checked in the 
+Brabender® workshop 
+Instrument was checked for electrical 
+safety in the Brabender® workshop 
+[etched] 
+On the top surface of the protective 
+cover sheet over the processing unit 
+of the conical twin screw extruder 
+KDSE 
+Risk of injury at the rotating screws* 
+[etched] 
+On the top surface of the protective 
+cover sheet over the processing unit 
+of the conical twin screw extruder 
+KDSE 
+Danger of burning at the hot surfaces 
+of the Brabender® conical twin screw 
+extruder KDSE 
+Read instruction manual before 
+starting the Brabender® instrument! 
+42 Conica! twin screw extruder KDSE Mark Ill (counter-rotation)6 COMPONENTS AND FUNCTIONAL FEATURES 
+Protective cover sheet over the 
+processing unit 6.3. Main components 
+6.3.1 General description, measuring principle 
+Fold-down rails Pa The Brabender® conical twin screw extruder KDSE is a measuring 
+head with electric heating connected via a spiral tooth gear clutch to 
+and driven by a Brabender® Plastograph® EC Plus* or a Brabender® 
+Plasti-Corder® Lab-Station*. 
+The Brabender® conical twin screw extruder KDSE consists of the 
+following main components: 
+- processing unit with barrel, feed hopper, screws*, heating shells, 
+and threaded ring for connecting various die heads* 
+- gear unit with clutch 
+- mobile frame* or docking station* (depending on the drive unit*) 
+The conical twin screw extruder KDSE is used in laboratories and 
+simulation for testing the extrusion behavior of products which are 
+processed mainly in twin screw extruders in production as well. The 
+KDSE stands out for special process technical advantages: 
+- good intake behavior in particular with voluminous bulk goods 
+due to the enlarged channel volume in the feed zone 
+- quick compression in the feed zone through decreasing channel 
+volume 
+- quick pressure build-up and rapid fusion with high circumferential 
+speeds within this functional zone 
+- short processing length 
+- transmission of high torques due to good space conditions in the 
+bearing area 
+The product is molten within the hot processing unit, homogenized, 
+and conveyed by the screws* to the dies* on the discharge side. 
+During this process, various parameters can be measured and 
+recorded for subsequent evaluation. 
+The measuring data are displayed during the running test on the 
+monitor* of the computer* and can be stored and printed on a 
+connected printer”. 
+Feed hopper 
+Gear unit and clutch (under 
+the gear cover hood) 
+Processing unit 
+Mobile and pivotable 
+support 
+Docking station” 
+Fig. 6-2 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 436 COMPONENTS AND FUNCTIONAL FEATURES 
+6.3.2 Processing unit 
+e The barrel is made of highly wear resistant steel. The bore is nitrided. 
+® The processing unit is heated by three electric heater bands. The 
+temperature of the individual heating zones is recorded by control 
+thermocouples and controlled and displayed by electronic 
+temperature controllers in the Plastograph® EC Plus* or in the docking 
+station’. 
+Cooling is done with compressed air controlled and supplied by 
+cooling air solenoid valves in the Plastograph® EC Plus* or in the 
+docking station”. 
+The feed zone of the conical twin screw extruder KDSE is cooled with 
+water. 
+e The cooling air flanges are located on the right side of the conical 
+twin screw extruder KDSE, seen in processing direction. 
+Measuring bores for 
+pressure transducers* 
+or melt temperature 
+thermocouples* Heater band cables 
+Bayonet nipple for 
+control thermocouple 
+Cooling air flanges for 
+control zones Fig. 6-3 
+e The cooling water flanges for feed zone cooling are located at the left 
+bottom of the feed zone, seen in processing direction. 
+Gear cooling flanges 
+(air/water) 
+Cooling water flanges 
+for feed zone 
+Fig. 6-4 
+@ The processing unit has got a top vent opening which is closed with 
+a vent plug in the standard version for operation without venting (see 
+Fig. 6-3). 
+44 Conical twin screw extruder KDSE Mark Ill (counter-rotation)6 COMPONENTS AND FUNCTIONAL FEATURES 
+e On the discharge side, there is an adapter with a threaded ring for 
+connecting various die heads*. The die adapter is a separate heating 
+zone with a heater band (400 W) of its own. 
+In the standard version, the die adapter has got two threaded bores 
+¥%" * 20 UNF opposite each other for taking the bursting pin (bottom 
+bore) and a pressure transducer or melt temperature thermocouple* 
+(top bore) and another bayonet nipple for taking the control 
+thermocouple. 
+Heater band —————_ Threaded bore 
+%" * 20 UNF for 
+pressure transducer* 
+or melt temperature 
+thermocouple* 
+Bayonet nipple for 
+control thermocouple 
+Bursting pin —— Fig. 6-5 
+e The processing unit is mounted on a mobile and pivotable support 
+which can be moved along the rails of the mobile frame or of the 
+docking station*. For cleaning purposes, the processing unit can be 
+disassembled from the gear unit* and turned on the support (see fig. 
+below). 
+Fig. 6-6 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 456 COMPONENTS AND FUNCTIONAL FEATURES 
+Feed hopper with protective grid 
+46 6.3.3 Screws* 
+The screws for the Brabender® conical twin screw extruder KDSE 
+are made of highly wear resistant steel. The screw flights are 
+hardened. 
+The screws” counter-rotate (towards each other). 
+a) Various screws* are available for the Brabender® conical 
+twin screw extruder KDSE. The screws* must be ordered 
+separately. 
+6.3.4 Feed hopper 
+The feed hopper, which is included in the scope of supply of the 
+conical twin screw extruder KDSE, serves for feeding the product 
+into the feed zone of the conical twin screw extruder KDSE and, at 
+the same time, for preventing access to the rotating screws* in the 
+processing unit. 
+@ The feed hopper is usually disassembled for shipping and 
+needs to be mounted and fixed properly on the feed 
+opening of the machine prior to first start-up of the machine 
+(see chapter 8.5 "Mounting the feed hopper’). 
+The feed hopper is equipped with a fixed protective grid in order to 
+prevent access to the rotating screws*. 
+The feed hopper* has a capacity of approx. 1.5 |. 
+Alternatively, other feeders* are available, e.g. a single-screw 
+feeder* or a dosing chute*. 
+Fig. 6-7 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)6 COMPONENTS AND FUNCTIONAL FEATURES 
+6.4 Connections 
+6.4.1 Electric connections of the safety devices 
+6.4.1.1 Connection of the proximity safety switch 
+The 12-pole cable of the proximity safety switch of the conical twin screw extruder KDSE, coming out on the left side (seen in processing direction) from under the gear cover hood, must be connected to the socket “Safety Device” on the control side of the Plastograph® EC Plus* or on top of the docking station* (see figs. below). 
+The conical twin screw extruder KDSE can only be operated if the cable of the proximity safety switch is connected properly to the corresponding socket. 
+Safety plug ~ 
+in the socket 
+"Safety Device” 
+Safety plug 
+in the socket X "Safety Device” w ~ 
+Fig. 6-8: Connection of the Proximity safety Fig. 6-9: Connection of the proximity safety switch Switch at the Plastograph® EC Plus* at the docking station* 
+6.4.1.2 Connection of the automatic instrument recognition and 
+torque limitation 
+* The 8-pole cabie of the automatic instrument recognition and torque limitation of the conical twin screw extruder KDSE, coming out on the right side (seen in processing direction) from under the gear cover hood, must be connected to the socket "Torque limit key" on the left top of the control side of the drive unit* (Plasti-Corder® Lab-Station* 
+or Plastograph® EC Plus’. 
+The conical twin screw extruder KDSE can only be 
+Operated if the cable of the automatic instrument 
+recognition and torque limitation is connected properly to 
+the corresponding socket. 
+: ——— Socket "Torque limit key" 
+‘—_ | at the Plastograph® EC Plus* 
+Fig. 6-10 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 476 COMPONENTS AND FUNCTIONAL FEATURES 
+6.4.2 Heating/cooling connections 
+6.4.2.1 Bayonet nipples for control thermocouples 
+e On the underside of the processing unit, there are the bayonet 
+nipples for the control thermocouples of the three heating/cooling 
+zones of the conical twin screw extruder KDSE (see fig. below). The 
+control thermocouples (accessory) need to be mounted into the 
+bayonet nipples and connected to the corresponding sockets at the 
+terminal board of the Plastograph® EC Plus’ or docking station* 
+o ; 
+Bayonet nipples 
+for control thermocouples Fig. 6-11 
+@ For connection of the control thermocouples and heater bands, 
+please refer to chapter 8.10.2 and to the corresponding 
+chapters in the separate instruction manual of the 
+Plastograph® EC Plus* or of the docking station*. 
+e Any further heating zones (e.g. a measuring ring*, a die head*) also 
+have to be connected to the corresponding sockets at the terminal 
+board of the Plastograph® EC Plus® or docking station* 
+6.4.2.2 Heater band cables 
+e On the right side of the conical twin screw extruder KDSE (seen in 
+processing direction), there are the fixed heater band cables of the 
+three heating zones which need to be connected with the 
+corresponding sockets at the terminal board of the Plastograph® EC 
+Plus* or docking station*. 
+Heater band cables 
+48 Conical twin screw extruder KDSE Mark lil (counter-rotation)6 COMPONENTS AND FUNCTIONAL FEATURES 
+6.4.2.3. Cooling air connections at the control zones 
+e The cooling air flanges for the three heating/cooling zones of the 
+conical twin screw extruder KDSE are located on the right side of the 
+conical twin screw extruder KDSE, seen in processing direction. 
+Cooling air flanges 
+for the heating/cooling zones 
+Cooling air flanges 
+zone no. 2 and 3 
+Fig. 6-13 
+In case of using water for cooling the heating/cooling zones of the 
+conical twin screw extruder KDSE, steam may develop under high 
+pressure due to the high temperatures within the barrel! 
+The cooling pipes may be damaged or may burst! 
+Danger of severe injuries, risk of property damage by hot steam 
+suddenly emerging! 
+> Only connect air to the control zones of the conical twin 
+screw extruder KDSE! 
+> NEVER use water as a cooling agent for the controf zones of 
+the conical twin screw extruder KDSE! 
+Conical twin screw extruder KDSE Mark III {counter-rotation)} 496 COMPONENTS AND FUNCTIONAL FEATURES 
+50 6.4.2.4 Gear cooling connections 
+e The gear cooling flanges are located on the left side of the gear 
+housing of the conical twin screw extruder KDSE, seen in processing 
+direction. 
+@ For gear cooling, water_or air can be connected to the gear 
+cooling flanges. 
+The gear unit should be cooled only in case of necessity, i.e. 
+in case of processing temperatures of about 200°C or more. 
+e Water cooling: 
+Connect cooling water (0.2 - 0.5 min approx. 12 - 30 I/h) from the 
+water or cooling water network as follows in order to avoid air 
+bubbles in the cooling pipes: 
+Supply: bottom flange 
+Discharge: top flange 
+e Air cooling: 
+For gear cooling with air, no special flow direction is required. 
+Connect cooling air from the compressed air network (oil-free air, 
+approx. 0.5 - 1.5 bars). 
+NOTICE 
+Risk of property damage! 
+Extremely low cooling water or cooling air temperature may cause 
+condensate formation in the gear unit and in the feed zone. 
+in case of extremely low gear temperatures, cold transmission may 
+cool down the screws* in the feed zone so that the time for reaching 
+stationary conditions may be rather long. 
+The gear oil viscosity may increase in case of very low 
+temperatures. This may cause problems with gear lubrication and, 
+in extreme cases, cause damage to the bearings in the gear unit. 
+> Only use cooling water or cooling air from the normal 
+water/cooling water or compressed air net for gear cooling! 
+> Do not use a cold air generator or similar apparatus! 
+Gear cooling flanges 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)6 COMPONENTS AND FUNCTIONAL FEATURES 
+6.4.2.5 Cooling water flanges at the feed zone 
+* The cooling water flanges for feed zone cooling are located on the 
+left side, seen in processing direction, at the bottom of the feed zone 
+(see fig. below). 
+® Connect cooling water (0.2 - 0.5 l/min & approx. 12 - 30 I/h) from the 
+water or cooling water network as follows in order to avoid air 
+bubbles in the cooling pipes: 
+Supply: bottom flange 
+Discharge: top flange 
+Cooling water flanges ; 
+for feed zone cooling = 
+Discharge 
+Supply 
+6.4.3 Mains connection 
+Power to the Brabender® conical twin screw extruder KDSE is supplied 
+via the drive unit Plastograph® EC Plus* and via the docking station*, 
+respectively. 
+@ Before connecting the conical twin screw extruder KDSE to the 
+drive unit*, make sure that the drive unit* and the docking 
+station’, if applicable, have been connected properly to the 
+mains as described in the respective separate instruction 
+manuals. 
+Conical twin screw extruder KDSE Mark il! (counter-rotation) 516 COMPONENTS AND FUNCTIONAL FEATURES 
+52 Conical twin screw extruder KDSE Mark Ill (counter-rotation)7 TECHNICAL DATA 
+7 TECHNICAL DATA 
+Processing unit Barrel bores: 2, each with 
+@ 32 mm (gear) /@ 20 mm (discharge) 
+Barrel length: 358 mm 
+Material: nitrided steel, hardened 
+Feed opening: 
+| Cooling media: 
+@ Barrel control zones round, @ 35 mm 
+air (never use water!) 
+e Feed zone water 
+|° Gear unit (if required) water or air 
+Cooling water flanges: - @ 44.5mm 
+[ Cooling air flanges: @11.5mm a 
+Electric heating/cooling zones: 3 - 
+| Heating power: 
+e Zone no. 1 
+@ Zoneno. 2 
+e Zoneno. 3 
+e Zone no. 4 (threaded ring) 1900 W, air cooling 
+1000 W, air cooling 
+1200 W, air cooling 
+400 W 
+| Rated voltage of zones: 240 V (410 %), 50/60 Hz 
+| Operating pressure: 
+Operating temperature: 700 bars max. 
+400°C max. (short-time 450°C) 
+up to approx. 5 kg/h, depending on 
+highly wear resistant special steel, 
+chrome plated, flights hardened Throughput: 
+the product 
+| 
+Screws* Number: 2 
+Material: 
+Diameter: 31.1 mm (gear) / 19.6 mm (discharge) 
+Max. screw speed: 150 rpm 
+Drive power: 7 kW at max. screw speed 
+f 
+Max. screw torque: 300 Nm per screw shaft 
+Gear unit Nominal torque: 200 Nm 
+Transmission: 1:1 
+Drive speed: | 150 rpm max. 
+Oil content | approx. 0.3 | (= half full) 
+| Type of oil 7 ISO VG 220 
+Current supply Mains connection: | 1*230V, 50/60 Hz+N+PE,32A 
+Conical twin screw extruder KDSE Mark lil (counter-rotation) (supply from drive unit* or docking 
+station*) 
+537 TECHNICAL DATA 
+Dimensions and weight Dimensions (L * H * W) 
+@ KDSE with feed hopper on | approx. 1100 mm * 1600 mm * 670 mm 
+mobile frame": 
+© KDSE with feed hopper on approx. 1100 mm * 1600 mm * 600 mm 
+docking station’: 
+Weight 
+@ KDSE with mobile frame’: approx. 75 kg 
+@ KDSE with docking station*: | approx. 170 kg 
+Environmental conditions |e Storage: 
+Temperature - 25°C -+ 55°C 
+Relative humidity 5-95 % 
+e Operation: 
+Temperature + 5°C-+45°C 
+Relative humidity 5-95% 
+7.1 Noise measurement 
+Noise measurement was made under normal operating conditions within 
+the speed range of the Brabender® conical twin screw extruder KDSE at 
+a distance of approximately 1 m and at a height of approximately 1.6 m. 
+The equivalent continuous sound pressure level measured is 
+Leg < 70 dB(A) 
+54 Conical twin screw extruder KDSE Mark Ill (counter-rotation)8 MOUNTING 
+8 MOUNTING 
+8.1 Safety notes concerning mounting 
+Risk of injury, risk of property damage! 
+Risk of damage to or destruction of the screws* when suddenly 
+starting during mounting when the drive unit* is on! 
+Risk of burning and risk of damage to the heaters by uncontrolled 
+heating of the conical twin screw extruder KDSE when it is alive 
+during mounting. 
+> Always pull the mains plug of the drive unit* and of the 
+docking station* before mounting the conical twin screw 
+extruder KDSE to the drive unit*! 
+Never mount the conical twin screw extruder KDSE to a live 
+drive unit* or to a live docking station*! 
+Danger of injury, risk of property damage! 
+Improper mounting of the instrument involves the danger of injury 
+for the personnel and the risk of damage to the instrument. 
+> All mounting work at the Brabender® conical twin screw 
+extruder KDSE may only be carried out with due care by 
+technically skilled personnel! 
+Danger of injury, risk of property damage due to falling load and/or 
+due to wrong posture when moving the instrument with one or 
+several persons. 
+> Always wear protective shoes with protecting caps when 
+moving the conical twin screw extruder KDSE! 
+> Take care for a straight and upright posture when lifting and 
+carrying the conical twin screw extruder KDSE! 
+Lift the instrument with two persons (one on every side) onto 
+a suitable carriage, onto the mobile frame”, or onto the docking 
+station* in order to move it to the desired piace of mounting. 
+Do not carry the conical twin screw extruder KDSE over long 
+distances! 
+@ For a definition of the target group for mounting and the required 
+skills, please refer to chapter 4.2. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 558 MOUNTING 
+8.2 Requirements to the place of mounting 
+G) 
+@ 
+) OC 
+Supply data (8) Mount the Brabender® instrument in a closed room where it is 
+protected from weather factors. 
+Do not mount the Brabender® instrument in the vicinity of heat 
+sources (heating, presses, etc.). 
+The intended base for mounting the instrument must be 
+@ even and plane 
+e clean 
+e@ strong enough to carry the instrument 
+Make sure that the Brabender® instrument is protected against 
+vibration (take care that the instrument is stable!). 
+The connection and adaptation points for power supply to the 
+instrument must be as near as possible to the mounting place of 
+the instrument. 
+@ The Brabender® conical twin screw extruder KDSE is 
+connected as a measuring head to a Brabender® 
+Plastograph® EC Plus* or Plasti-Corder® Lab-Station*. 
+The heating energy required is provided by the 
+temperature control unit of the drive unit Plastograph® 
+EC Plus* or by the docking station*. 
+Requirements: 
+e Electric energy: 230 V + PE, 50/60 Hz, 32 A 
+no separate mains connection of the 
+conical twin screw extruder KDSE 
+required, power supply via the 
+Plastograph” EC Plus* or via the 
+docking station* 
+e Compressed air: 0.5 - 1.5 bars, max. 2 bars, oil-free 
+for cooling the barre! zones 
+(connection to central compressed 
+air flange at the Plastograph® EC Plus* 
+or docking station*) 
+e Water: tap water, 0.5 I/min 
+for feed zone cooling 
+56 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.3 Mechanical mounting of the KDSE to the Plastograph® 
+EC Plus* 
+8.3.1 Mounting the conical twin screw extruder KDSE on the mobile 
+frame* 
+@ If the mobile frame* is included in the scope of supply, the 
+conical twin screw extruder KDSE usually has been mounted on 
+the mobile frame” in factory. 
+If not, please observe the warnings and instructions below! 
+Risk of injury, risk of property damage! 
+For mounting the conical twin screw extruder KDSE on the mobile 
+frame*, several parts of the mobile frame* and of the conical twin 
+screw extruder KDSE must be disassembled which, later on, need 
+to be reassembled and adjusted precisely to each other in order to 
+ensure proper and safe function of all parts. 
+> Mounting of the conical twin screw extruder KDSE on the 
+mobile frame* should, therefore, be done by a Brabender® 
+service technician only. 
+If the rails are not locked properly, they may suddenly fold down 
+so that the conical twin screw extruder KDSE mounted thereupon 
+can slide out of the rails and fall down. 
+lf the conical twin screw extruder KDSE has not been mounted 
+properly, it may tilt up and/or slide out of the rails and fall down. 
+Risk of serious injuries by the falling conical twin screw extruder 
+KDSE, risk of damage to or destruction of the conical twin screw 
+extruder KDSE! 
+> Prior to mounting the conical twin screw extruder KDSE to 
+the Plastograph® EC Plus*, make sure by afl means that the 
+two fold-down parts of the rails are horizontal and are 
+properly locked in this position! 
+Make sure that the mobile and pivotable support of the 
+conical twin screw extruder KDSE runs safely within the 
+channels of the rails and cannot tilt up. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 578 MOUNTING 
+@) Draw the locking bolts of the two front parts of the rails and fold 
+down the two front parts of the rails. 
+Unscrew the two M8 
+fillister head screws 
+Locking bolt 
+Disassemble this plate 
+Fold-down frent part of the rail 
+Fig. 8-1 
+(2) Unscrew the two M8 fillister head screws at the plates of the two 
+fold-down parts of the rails and take off the plates (see fig. 
+above). 
+Remove the two caps from the rear cross rail of the mobile and 
+pivotable support of the conical twin screw extruder KDSE. 
+_— Be : 
+Cap 
+Fig. 8-2 
+(4) Adjust the sliding blocks on both sides within the mobile and 
+pivotable support of the conical twin screw extruder KDSE so 
+that the guide screws have got sufficient clearance for moving 
+and are approximately centered to the wheel of the conical twin 
+screw extruder KDSE (see following fig., view from below). 
+@ The sliding blocks can be re-ordered under the ID no. 
+2 55 047.001. 
+Guide screw in the sliding block 
+Fig. 8-3 
+58 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+The conical twin screw extruder KDSE is very heavy and may 
+overturn! 
+Danger of severe injury, danger of damage to the conical twin screw 
+extruder KDSE when the conical twin screw extruder KDSE 
+overturns or falls down. 
+> Always hold and secure the conical twin screw extruder 
+KDSE with two persons as long as it has not yet been fixed 
+tightly on the mobile frame*! 
+(5) Carefully insert the mobile and pivotable support of the conical 
+twin screw extruder KDSE from the die discharge side into the 
+rails of the mobile frame* so that the guide screws of the sliding 
+blocks fit into the grooves of the rails (see fig. below). 
+a7 If the guide screws drag within the groove, slightly 
+grind off the heads of the guide screws. 
+Guide screw in the gro0Ve ==... 
+of the rail 
+vas. Sar a i Fig. 8-4 
+Remount the caps onto the cross rails of the mobile and 
+pivotable support. 
+Remount the two plates to the front parts of the rails and fix 
+them with the two M68 fillister head screws. 
+Fold up the two front parts of the rails until the locking bolts on 
+both sides engage. 
+(2) Make sure that the fold-down parts of the rails are properly 
+locked. 
+Conical twin screw extruder KDSE Mark Ifl (counter-rotation)} 598 MOUNTING 
+60 8.3.2. Mounting the conical twin screw extruder KDSE to the 
+Y 
+) 
+Gs) 
+( 
+Coupling sleeve Plastograph® EC Plus* 
+Make sure that the isolator switch of the Plastograph® EC Plus* 
+is in position "0". 
+Make sure that the mounting surface of the Plastograph® EC Plus* 
+is clean and free from any tools or residues. 
+If the cover hood is still on the motor shaft of the Plastograph® 
+EC Plus’, remove the cover hood. 
+Open the knurled screws on the two stud bolts on the mounting 
+surface of the Plastograph® EC Plus* by turning them counter- 
+clockwise until they are in line with the top surface of the stud bolts. 
+If the coupling sleeve* (accessory of the Plastograph® EC Plus*) 
+has not yet been mounted onto the clutch half of the Plastograph® 
+EC Plus*, push it onto the clutch half of the Plastograph® EC 
+Plus* 
+Fig. 8-5 
+Push the conical twin screw extruder KDSE on the mobile 
+frame* towards the Plastograph® EC Plus* so that the base 
+plate of the conical twin screw extruder KDSE sits down on the 
+mounting surface of the Plastograph® EC Plus* and the clutch 
+halves of the conical twin screw extruder KDSE and of the 
+Plastograph® EC Plus* are axially in line. 
+Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+If required, the height of the conical twin screw extruder KDSE 
+can be adjusted by a few millimeters by means of the forcing 
+screws at the gear unit (see fig. below). 
+Forcing screw 
+Fixing screw 
+: Fig. 8-6 
+> Loosen the fixing screws on both sides of the conical twin 
+screw extruder KDSE. Vv Turn in or out the forcing screws on both sides as required. Vv Retighten the two fixing screws. 
+> Put a bubble level on the top of the processing unit of the 
+conical twin screw extruder KDSE in order to check whether 
+the processing unit is exactly horizontal. 
+> If necessary, adjust the height adjusting screw under the 
+processing unit (see fig. below) until the processing unit 
+stands exactly horizontally. 
+Height adjusting screw Fig. 8-7 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 61: MOUNTING 
+Fixing screw 
+62 Push the conical twin screw extruder KDSE towards the 
+Plastograph® EC Plus” all the way to the stop so that the stud 
+bolts on the mounting surface of the Plastograph® EC Plus* fit into 
+the recesses of the base plate of the conical twin screw extruder 
+KDSE (see fig. below). 
+Ge If necessary, slightly turn the clutch of the conical twin 
+screw extruder KDSE by hand until it fits into the 
+coupling sleeve”. 
+Q If the conical twin screw extruder KDSE cannot be 
+approached far enough towards the Plastograph® EC 
+Plus* because it has been mounted too far towards 
+the front side on the mobile frame”: 
+> Loosen the fixing screws on both sides of the 
+conical twin screw extruder KDSE (see fig. below). 
+> Approach the conical twin screw extruder KDSE 
+to the Plastograph® EC Plus* all the way to the 
+stop. 
+> Retighten the fixing screws on both sides of the 
+Die conical twin screw extruder KDSE. 
+Stud bolt 
+with knurled screw 
+Fig. 8-8 
+(2) Tighten the knurled screws on the stud bolts by hand. 
+Firmly tighten the knurled screws on the stud bolts using the 
+cam wrench from the accessory kit. 
+The conical twin screw extruder KDSE is very heavy and may 
+overturn! 
+Danger of injury, danger of damage to the conical twin screw 
+extruder KDSE when the conical twin screw extruder KDSE 
+overturns or falls down. 
+> Before releasing the conical twin screw extruder KDSE, 
+carefully check whether it is fixed securely at the drive unit* 
+and cannot tip over! 
+Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.4 Mechanical mounting of the KDSE to the Plasti-Corder® 
+Lab-Station 
+8.4.1 Mounting the conical twin screw extruder KDSE onto the docking 
+station* 
+G If the docking station* is included in the scope of supply, the 
+conical twin screw extruder KDSE usually has been mounted on 
+the docking station’ in factory. 
+If not, please observe the warnings and instructions below! 
+Risk of injury, risk of property damage! 
+For mounting the conical twin screw extruder KDSE on the 
+docking station*, several parts of the docking station* and of the 
+conical twin screw extruder KDSE must be disassembled which, 
+later on, need to be reassembled and adjusted precisely to each 
+other in order to ensure proper and safe function of all parts. 
+> Mounting of the conical twin screw extruder KDSE on the 
+docking station* should, therefore, be done by a Brabender® 
+service technician only. 
+If the rails are not locked properly, they may suddenly fold down 
+so that the conical twin screw extruder KDSE mounted thereupon 
+can slide out of the rails and fall down. 
+If the conical twin screw extruder KDSE has not been mounted 
+properly, it may tilt up and/or slide out of the rails and fall down. 
+Risk of serious injuries by the falling conical twin screw extruder 
+KDSE, risk of damage to or destruction of the conical twin screw 
+extruder KDSE! 
+> Prior to mounting the conical twin screw extruder KDSE, 
+make sure by all means that the two fold-down parts of the 
+rails are horizontal and are properly locked in this position! 
+Make sure that the mobile and pivotable support of the 
+conical twin screw extruder KDSE runs safely within the 
+channels of the rails and cannot tilt up. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 638 
+64 MOUNTING 
+Stud bolts with knurled nuts 
+in the rear threaded bores 
+Locking bolt 
+Disassemble this plate Z GO 
+Ceo 
+@ For mounting the conical twin screw extruder KDSE, the two 
+stud bolts on the mounting surface of the docking station* must 
+be screwed into the threaded bores on the rear side. 
+If the two stud bolts with the knurled nuts are still screwed into 
+the two threaded bores looking towards the front side (the side 
+with the isolator switch), unscrew the stud bolts and screw them 
+into the rear bores (see fig. below). 
+— Mounting surface eo 
+a 
+Fig. 8-9 
+Make sure that the isolator switch on the front side of the 
+Brabender® docking station* is in position "0". 
+fsolator switch 
+Fig. 8-10 
+{f the docking station* has already been mounted and connected 
+to the Plasti-Corder® Lab-Station*, make sure that the isolator 
+switch of the Plasti-Corder® Lab-Station* is in position "0" as well. 
+Make sure that the mounting surface of the docking station’ is 
+clean and free from any tools or residues. 
+Open the knurled nuts on the two stud bolts on the mounting 
+surface of the docking station* by turning them counter-clockwise 
+until they are in line with the top surface of the stud bolts. 
+Draw the locking bolts of the two front parts of the rails and fold 
+down the two front parts of the rails. 
+Fold-down front part of the raif 
+Fig. 8-11 
+Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+Unscrew the two M8 fillister head screws at the plates of the two 
+fold-down parts of the rails and take off the plates (see fig. 
+above). 
+Remove the two caps from the rear cross rail of the mobile and 
+pivotable support of the conical twin screw extruder KDSE. 
+> *§— 
+Cap 
+Fig. 8-12 
+(2) Adjust the sliding blocks on both sides within the mobile and 
+pivotable support of the conical twin screw extruder KDSE so 
+that the guide screws have got sufficient clearance for moving 
+and are approximately centered to the wheel of the conical twin 
+screw extruder KDSE (see fig. below, view from below). 
+a The sliding blocks can be re-ordered under the ID no. 
+2 55 047.001. 
+Guide screw in the sliding block = Se 
+Fig. 8-13 
+The conical twin screw extruder KDSE is very heavy and may 
+overturn! 
+Danger of severe injury, danger of damage to the conical twin screw 
+extruder KDSE when the conical twin screw extruder KDSE 
+overturns or falls down. 
+> Always hold and secure the conical twin screw extruder 
+KDSE with two persons as long as it has not yet been fixed 
+tightly to the docking station*! 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 658 MOUNTING 
+66 Carefully insert the mobile and pivotable support of the conical 
+twin screw extruder KDSE from the die discharge side into the 
+rails of the docking station* so that the guide screws of the 
+sliding blocks fit into the grooves of the rails (see fig. below). 
+G If the guide screws drag within the groove, slightly 
+grind off the heads of the guide screws. 
+Guide screw in the groove 
+of the rail 
+ya” 
+Remount the caps onto the cross rails of the mobile and 
+pivotable support. Fig. 8-14 
+GC Push the conical twin screw extruder KDSE towards the rear 
+side so that the stud bolts on the mounting surface of the 
+docking station* fit completely into the recesses of the base 
+plate of the conical twin screw extruder KDSE. 
+Fig. 8-15 
+Tighten the knurled nuts on the stud bolts by hand. Ce Firmly tighten the knurled nuts on the stud bolts using the cam 
+wrench from the accessory kit of the docking station* 
+The conical twin screw extruder KDSE is very heavy and may overturn! 
+Danger of injury, danger of damage to the conical twin screw 
+extruder KDSE when the conical twin screw extruder KDSE 
+overturns or falls down. 
+> Before releasing the conical twin screw extruder KDSE, 
+carefully check whether it is fixed securely on the docking 
+station* and cannot tip over! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)8 MOUNTING 
+Carefully check whether the conical twin screw extruder KDSE 
+is fixed securely on the docking station* and cannot tip over. 
+Release the conical twin screw extruder KDSE. SC @ 
+Remount the two plates to the front parts of the rails and fix 
+them with the two M68 fillister head screws. 
+Fold up the two front parts of the rails until the locking bolts on 
+both sides engage. 
+Make sure that the fold-down parts of the rails are properly 
+locked. 
+8.4.2 Cooling water/cooling air connections 
+If the conical twin screw extruder KDSE mounted on the docking 
+station* is to be preheated before being mounted to the 
+Brabender® Plasti-Corder® Lab-Station*, connect cooling water 
+and cooling air already now. 
+Otherwise, connect cooling water and cooling air only after 
+having mounted the docking station* to the Plasti-Corder® Lab- 
+Station’ in order to prevent damage to or tearing off of the hoses 
+when moving the docking station*. 
+@ For cooling water and cooling air connection at the 
+conical twin screw extruder KDSE, please refer to 
+chapters 8.10.4 "Cooling connections” 
+Conical twin screw extruder KDSE Mark ill (counter-rotation) 878 
+68 MOUNTING 
+8.4.3 Mounting the docking station* with the KDSE to the Plasti-Corder® 
+Lab-Station* 
+) Make sure that the Plasti-Corder® Lab-Station* has been leveled 
+horizontally. 
+@ For leveling the Plasti-Corder® Lab-Station*, please 
+tefer to the separate instruction manual of the Plasti- 
+Corder® Lab-Station*. C) Make sure that the isolator switch on the rear side of the Plasti- 
+Corder® Lab-Station’ is in position “O". 
+(3) Make sure that the isolator switch at the docking station” is in 
+position "0". 
+If the locking wheel (front view: on the left side of the Plasti- 
+Corder® Lab-Station*) is in "Locked" position, open it as follows: c 
+[i 
+Position "Locked" Position "Open" Fig. 8-16 
+> Tilt the cylindrical handle out of the locking wheel (see fig. 
+below, "1"). 
+> Take the cylindrical handle and turn the locking wheel 
+clockwise by 180° to "Open" position (see fig. below, "2"). 
+Locking wheel 
+Cylindrical handle 
+Fig. 8-17 
+> Draw out the cylindrical handle and tilt it back into the 
+locking wheel. 
+(5) Push the coupling sleeve" (accessory of the Piasti-Corder® Lab- 
+Station*) onto the clutch of the Plasti-Corder® Lab-Station* 
+Coupling sleeve* 
+Fig. 8-18 
+Conical twin screw extruder KDSE Mark Il! (counter-rotation)8 MOUNTING 
+Push the docking station* with conical twin screw extruder KDSE 
+mounted towards the Plasti-Corder® Lab-Station* so that the 
+locking bolts of the docking station* fit into the location holes of the 
+Plasti-Corder® Lab-Station* and the coupling sleeve* completely 
+embraces the clutch of the conical twin screw extruder KDSE. 
+qt If necessary, slightly turn the clutch of the conical twin 
+screw extruder KDSE by hand until it fits into the 
+coupling sleeve*. 
+If the locking bolts are not leveled with the location holes of the 
+Plasti-Corder® Lab-Station*, adjust the height and level the 
+docking station* correspondingly by means of the adjustable feet. 
+@ For leveling the docking station*, please refer to the 
+separate instruction manual of the docking station*). 
+Push the docking station* with conical twin screw extruder KDSE 
+towards the Plasti-Corder® Lab-Station* all the way to the stop. 
+(2) Lock the docking station" at the Plasti-Corder® Lab-Station*: 
+> Tilt the cylindrical handle out of the locking wheel (see fig. 
+below, "1"). 
+> Take the cylindrical handle and turn the locking wheel 
+counterclockwise by 180° to "Locked" position ("2"). 
+— Cylindrical handle 
+Locking wheel 
+Fig. 8-19 
+> Draw out the cylindrical handle (see fig. below, "1") and tilt it 
+back into the locking wheel ("2"). 
+Cylindrical handle 
+Fig. 8-20 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 698 MOUNTING 
+8.5 Mounting the feed hopper 
+The feed hopper of the conical twin screw extruder KDSE is 
+disassembled for shipping purposes and is included separately 
+in the scope of supply. Before first start-up of the machine, the 
+feed hopper must be mounted onto the feed opening of the 
+conical twin screw extruder KDSE. 
+Risk of injury, risk of property damage! 
+If the feed opening is uncovered, the rotating screws* of the 
+conical twin screw extruder KDSE are bare. 
+Risk of severe injury, entanglement hazard! 
+When properly mounted and fixed, the feed hopper prevents 
+access to the rotating screws* within the processing unit. 
+> 
+Feed hopper with protective grid 
+Clamping ring Prior to initial start-up of the Brabender® conical twin screw 
+extruder KDSE, mount the feed hopper onto the feed opening 
+of the conical twin screw extruder KDSE! 
+Operation of the conical twin screw extruder KDSE without 
+the feed hopper (or any other feeder* which safely prevents 
+access onto the rotating screws*) being mounted and 
+secured properly is not permitted! 
+Never disassemble the protective grid in the feed hopper! 
+Loosen the Allen screw at the clamping ring of the feed hopper. 
+a Do not unscrew the screw completely. 
+Put the feed hopper onto the feed throat of the conical twin 
+screw extruder KDSE and press it down. 
+Retighten the Allen screw at the clamping ring of the feed hopper. 
+Allen screw 
+at the clamping ring 
+Fig. 8-21 
+70 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.6 Mounting the die head* 
+@ For mounting the die head*, please also refer to the separate 
+instruction manual of the respective die head* 
+() Lubricate the threaded ring of the conical twin screw extruder 
+KDSE with copper paste. 
+Prior to mounting the die head*, make sure that the 
+sealing surfaces are perfectly clean (see red areas in 
+the fig. below)! 
+Ring nut of the die head* 
+Sealing surface at the KDSE, 
+insert copper sealing ring here 
+Sealing surface at the die head* 
+Fig. 8-22 
+Copper sealing rings can be (2) Put a copper sealing ring (ID no. 2 14 106) from the discharge 
+ordered from Brabender®: side onto the sealing surface of the conical twin screw extruder 
+ID no. 2.14 106 KDSE (see fig. above, detail on the right). 
+The copper sealing ring protects the sealing surfaces 
+of the conical twin screw extruder KDSE and of the die 
+head* from damage when the die head* is being 
+tightened. 
+The copper sealing ring can be used several times. It 
+should, however, be taken out with the bronze spatula 
+and replaced by a new one due to the increasing vault 
+of the copper sealing ring in regular time intervals (once 
+per months in case of everyday use of the conical twin 
+screw extruder KDSE). 
+(3) Mount the die head* and tighten the ring nut manually at the 
+threaded ring of the conical twin screw extruder KDSE. 
+@ The ring nut is tightened firmly only after the entire 
+system has reached full operating temperature. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) — 718 MOUNTING 
+72 Bayonet nipple 
+Bayonet nipples 
+for control thermocouples 8.7 Mounting the control thermocouples 
+o 
+eS) 
+© The control thermocouples of the three heating/cooling zones of 
+the conical twin screw extruder KDSE are included separately in 
+the scope of supply and must be mounted into the 
+corresponding bayonet nipples on the underside of the 
+processing unit (see fig. below) prior to first start-up. 
+Fig. 8-23 
+Insert the control thermocouples into the bayonet nipples on the 
+underside of the processing unit and lock them by pressing the 
+bayonet lock upwards and, at the same time, turning it clockwise. 
+a The spring of the control thermocouple must have a 
+slight tension when locked. 
+If applicable, mount any further control thermocouples” (e.g. of a 
+heating ring* or die head*) likewise into the corresponding 
+bayonet nipples of the respective module. 
+For connection of the control thermocouples and heater band 
+cables, please refer to chapter 8.10.2 "Melt temperature and 
+control thermocouples, heater band cables" 
+Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.8 Mounting of pressure transducer(s)* and melt 
+temperature thermocouple(s)* 
+Risk of injury, risk of property damage! 
+When mounting or disassembling measuring transducers* during 
+operation, hot product may spurt out under pressure through the 
+measuring bore - risk of serious burning, risk of damage to the 
+conical twin screw extruder KDSE and to nearby machines! 
+> Mounting or disassembly of measuring transducers* is only 
+permitted when the machine has been switched off and 
+depressurized! 
+Make sure that the drive unit* of the conical twin screw 
+extruder KDSE cannot be switched on by mistake! 
+Risk of injury, risk of property damage! 
+The membrane of the pressure transducer’ is just some 1/10 mm thick 
+and is very sensitive. Risk of damage to or destruction of the 
+membrane by rigid or pointed tools! 
+The transmission medium of the pressure transducer* is mercury! 
+if the membrane of the pressure transducer’ is damaged, little 
+amounts of mercury may emerge - risk of poisoning! 
+> Never touch the membrane of the pressure transducer* with 
+rigid or pointed objects! 
+> When the pressure transducer* has been disassembled, 
+always protect the membrane with the protective cap! 
+> Remove the protective cap only just before mounting the 
+pressure transducer’ into the conical twin screw extruder KDSE! 
+Risk of damage to the pressure transducer* when mounting it into a 
+contaminated measuring bore. When the pressure transducer* 
+protrudes into the screw barrel, it may be damaged by the screw*! 
+Make sure that the measuring bores are perfectly clean. 
+If necessary, clean the measuring bores with a suitable tool 
+{ident. no. 2 97 589). 
+Make sure that the pressure transducer* does not protrude into 
+the screw barrell! 
+Excessive tightening of the measuring transducers* may damage the 
+threads of the measuring transducers* and or the measuring bores. 
+> Only tighten the measuring transducers* after full heating up. 
+Always use a torque wrench for this purpose! 
+> Do not exceed the max. torque of 20 Nm! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 738 MOUNTING 
+The conical twin screw extruder KDSE has got three measuring bores 
+‘A * 20 UNF for mounting pressure transducers* or melt temperature 
+thermocouples’. 
+Measuring bores ¥2"* 20 UNF 
+for pressure transducers* or 
+melt temperature thermocouples* 
+Fig. 8-24 
+Mount the pressure transducers‘ and/or melt temperature 
+thermocouples* as follows into the measuring bores of the conical twin 
+screw extruder KDSE (laterally at the processing unit and at the top of the 
+threaded ring, see fig. above) and of the die head*. 
+G Brabender® urgently recommends mounting of a pressure 
+transducer into the top bore of the threaded ring in order to 
+monitor the melt pressure at the screw tips and to prevent 
+excessive pressure which might lead to failure of the bursting pin. 
+(YQ Use a 6 mm Allen screw in order to unscrew the closing bolts 
+from the corresponding measuring bores. 
+Unscrewing a lateral closing bolt 
+Fig. 8-25 
+Lubricate the thread of the measuring transducer* with copper paste. 
+Mount the measuring transducer(s)* into the corresponding 
+measuring bore(s). 
+Make sure the measuring transducer(s)* do not protrude into the barrel. 
+NOTICE 
+Risk of property damage! CO ce 
+Excessive tightening may damage the threads of the 
+measuring transducers* and of the measuring bores! 
+> In cold condition, only tighten the measuring 
+transducers* hand-tight! 
+> Only tighten the measuring transducers* after full 
+heating up. Always use a torque wrench! 
+Do not exceed the max. torque of 20 Nm! 
+74 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.9 Mounting a vent exhaust block* 
+Risk of injury, risk of property damage! 
+When disassembling the vent plug and mounting the vent exhaust 
+block* during operation, hot product may spurt out under pressure 
+through the vent dome- risk of serious burning, risk of damage to 
+the conical twin screw extruder KDSE and to nearby machines! 
+> Mounting or disassembly of the vent plug/vent exhaust block* 
+is only permitted when the machine has been switched off and 
+depressurized! 
+> Make sure that the drive unit* of the conical twin screw 
+extruder KDSE cannot be switched on by mistake! 
+When operating the conical twin screw extruder KDSE with a vent 
+exhaust block*, excessive melt pressure may cause the hot 
+product to rise in the vent dome and, in extreme cases, spurt out 
+under pressure - risk of serious burning, risk of damage to the 
+conical twin screw extruder KDSE and to nearby machines! 
+> Always be very careful when increasing the speed of the 
+conical twin screw extruder in venting mode! Take care that 
+no material rises through the vent dome! 
+Risk of injury, risk of property damage! 
+The edges of the vent plug and of the vent exhaust block* are very 
+fragile and very sharp - risk of injury, risk of damage to the edges 
+of these parts! 
+> Handle the vent plug and the vent exhaust block* with 
+utmost care in order to avoid injuries and damage to the 
+edges! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 758 MOUNTING 
+The conical twin screw extruder KDSE is shipped with the vent plugged. 
+For operating the machine in the venting mode, remove the vent plug 
+frorn the vent plug holder and mount the vent exhaust block instead. 
+Vent plug holder 
+Vent exhaust 
+block* 
+Vent plug 
+Fig. 8-26 
+(j Unscrew the closing plug from the corresponding measuring 
+bore (6 mm Allen key). 
+Unscrewing the lower 
+closing plug 
+(23 Disassemble the vent plug from the vent plug holder. 
+2) Mount the forcing screw into the vent plug holder. 
+@ The forcing screw must be mounted into the vent plug 
+holder before screw the vent exhaust block onto the 
+vent plug holder. 
+Ft 
+Forcing screw 
+Fig. 8-28 
+(4) Screw the vent exhaust block” with the four screws onto the 
+vent plug holder. 
+() lf desired, a vacuum pump” can be connected to the vent dome. 
+76 Conical twin screw extruder KDSE Mark Ill (counter-rotation)8 MOUNTING 
+8.10 Connections 
+8.10.1 Safety devices 
+Q) Connect the 12-pole cable of the proximity safety switch of the 
+conical twin screw extruder KDSE, coming out on the left side 
+(seen in processing direction) from under the gear cover hood, 
+to the socket "Safety Device" on the control side of the 
+Plastograph® EC Plus* and on top of the docking station’, 
+respectively (see figs. below). 
+@ See point marks on plug and socket! 
+& The conical twin screw extruder KDSE can only be 
+operated if the cable of the safety device is connected 
+properly to the corresponding socket. 
+Safety plug ~~ 
+in socket 
+"Safety Device" 
+Safety plug 
+in socket 
+"Safety Device" 
+Fig. 8-29: Connection of the safety device Fig. 8-30: Connection of the safety device 
+at the Plastograph® EC Plus* at the docking station* 
+2) Connect the 8-pole cable of the torque limitation coming out on the 
+terminal side from under the gear cover hood of the conical twin 
+screw extruder KDSE to the socket "Torque limit key" in the left 
+top corner of the control side of the drive unit* (Plastograph® EC 
+Plus* or Plasti-Corder® Lab-Station’). 
+@ See point marks on plug and socket! 
+= SS Socket “Torque limit key” 
+a at the Plastograph® EC Plus* 
+Fig. 8-31 
+& The conical twin screw extruder KDSE can only be 
+operated if the cable of the automatic torque limitation 
+is connected properly to the corresponding socket. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 778 MOUNTING 
+78 8.10.2 Melt temperature and control thermocouples, heater band cables 
+Danger of injury, risk of property damage! 
+Danger of burning, danger of damage to the heaters due to 
+uncontrolied heating of the conical twin screw extruder KDSE 
+when connecting the control thermocouples to a live controller. 
+> Make sure that the drive unit Plastograph® EC Plus* or the 
+docking station* has been switched off before connecting 
+the control thermocouples! 
+Strictly keep the following order: First connect the control 
+thermocouple to the temperature control unit; then connect 
+the heater band cable of the contro! zone to the control unit. 
+Thermocouples connected improperly or not at all may cause 
+overheating and, as a consequence, severe damage to the heaters! 
+> Thoroughly observe the serial order of the heating/cooling 
+zones when connecting the control thermocouples: 
+Zone no. 1 (1. zone behind the feed zone) > to "ZONE 1" 
+Zone no. 2 (medium zone of the KDSE) > to "ZONE 2" 
+Zone no. 3 (discharge zone of the KDSE) > to "ZONE 3" 
+Zone no. 4 (heater band of threaded ring 
+or 
+1. zone of the die head*) > to"ZONE 4" 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)8 MOUNTING 
+Q) Connection of the control thermocouples: 
+e Atthe Plastograph® EC Plus*: 
+Connect the cables of the control thermocouples according to 
+their position in the conical twin screw extruder KDSE, in 
+the heating ring* (if any), and in the die head* to the 
+corresponding rectangular sockets “Control Temperature” 
+no. 1 - 6 at the terminal board of the Plastograph® EC Plus* 
+(see fig. below). 
+a Sockets for control 
+thermocouples of 
+zones no. 1-6 
+Fig. 8-32 
+© Atthe docking station*: 
+Connect the cables of the control thermocouples according to 
+their position in the conical twin screw extruder KDSE, in 
+the heating ring* (if any), and in the die head* to the 
+corresponding rectangular sockets "Zone 1 - 6" at the 
+terminal board of the docking station* (see fig. below). 
+hy Sockets for contro! 
+thermocouples of 
+zones no. 1-3 hk. Sockets for control 
+thermocouples of 
+zones no 4-6 
+Fig. 8-33 
+(2) Make sure that all control thermocouples have been connected 
+properly. ‘eS Connection of the heater band cables: 
+¢ Atthe Plastograph® EC Plus*: 
+Connect the heater band cables according to their position in 
+the conical twin screw extruder KDSE, in the heating ring* 
+(if any), and in the die head* to the corresponding round 
+sockets "Control Temperature" no. 1 - 6 at the terminal board 
+of the Plastograph® EC Pius* (see fig. below). 
+® Sockets for heater 
+band cables of 
+zones no. 1-6 Sockets "Sfock Temperature” 
+for melt temperature 
+thermocouples 
+Fig. 8-34 
+Conical twin screw extruder KDSE Mark III (counter-rotation)} 79MOUNTING 
+e Atthe docking station*: 
+Connect the heater band cables according to their position in 
+the conical twin screw extruder KDSE, in the heating ring* 
+(if any), and in the die head* to the corresponding round 
+sockets "Zone 1 - 6" at the terminal board of the docking 
+station* (see fig. below). 
+ce) Sockets for heater band 
+cables of zones no. 1 - 3 on 
+© Sockets for heater 
+band cables of 
+zones no, 4-6 
+Sockets "Stock Temperature” 
+for melt temperature 
+thermocouples Fig. 8-35 
+3 Make sure that ail heater band cables have been connected 
+properly. C) Connect any melt temperature thermocouples according to their 
+position in the conical twin screw extruder KDSE, in the heating 
+ring* (if any), and in the die head* to the corresponding sockets 
+"Stock Temperature" at the terminal board of the Plastograph® EC 
+Plus* (see Fig. 8-34) or at the docking station* (see Fig. 8-35). 
+(®) Plug any free sockets "Control Temperature'/"Zone 1 - 6" and 
+"Stock Temperature” at the terminal board of the Plastograph® 
+EC Plus* or at the docking station* with short-circuit plugs. 
+@ Free "Control! Temperature” or "Stock Temperature” 
+sockets that have not been plugged with a short-circuit 
+plug cause a software alarm! 
+Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.10.3 CAN connection 
+NOTICE 
+Risk of property damage! 
+Live connection or disconnection of CAN bus cables may cause 
+short-circuit and, as a consequence, cause damage or destruction of 
+CAN bus modules, 
+> Before connecting the CAN bus cable, make sure that the CAN- 
+bus cable and the plug are in an operationally safe condition 
+(visual check)! 
+Before connecting or disconnecting the CAN bus cable, 
+make sure that the isolator switch of all instruments is in 
+position "0" (OFF). 
+@ The following always applies to the connection of CAN modules: 
+@ The PC* (if any) is always the 1. module of the CAN system. 
+@ On the last CAN module of the system, the terminal resistor 
+must be plugged into the CAN-OUT socket. 
+@ The terminal resistor must be plugged into the second 
+terminal of the PC CAN card. 
+& If, instead of the PC*, a Laptop* or a Mini-PC* is used (only 
+with software version 4.x and further), into which the standard 
+PC CAN card IXXAT) does not fit, a USB-to-CAN interface* 
+with_an_additional gender_changer* must be used. In this 
+case, the terminal resistor must be plugged onto the USB 
+interface* (see fig. below). 
+@ When connecting a USB interface* to a normal PC*, always 
+connect the USB interface* to a USB port on the rear side of 
+the PC* because data transmission from the rear side ports is 
+usually better than from the front side USB ports of the PC“, if any. 
+USB-to-CAN interface* Laptop* 
+(ID no. 2 41 907) 
+CAN cable 
+Terminal resistor* 
+(ID no. 2 22 131) 
+Gender changer* 
+(ID no. 2 16 027) Fig. 8-36 
+CAN cable 
+@ Concerning the CAN connection of the Plastograph® EC Plus* 
+or Plasti-Corder® Lab-Station* to the PC*, please refer to the 
+corresponding separate instruction manual. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 818 MOUNTING 
+‘Q Screw the 7-pole CAN adapter cable(s)* onto the pressure 
+transducer(s)*. 
+@ The CAN adapter cables* have got an ID no. and an 
+engraved number on the screw joint (see fig. below), e.g.: 
+@ IDno. 6 82 136.001 > no.1 
+© IDno. 6 82 136.002 > no. 2, etc. 
+; Pressure transducer” 
+. 
+= | 
+Engraved no. {3 
+(= position within the — 
+CAN bus (here: 2) 4 i 
+2 } 
+ID no. ! 
+(here: 6 82 136.002) By 
+, ’ , i CAN adapter cable* 
+Fig. 8-37 
+The engraved number shows the position of the 
+pressure transducer* in the CAN bus onto which the 
+respective CAN adapter cable* has to be mounted: 
+1 > onto the 1. pressure transducer* in the CAN bus 
+2 + onto the 2. pressure transducer* in the CAN bus 
+etc. (see fig. below) 
+Risk of injury, risk of property damage! 
+In case of a wrong allocation of the CAN adapter cables* to the 
+mounted pressure transducers’, the pressure values measured are 
+allocated to the wrong pressure transducer*! 
+Risk of faulty measurements, risk of excessive pressure building 
+up in the barrel which may even blow off the die head*! 
+Risk of severe injury, risk of property damage by parts being 
+blown off and by hot melt spurting from the machine! 
+> Take care for correct allocation of the CAN adapter cables* to 
+the mounted pressure transducers* according to their position 
+in the CAN bus! 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)8 MOUNTING 
+CAN bus system with a single CAN pressure transducer* 
+CAN-IN J) CAN-OUT 
+| rc. 
+een a 
+Terminal resistor 
+CAN bus system with several (here: three) CAN pressure transducers* 
+oe) Kommunikationskabel 
+Communication cable / YL 
+CAN. IN COMPUTER 
+Only for Plasti-Corder® Lab-Station* with docking station’: Socket 
+“Communication” Connect the CAN communication cable fixed in the left top of 
+the terminal board of the docking station* to the socket 
+"Communication" at the left top of the Plasti-Corder® Lab- 
+Station* (see fig. beside). 
+Fig. 8-40 
+(3) Via a CAN cable* (needs to be ordered separately), connect the 
+"CAN-OUT" socket at the terminal board of the Plastograph® EC 
+Plus or docking station* with the "CAN-IN" socket of the first 
+pressure transducer" in the conical twin screw extruder KDSE. 
+Depending on the system configuration, different CAN 
+modules may follow (see examples below). 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 838 MOUNTING 
+Examples for the connection of CAN modules with a Plastograph® EC Plus*: 
+0 Terminal resistor 
+Fig. 8-41: KDSE with a single pressure transducer’ and a die head* without 
+pressure transducer* 
+Absehiuscai derstand “Termin resto 
+Fig. 8-42: KDSE with several pressure transducers* and a die head" with a 
+pressure transducer* 
+Fig. 8-43: KDSE with pressure transducer* with a die head* with pressure 
+transducer* and a subsequent CAN conveyor belt* 
+Fig. 8-44: KDSE with pressure transducer* with a die head* with pressure 
+transducer’, a subsequent CAN conveyor belt*, and a CAN pelletizer* 
+84 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+Examples for the connection of CAN modules with a Plasti-Corder® Lab-Station’*: Fs wOEIS-GET 
+ic 
+Gem = 
+Fig. 8-45: KDSE with a single pressure transducer* and a die head” without 
+pressure transducer* Abochusonidocstand Terminal esitor 
+Absit “Termial resisio 
+Fig. 8-46: KDSE with several pressure transducers* and a die head* with a 
+pressure transducer* 
+Fig. 8-47: KDSE with pressure transducer* with a die head* with pressure 
+transducer* and a subsequent CAN conveyor belt* 
+Fig. 8-48: KDSE with pressure transducer* with a die head* with pressure 
+transducer", a subsequent CAN conveyor belt*, and a CAN pelietizer* 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 858 MOUNTING 
+(4) If there is no subsequent CAN module: 
+> Plug the terminal resistor onto the "CAN-OUT" socket of the 
+pressure transducer* in the conical twin screw extruder 
+KDSE. 
+If there are further CAN modules (e.g. further_pressure 
+transducers* in the die head*, a conveyor belt*, a pelletizer*): 
+> Connect the "CAN-OUT" socket of the pressure transducer 
+via the CAN connection cable to the "CAN-IN" socket of the 
+subsequent CAN module. Vv Connect any further CAN modules likewise. v Plug the terminal resistor onto the "CAN-OUT" socket of the 
+last CAN module in the system. 
+8.10.4 Cooling connections 
+8.10.4.1 Cooling water connection for gear cooling 
+Q Usually, gear cooling is required only in case of continuous 
+operation with intensive machine use, i.e. in case of extensive 
+test series with high gear stress, or at processing temperatures 
+of approx. 200°C or higher. 
+@ For gear cooling, water or air can be connected to the gear 
+cooling flanges. 
+Cooling water flanges 
+for gear cooling 
+86 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+NOTICE 
+Risk of property damage! 
+Extremely low cooling water or cooling air temperature may cause 
+condensate formation in the gear unit and in the feed zone. 
+in case of extremely low gear temperatures, cold transmission may 
+cool down the screws* in the feed zone so that the time for reaching 
+stationary conditions may be rather long. 
+The gear oil viscosity may increase in case of very low 
+temperatures. This may cause problems with gear lubrication and, 
+in extreme cases, cause damage to the bearings in the gear unit. 
+> Only use cooling water or cooling air from the normal 
+water/cooling water or compressed air net for gear cooling! 
+> Do not use a cold air generator or similar apparatus! 
+4) If required, connect water or air for gear cooling as follows: 
+@ Textile hoses are stronger than simple plastic hoses 
+and should, therefore, be preferred. 
+© Water cooling: 
+Use two suitable hoses (inner diameter 9 - 10 mm) to 
+connect cooling water (0.2 - 0.5 ¥min & approx. 12 - 30 i/h) 
+from the water or cooling water supply net to the two gear 
+cooling flanges on the left side of the gear housing (seen in 
+processing direction, see Fig. 8-49). 
+Gh In order to avoid air bubbles in the cooling pipes, 
+connect the hoses as follows: 
+Supply: bottom flange 
+Discharge: top flange 
+@ In case of water cooling, the gear unit and the 
+feed zone of the KDSE can also be cooled in 
+series from a single connection (gear unit first, 
+feed zone second), or via a T-piece. 
+e Air cooling: 
+Use two suitable hoses to connect cooling air from the 
+compressed air net (oil-free air, approx. 0.5 - 1.5 bars). The 
+flow direction is free. 
+(2) Secure ail hose connections with hose clamps. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 878 MOUNTING 
+8.10.4.2 Cooling water connection for feed zone 
+Danger of injury, risk of property damage! 
+When cooling water is connected to the control zones of the 
+conical twin screw extruder KDSE, hot steam develops within the 
+barrel and may escape suddenly and under a high pressure. 
+Risk of severe burning, risk of serious damage to the conical twin 
+screw extruder KDSE! 
+> Connect cooling water only to the feed zone and to the gear 
+unit, if required! 
+> Never connect cooling water to any other control zone! 
+Use two suitable hoses (inner diameter 9 - 10 mm) to connect 
+cooling water (0.2 - 0.5 l/min) from the water supply net to the 
+supply and discharge flanges of the feed zone of the conical twin 
+screw extruder KDSE (see fig. below). 
+Textile hoses are stronger than simple plastic hoses 
+and should, therefore, be preferred. ee ) 
+Supply and discharge can be connected at will. In 
+order to evaporate any air from the cooling water lines, 
+the recommended direction is as follows: 
+Supply: bottom flange 
+Discharge: top flange 
+on) The gear unit and the feed zone of the KDSE can also 
+be cooled in series from a single connection (gear unit 
+first, feed zone second), or via a T-piece. 
+Feed zone cooling water: 
+Discharge 
+Supply 
+Fig. 8-50 
+88 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.10.4.3 Cooling air connection to the barrel control zones 
+Danger of injury, risk of property damage! 
+When cooling water is connected to the control zones of the 
+conical twin screw extruder KDSE, hot steam develops within the 
+barrel and may escape suddenly and under a high pressure. 
+Risk of severe burning, risk of serious damage to the conical twin 
+screw extruder KDSE! 
+> — Only connect cooling air to the barrel_ control zones of the 
+conical twin screw extruder KDSE! 
+> Never connect cooling water to the barrel control zones of 
+the conical twin screw extruder KDSE! 
+(4) If required, connect cooling air for cooling the control zones of 
+the conical twin screw KDSE. 
+@ Apply cooling air only if required. 
+> Use suitable plastic hoses in order to connect the cooling 
+air flanges of the barrel control zones of the conical twin 
+screw extruder KDSE (see Fig. 8-51) to the flanges 
+"Cooling Air" zones no. 1 - 3 at the terminal board of the 
+Plastograph® EC Plus* (see Fig. 8-52) and of the docking 
+station’, respectively (see Fig. 8-53). 
+Cooling air flanges Cooling air flanges 
+of the barrel contro! zones "Zone 1 - 3" 
+Cooling air flanges , 
+"Air Cooling" Zone 7 - 4 
+Flange “Air Cooling IN" « 
+Fig. 8-52: Cooling air flanges at the Fig. 8-53: Cooling air flanges at the terminal 
+Plastograph® EC Plus* board of the docking station* 
+Conical twin screw extruder KDSE Mark II! (counter-rotation) 898 MOUNTING 
+NOTICE 
+Excessive pressure may burst off the hoses from the cooling air 
+flanges. 
+> Only connect compressed air with a max. pressure of 2 bars! 
+> Use a suitable plastic hose in order to connect cooling air 
+from the compressed air net (0.5 - 1.5 bar, max. 2 bars, 
+oil-free air) to the central cooling air flange at the terminal 
+board of the Plastograph® EC Plus* (see Fig. 8-52) and at 
+the bottom of the frame of the docking station’, respectively 
+(see fig. below). 
+Central cooling air flange 
+(0.5- 1.5 bar, max. 2 bars) Fig. 8-54 
+(2) Secure all hose connections with hose clamps. 
+Danger of injury, risk of property damage! 
+Very hot air may escape from the cooling air outlets under the 
+processing unit (see fig. below). Risk of burning! 
+> Never look directly into the cooling air outlets or touch them 
+with your bare hands! 
+Cooling air outlets 
+Fig. 8-55 
+90 Conical twin screw extruder KDSE Mark II! (counter-rotation)8 MOUNTING 
+8.11 Mounting the screws* 
+Risk of injury, risk of property damage! 
+As, with certain products, disassembly and cleaning of the 
+screws* and cleaning of the processing unit must be done at 
+operating temperature, the heaters must continue running in this 
+case. 
+The hot processing unit, the screws*, and the die head’*, if any, may 
+reach temperatures of up to approx. 400°C. 
+Risk of severe burning! 
+> Always wear suitable protective gloves! 
+> Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot screws* and to the hot 
+processing unit! 
+Deposit hot machine components on suitable, heat-resistant 
+surfaces only. 
+Place clear warning signs beside any hot parts in order to 
+avoid unintentional touching by third persons. 
+Danger of injury, risk of property damage! 
+Improper mounting of the screws* involves the risk of injury for the 
+operating staff and the risk of damage to the instrument. 
+> All mounting and modification work at the conical twin screw 
+extruder KDSE may only be carried out with due care by 
+technically skilled personnel! 
+Only use suitable tools for any mounting and modification 
+work! 
+Never use any sharp-edged or pointed tools or any other 
+tools that might damage the surface of the screws* and/or of 
+the processing unit! 
+G Upon supply, the screws* usually have been factory mounted. If 
+not or if other screws* are to be mounted, please follow the 
+instructions below. 
+Conical twin screw extruder KDSE Mark III {counter-rotation)} 918 MOUNTING 
+8.11.1 Disassembly of the processing unit 
+If the front parts of the two rails have been folded down, fold up 
+the two front parts of the rails until the locking bolts on both 
+sides engage. 
+2 Make sure that the fold-down parts of the rails are properly 
+locked. 
+NOTICE 
+Risk of property damage! 
+The two bows between the feed zone and the processing unit may 
+fall down and cause damage to the conical twin screw extruder 
+KDSE or to the mobile frame* and the docking station’, 
+respectively. 
+> Hold the two bows with your hand when loosening the 
+screws! 
+(3) Loosen the four hexagon head cap screws at the two bows 
+between the feed zone and the processing unit (one bow with 
+two screws on each side) and carefully draw off the bows. 
+Hexagon head cap screws 
+Bow 
+Fig. 8-56 
+(4) Hold the processing unit at the two handles and draw it towards 
+the discharge side until the screws* are completely bare. 
+@ In order to get more freedom of movement for 
+disassembling or mounting the screws*, the processing 
+unit can be turned on the mobile and pivotable support. 
+Processing unit, drawn off and ~ 
+turned 
+Scews* 
+Fig. 8-57 
+92 Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.11.2 Disassembling/mounting the screws* 
+@ The bores for taking the screws* and the screws* themselves 
+are marked with "R" and "L" (right/left). During mounting, take 
+care for correct positioning of the screws"! 
+Marker Marker ie aa 
+Fig. 8-58 
+“) If there are still screws* mounted in the processing unit, clean 
+them with a brass brush while they are still mounted. 
+@ See chapter 11 "Cleaning" for this purpose. 
+(2) If applicable, turn the screws* by hand until the screws for fixing 
+the sleeve and the limit stop, which are visible through the 
+inspection glass (see fig. below, detail), are exactly on top. 
+Gh Only in this position, the fixing screws of the screws* 
+are on top and can be reached and loosened. 
+NOTICE 
+Risk of property damage! 
+The fixing screws of the screws* may fall into the gear box. In this 
+case, the gear box must be opened in order to take out the fixing 
+screws. 
+> Only slightly loosen the fixing screws of the screws*. Do not 
+completely unscrew them! 
+3] Slightly loosen the two fixing screws of the screws* using the 
+3/32" socket spanner from the accessory kit. 
+QO .. loosen the fixing screws, do not unscrew them! 
+Screws fixing the 
+sleeve on the 
+gear shaft 
+Screws fixing the 
+screw stop 
+@ For loosening the fixing 
+screws of the screws*, 
+these screws must be 
+exactly on top #—" Access to the fixing screws 
+of the screws* 
+Fig. 8-59 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 938 
+94 MOUNTING 
+Proximity safety switch 
+Bow 
+C) 
+(J Draw the screws* off in pairs from the motor shafts and put them 
+onto a suitable surface. 
+If necessary, continue cleaning the screws* and dry them 
+thoroughly afterwards. 
+Insert the clean or new screws” into the bores with the fixing 
+screws being on top and push them onto the gear shafts all the 
+way to the stop. 
+Take care for correct positioning (right/left). 
+Fig. 8-60 
+Check whether the screws* can be turned without the screw 
+flights contacting each other anywhere. 
+Retighten the fixing screws of the screws*. 
+Tilt the processing unit so that the holes are exactly in front of 
+the screw tips. If necessary, slightly lift the processing unit; then 
+push it over the screws all the way to the stop. 
+Fig. 8-61 
+Mount the two bows one after the other from the side onto their 
+fixing screws and retighten the fixing screws. 
+@ Take particular care for correctly mounting the bow 
+which is on the right side, seen in processing direction, 
+so that the proximity safety switch is in contact with its 
+counterpart. 
+Hexagon head cap screws 
+Fig. 8-62 
+Conical twin screw extruder KDSE Mark III (counter-rotation)8 MOUNTING 
+8.12 Mains connection 
+Electrical hazard! 
+> Before connecting the Brabender® instrument to the mains, 
+make sure that the mains data correspond to the data on the 
+name plate of the Brabender® instrument! 
+Only connect the Brabender® instrument to a mains socket 
+with a protective earth contact (PE)! 
+G@) Make sure that the isolator switch of the Plastograph® EC Plus* 
+and of the docking station*, respectively, is in position "O" (see 
+fig. below). 
+Fig. 8-63: {solator switch at the Fig. 8-64: Isolator switch at the 
+docking station* Plastograph® EC Plus* 
+(2) Connect the mains plug of the Plastograph® EC Plus* and of the 
+docking station*, respectively, to a mains socket with a 
+protective earth contact (PE). 
+If applicable, connect the mains plug of the Plasti-Corder® Lab- 
+Station* to a mains socket with a protective earth contact (PE). 
+@ Before taking the Brabender® conical twin screw extruder KDSE 
+into operation, make yourself familiar with the functions of the 
+individual system components and of the software”! 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 958 MOUNTING 
+96 Conical twin screw extruder KDSE Mark tll (counter-rotation)9 START-UP 
+9 START-UP 
+9.1 Safety notes concerning start-up 
+Danger of injury, risk of property damage! 
+Improper start-up of the instrument involves the danger of injury 
+for the personnel and the risk of damage to the instrument. 
+> Start-up of the Brabender® conical twin screw extruder KDSE 
+may only be carried out by qualified operating personnel! 
+@ For starting up the conical twin screw extruder KDSE, it is 
+imperative to observe the separate instruction manuals of the 
+drive unit* and of the docking station’, if applicable! 
+9.2 Preparations, switching on 
+Make sure that the entire machine system stands firmly and safely. 
+Check all connections and fittings for proper seat and tightness. CCcOo Make sure that the emergency motor stop button and the emergency 
+shut-off switch at the Plastograph® EC Plus* and at the Plasti- 
+Corder® Lab-Station*, respectively, are free and easily accessible. 
+If applicable, make sure that the docking station* has been 
+focked properly at the Plasti-Corder® Lab-Station*. 
+If applicable, make sure that the emergency shut-off switch at 
+the docking station’ is free and easily accessible. 4 
+oO) 
+Y Make sure that the 12-pole plug of the proximity switch safety 
+switch of the conical twin screw extruder KDSE has been 
+connected properly to the socket "Safety Device" at the 
+Plastograph® EC Plus* or on top of the docking station”. 
+Make sure that the 8-pole plug of the automatic torque limitation of 
+the conical twin screw extruder KDSE has been connected properly 
+to the socket "Torque limit key" in the left top corner of the drive unit*. 
+Start up the drive unit* and the docking station’, if any, according 
+to the instructions given in the corresponding separate instruction 
+manual. 
+Conical twin screw extruder KDSE Mark III {counter-rotation} 979 START-UP 
+9.3 Functional check of the safety devices 
+9.3.1 Proximity switch safety device 
+Check function of the safety @ Make this check every day before starting work! 
+switch daily before starting work! 
+Set the speed potentiometer at the drive unit* to 0. 
+Press the "Loc" key 6 at the control and display unit. 
+= The yellow LED at the "Loc" key ® lights up. 
+to activate the drive unit*. 
+= The green LED at the "Start" key © lights up. Press the "Start" key 6. at the control and display unit in order 
+Set a low speed (approx. 10 rpm) at the speed potentiometer of 
+the drive unit*. 
+> The drive starts rotating with the preset speed. 
+age | 
+Speed potentiometer 
+"Start" key 
+"Loc" key 
+Fig. 9-1 
+(5) Disconnect the plug of the proximity switch safety device from 
+the socket "Safety Device” on the control side of the 
+Plastograph® EC Plus* (see Fig. 9-2) or on top of the docking 
+station* (see Fig. 9-3). 
+rs 
+Fig. 9-2 Fig. 9-3 
+Safety plug disconnected = The motor of the drive unit* must stop immediately. 
+Vv 
+. . . . & pt f the dri nit* di t sto Drive unit* must stop immediately tie mgr oF me eee unk ee ne ; immediately, the proximity switch safety device is 
+defective. 
+98 Conical twin screw extruder KDSE Mark III (counter-rotation)9 START-UP 
+In case of a defective safety switch, the conical twin screw 
+extruder KDSE may run in an uncontrolled way. 
+Risk of injury, danger of damage and/or destruction of the entire 
+machine system! 
+In case of a defective safety switch: 
+> Switch off the drive unit* of the Brabender® conical twin 
+screw extruder KDSE immediately! 
+> Inform the Brabender® Service dept. (see chapter 2 "Contact")! 
+Do not start-up the conical twin screw extruder KDSE and 
+the drive unit*! 
+If the motor of the drive unit* stops properly, connect the plug of 
+the proximity switch safety device to the socket "Safety Device” 
+on the control side of the Plastograph® EC Plus* or on top of the 
+docking station” again. 
+9.3.2. Emergency motor stop button at the drive unit* 
+Check function of the emergency @ For checking the emergency motor stop button of the drive unit*, 
+motor stop button of the drive unit* please refer to the separate instruction manual of the drive unit* 
+daily before starting work! 
+9.3.3 Emergency shut-off switch (isolator switch) at the drive unit * 
+Check function of the emergency @ For checking the emergency shut-off switch of the drive unit*, 
+shut-off switch of the drive unit* please refer to the separate instruction manual of the drive unit* 
+daily before starting work! 
+9.3.4 Emergency shut-off switch (isolator switch) at the docking station* 
+Check function of the emergency @ For checking the emergency shut-off switch of the docking 
+shut-off switch of the docking station* station*, please refer to the separate instruction manual of the 
+daily before starting work! docking station* 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 999 START-UP 
+100 Conical twin screw extruder KDSE Mark III (counter-rotation)10 SETUP AND OPERATION 
+10 SETUP AND OPERATION 
+10.1 Target group 
+For a definition of the target group for setup and operation of the 
+Brabender® conical twin screw extruder KDSE, please refer to 
+chapter 4.2. 
+@ For setup and operation of the entire measuring system, it is 
+imperative to observe the separate instruction manuals of ail 
+other system modules” and of the extruder program WinExt* 
+10.2 Daily work before start of operation 
+NOTICE 
+Risk of property damage! 
+Risk of damage to the processing unit and to the screws* 
+when running the conical twin screw extruder KDSE 
+without product or only with additives over a long period 
+of time! 
+> Before switching on the drive unit* and the docking 
+station*, make sure that the speed of the drive unit* 
+and of any upstream feeders* has been set to 0! iS Make sure that all control thermocouples have been mounted 
+correctly in their respective heating zones (see chapter 8.7). 
+The spring of the contro! thermocouple must have a 
+slight tension. 
+Make sure that all contro! thermocouples have been connected 
+properly to the temperature controllers of the respective zone. 
+Make sure that all heater band cables have been connected 
+properly. 
+* If not yet done, switch on the drive unit* and the docking station 
+(if any) at their respective isolator switch. 
+Check the function of the safety devices acc. to chapter 9.3. Geceec Feed zone cooling water: Before heating up the conical twin screw extruder KDSE, open 
+0.2 - 0.5 min cooling water supply to the feed zone (0.2 - 0.5 l/min). 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 404 10 SETUP AND OPERATION 
+If required, connect cooling air to the individual control zones of 
+the conical twin screw extruder KDSE as follows: 
+> if not yet done, mount the cooling air hoses. 
+See chapter 8.10.4.3 "Cooling air connection to 
+the barrel control zones”. 
+> Open cooling air supply to the Plastograph® EC Plus* or to 
+the docking station* (oil-free air, approx. 0.5 - 1.5 bars, 
+max, 2 bars). 
+Make sure that all feed openings are free. Ge Make sure that all additional modules* connected are ready for 
+operation. 
+Start the computer*. 
+Ge Start the extruder program WinExt* at the computer*. 
+The surfaces of the conical twin screw extruder KDSE, the 
+protective cover sheet over the processing unit, parts of the feeder*, 
+and the protective cover over the screw shaft coupling may reach 
+temperatures of up to approx. 400°C. 
+Even after switching off of the system, these surfaces may still be 
+very hot for a long time. 
+Risk of severe burning! 
+> Always wear suitable protective gloves when working at the 
+machine system! 
+> Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot surfaces! 
+(13) Set the processing parameters in the WinExt software* 
+See separate instruction manual of the WinExt software’. 
+Heat up the conical twin screw extruder KDSE through the 
+software*. 
+@ See separate instruction manual of the WinExt software’. 
+102 Conical twin screw extruder KDSE Mark Ill (counter-rotation)10 SETUP AND OPERATION 
+During heating-up, check whether all heaters work properly and 
+whether the zone temperatures of all control zones are indicated 
+correctly in the WinExt software*. 
+(te) When the entire machine system has reached the nominal 
+temperature and this is stable, check all screw joints for tight seat 
+and retighten them, if necessary. 
+Tighten the union nut of the die head*. 
+Check the tightening torques of the pressure transducers* and 
+of the melt temperature thermocouples* 
+NOTICE 
+Risk of property damage! 
+Excessive tightening of the measuring transducers* may 
+damage the measuring transducers* and the corresponding 
+threaded bores! 
+> Always use a torque wrench for tightening the 
+measuring transducers*! 
+> Firmly tighten the measuring transducers* only 
+after having reached the operating temperature! 
+Tightening torque: max. 20 Nm 
+in hot condition 
+Set the speed potentiometer of the drive unit* to 0. 
+Speed potentiometer 
+"Start" key "~~ 
+“Loc” key 
+Fig. 10-1 
+Press the "Loc" key & at the control and display unit of the 
+Plasti-Corder® Lab-Station*. 
+=> The yellow LED at the "Loc" key 6 lights up. 
+Conical twin screw extruder KDSE Mark Ili (counter-rotation) 10310 SETUP AND OPERATION 
+NOTICE 
+Risk of property damage! 
+Risk of damage to the screws*! 
+> Never have the screw of the Brabender® conical twin screw 
+extruder KDSE run for more than 20 s at a max. speed of 
+20 rpm in dry condition! 
+Risk of damage to the processing unit and to the screws’, risk of 
+obstruction of the feed zone! 
+> Only start the conical twin screw extruder KDSE with an 
+empty feed hopper when it has reached full operating 
+temperature! 
+(2) Press the "Start" key © at the control and display unit of the 
+drive unit* in order to activate the drive *. 
+= The green LED at the "Start" key i) lights up. 
+2) Were 
+Risk of property damage! 
+Risk of damage to or destruction of the entire machine 
+system by parts mounted wrongly! 
+Set the speed potentiometer to approx. 5 rpm. 
+Have the screws* run for a few seconds at this speed 
+and take care for any sliding or scratching noise! 
+In case of grinding or scratching noise: 
+e Immediately set the speed potentiometer to 0. 
+e Find out and eliminate the cause of the noise. 
+(3) After a few seconds, set the speed potentiometer to 0 again. 
+104 Conical twin screw extruder KDSE Mark III {counter-rotation)10 SETUP AND OPERATION 
+10.3 Running a measurement 
+10.3.1 General remarks 
+Some Brabender® software programs offer the possibility of 
+programming speed profiles. In this context, the machine system, 
+controlled by the program, may start automatically from standstill 
+position. 
+Danger of injury, danger of damage to the machine system! 
+> Never insert any tools into the conical twin screw extruder 
+KDSE when the drive unit* is connected to the mains! 
+Operation of the Brabender® drive unit* in "Local" mode may cause 
+operating troubles due to wrong parameter setting. 
+Danger of injury, danger of damage to the machine system! 
+> In normal operation, always control the Brabender® drive 
+unit* through the software (i.e. in "Remote" mode)! 
+> Measurements must not be run in "Local" mode! 
+Use the "Local" mode only for short terms and only for 
+cleaning purposes! 
+a As many settings in the WinExt software* depend on the product 
+to be processed and on the entire system configuration (conical 
+twin screw extruder KDSE, screws’, feeders*), only some 
+general instructions concerning the test procedure are given in 
+the following. 
+For this reason, the program windows shown are just examples 
+and the entries in the individual fields may vary. 
+If you have any questions concerning the test procedure, please 
+do not hesitate to ask the experts of the Brabender® laboratory. 
+Before starting a test with the Brabender® conical twin screw 
+extruder KDSE, make yourself familiar with the functions of the 
+Brabender® software program* used. 
+For running a test with the Brabender® conical twin screw extruder 
+KDSE, it is imperative to read the corresponding chapters of the 
+separate instruction manual of the drive unit* used, of the 
+docking station* (if applicable), of the WinExt program’, and, if 
+applicable, of the additional equipment* used as well. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 10510 SETUP AND OPERATION 
+10.3.2 Measurement 
+The surfaces of the conical twin screw extruder KDSE, the 
+protective cover sheet over the processing unit, parts of the feeder’, 
+and the protective cover over the screw shaft coupling may reach 
+temperatures of up to approx. 400°C. 
+Even after switching off of the system, these surfaces may still be 
+very hot for a long time. 
+Risk of severe burning! 
+> Always wear suitable protective gloves when working at the 
+machine system! 
+> Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot surfaces! 
+@) If the yellow LED at the "Rem” key i) at the control and display 
+unit of the drive unit* is not on, press the "Rem" key & 
+> The yellow LED at the "Rem" key i) lights up. 
+(2) Press the "Start" key at the control and display unit of the 
+drive unit* in order to activate the drive unit*. 
+@ The drive unit* can only be activated if the safety plug 
+of the conical twin screw extruder KDSE has been 
+connected properly to the socket "Safety Device" of the 
+Plastograph® EC Plus” or of the docking station* 
+= The green LED at the "Start" key lights up. 
+a Despite pressing of the "Start" key 2] the motor 
+will not yet start because in "Remote" mode, the 
+drive unit* is started through the software*. C) Prepare the sample material (pellets/powder, liquids to be 
+added, if applicable). 
+If not yet done, start the extruder program WinExt* at the computer’. Oe Make sure that the entire machine system has. reached full 
+operating temperature and that this temperature is stable. 
+106 Conical twin screw extruder KDSE Mark III (counter-rotation)10 SETUP AND OPERATION 
+In the extruder program WinExt*, click the button Ld or select 
+the menu "File" - "New". 
+= The parameter window appears: 
+Dime r-] 
+Testttaterie | Equipment | 
+Fie a 
+‘Order [eRABENDER [16 Jonuer 2545 
+* Operator jSebwarz i 
+——— 
+‘Supper FRaBeneR | 
+Natofal me f 
+Compound f istest| { 
+Polymer / 
+ive i 
+* sasisture 
+Fig. 10-2 
+Set the desired test parameters in the parameter window of the 
+extruder program WinExt*. 
+a Please refer to the separate instruction manual of the 
+WinExt program* concerning entry of test parameters. 
+In the parameter window, click the "Equipment" tab. 
+> The "Equipment" tab appears: 
+Je ==) 
+Teste Epi] 
+Boveri (CISEV Ome Type [ReBarer EC 
+Extrater Coving fir Seren fios 
+Feed Section Round ~ Die Type: (Round ai 
+FS Cooling Water SS~*~*~*~*~*~*~S Speed 1 neyo Bett in) | 
+* HopperDesing flopper ‘Am Speed? — Patatizer WOmimn =} 
+ux Speeds [None = SSC 
+slate Sitters F 
+Fig. 10-3 
+Enter the settings concerning the equipment according to the 
+separate instruction manual of the extruder program WinExt*. 
+Conical twin screw extruder KDSE Mark Il (counter-rotation) 10710 SETUP AND OPERATION 
+Control functions 
+eee Click the button in the toolbar of the WinExt program”. 
+> The test will be started. 
+= The monitor shows the on-line diagram and the equipment 
+window and, on the right side, the control functions. 
+cana 
+See! fel(] —_ os | ia | “swe me | Fig, 10-4 
+If desired, enter alarm limits for certain measuring values in the 
+WinExt software’. 
+Ca) See separate instruction manual of the WinExt software* 
+Click the button in the contro! functions. 
+> A window for entering the nominal extruder speed appears: 
+sb wa | 
+[ Extruder Speed ——j 
+i Setpoint: [48 being 
+i " 2 Setpoint Ramp = [28 Its} 
+ewe _| | Fig. 10-5 
+Enter a low value in the field "Setpoint", e.g. "10". 
+Click the button on the right beside the button in the 
+control functions in order to start the drive unit* of the conical 
+twin screw extruder KDSE. 
+> The button changes to [e} 
+> The drive motor starts. 
+@ The drive motor will not start before the difference 
+between the actual and nominal temperature is < 10°C. 
+108 Conical twin screw extruder KDSE Mark Ill (counter-rotation)10 SETUP AND OPERATION 
+NOTICE 
+Risk of property damage! 
+Excessive torque and pressure may cause damage to the entire 
+machine system! 
+> Always carefully observe the torque and pressure values 
+when feeding material into the machine! 
+Slowly feed the product into the conical twin screw extruder KDSE. 
+Continue feeding product until product comes out of the die* 
+NOTICE 
+Risk of property damage! 
+Excessive torque and pressure may cause damage to the entire 
+machine system! 
+> When increasing the speed of the conical twin screw 
+extruder KDSE, always carefully observe the torque and 
+pressure values! 
+As soon as melt comes out of the die, carefully increase the 
+speed of the conical twin screw extruder KDSE to the desired 
+value. 
+@ The optinum speed depends on the product 
+processed and on the screws“ of the conical twin 
+screw extruder KDSE. 
+In the control functions of the WinExt program’, click the button 
+on the right beside the button [srone| in order to start saving of 
+the measuring values. 
+=> The button changes to [e] 
+™ The measuring values will now be saved in the cycle time 
+selected. 
+& For further details concerning running a test using the WinExt 
+software’, please refer to the separate instruction manual of the 
+WinExt software* 
+Conical twin screw extruder KDSE Mark III {counter-rotation) 10910 SETUP AND OPERATION 
+For stopping the test, click the button in the toolbar of the 
+main window in order to stop the test and the drive unit* of the 
+conical twin screw extruder KDSE. 
+= The speed of the drive unit* is set to zero automatically. 
+@ Heating continues until it is stopped manually. 
+NOTICE 
+Risk of property damage! 
+When the drive unit* stands still and heating is still on, thermal 
+degradation of polymers may occur within the conical twin screw 
+extruder KDSE! 
+Risk of damage to the screws* and to the conical twin screw 
+extruder KDSE. 
+> 
+(20) Restart the drive unit immediately in "Loc" mode at a low 
+speed as long as there is still product in the conical twin 
+screw extruder KDSE and heating is still on (see steps below)! 
+Immediately upon automatic resetting of the speed to zero, press 
+the "Loc" key & at the control and display unit of the drive unit* 
+> The yellow LED at the "Loc” key o lights up. 
+Set a low speed (approx. 10 rpm) at the speed potentiometer of 
+the drive unit*. 
+= The drive’ starts rotating with the preset speed. 
+= The material within the conical twin screw extruder KDSE 
+will continue to be transported through the processing unit. 
+For cleaning the conical twin screw extruder KDSE upon 
+completion of all tests, run the conical twin screw extruder 
+KDSE until it is empty. 
+Q The conical twin screw_extruder KDSE_must_be 
+cleaned_immediately in order to prevent cooling down 
+of the sample material within the processing unit. 
+Cleaning must be done as quickly as possible in order to 
+avoid excessive cooling down of the conical twin screw 
+extruder KDSE. 
+The longer the cleaning time, the longer the time needed 
+afterwards for reaching the preset starting conditions! 
+@ For cleaning the conical twin screw extruder KDSE upon 
+completion of the tests, please refer to chapter 11 “Cleaning”. 
+110 Conical twin screw extruder KDSE Mark Ill (counter-rotation)11. CLEANING 
+11 CLEANING 
+11.1 Safety notes concerning cleaning 
+Hot surfaces at the conical twin screw extruder KDSE, at the 
+feeders’, if any, and at the cover hood of the gear unit! Hot cooling 
+air and cooling water fittings! 
+Risk of severe burning, risk of property damage! 
+Always wear suitable protective gloves! 
+Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot surfaces! 
+Dispose hot machine parts on suitable, heat-resistant 
+surfaces only! 
+Place clear warning signs beside any hot parts in order to 
+avoid unintentional touching by third persons. 
+NOTICE 
+Risk of property damage! 
+The use of unpermitted cleaning agents or tools involves the risk of 
+damage to the Brabender® conical twin screw extruder KDSE and 
+to the screws*. 
+> For removing the sample material and for cleaning the conical 
+twin screw extruder KDSE and the screws’, only use the tools 
+from the accessory kit (brass brush and bronze spatula) and 
+soft, non-fraying cloths! 
+Never use any sharp-edged or pointed tools or any other 
+tools that might damage the surfaces of the screws* and/or 
+of the processing unit! 
+Never use any corroding cleaning agents! 
+Conical twin screw extruder KDSE Mark Il (counter-rotation) 411111. CLEANING 
+NOTICE 
+Risk of property damage! 
+Residual product which hardens or cross-links within the machine 
+or instrument involves the risk of automatic speed limitation or 
+motor shut-down by the automatic torque limitation. 
+Humidity, in particular distifled water, or residues of other 
+aggressive products, cause wear such as abrasion and/or 
+corrosion up to pitting. 
+IMPORTANT NOTE: All parts with product contact are wear 
+parts, ie. warranty for such parts is 
+generally excluded! 
+Empty the instrument or machine completely after each test! 
+Thoroughly clean all parts with product contact in regular time 
+intervals or after each test, if necessary, depending on the 
+product processed. 
+Take particular care for clean and dry sealing surfaces, 
+angles, and grooves. 
+Thoroughly dry all parts after cleaning! 
+Never have any cross-linking material cool down or harden 
+within the instrument or machine! 
+Never leave any residues of aggressive products such as 
+ceramics, distilled water, etc. within the instrument or 
+machine for a prolonged time! 
+During cleaning, take care for any signs of wear! 
+(3) For a definition of the target group for cleaning of the 
+Brabender® conical twin screw extruder KDSE and the required 
+skills, please refer to chapter 4.2. 
+112 Conical twin screw extruder KDSE Mark III (counter-rotation)11 CLEANING 
+11.2 Cleaning after each test series 
+@ Immediately after each test series, the conical twin screw 
+extruder KDSE must be cleaned thoroughly in hot condition. 
+This also applies to the die head* and to the feeders’, if any. 
+NOTICE 
+Risk of property damage! 
+Residual material which hardens or cross-links within the processing 
+unit involves the risk of damage to the screw* and of excessive 
+torques during the start-up process. 
+Empty the conical twin screw extruder KDSE completely 
+after each test series! 
+Thoroughly clean the processing unit, the screws*, and the 
+die head* from any residual material! 
+Never have any cross-linking material cool down or harden 
+within the processing unit! 
+() Run the conical twin screw extruder KDSE at operating temperature 
+until there is no more product in the feed hopper or feeder’. 
+Concerning the processing temperature of the cleaning 
+compound used, please refer to the instructions of the 
+manufacturer of the respective cleaning compound. 
+(2) Proceed as follows for decreasing the barrel temperature: 
+A suitable cleaning compound ® With operating temperatures < 200°C: 
+for temperatures < 200°C is, e.g., > Load an LDPE into the feed hopper of the conical twin 
+“EXREIN", Messrs. Baerlocher screw extruder KDSE or into the feeder’. 
+> While the LDPE runs through the processing unit, lower 
+the temperature through the WinExt software* to the 
+maximum admissible temperature for the cleaning 
+compound to be used subsequently. 
+> Run the conical twin screw extruder KDSE with the LDPE 
+until the admissible temperature for the cleaning compound 
+is reached and only pure LDPE comes out of the die*. 
+> Load the cleaning compound into the feed hopper or 
+into the feeder*. 
+> Run the conical twin screw extruder KDSE with the 
+cleaning compound until only pure cleaning compound 
+comes out of the die*. 
+> Stop the feeder’, if any, through the WinExt software* 
+or stop feeding cleaning compound into the hopper. 
+» Run the conical twin screw extruder KDSE until no 
+more melt comes out of the die*. 
+Conical twin screw extruder KDSE Mark lil (counter-rotation) 11341. CLEANING 
+@ With operating temperatures > 200°C: 
+A suitable high-temperature > Load a suitable high-temperature cleaning compound 
+cleaning compound for into the feed hopper of the conical twin screw extruder 
+temperatures > 200°C is, e.g., KDSE or into the feeder*. 
+"Asaclean”, Messrs. Velox > Run the conical twin screw extruder KDSE with the 
+high-temperature cleaning compound until only pure 
+high-temperature cleaning compound comes out of the 
+die*. 
+on) While the high-temperature cleaning compound 
+runs through, the temperature of the processing 
+unit can be lowered through the WinExt 
+software* if you want to use another 
+cleaning compound subsequently. 
+> Stop the feeder’, if any, through the WinExt software” 
+or stop feeding cleaning compound into the hopper. 
+> Run the conical twin screw extruder KDSE until no 
+more melt comes out of the die* 
+4 Press the "Stop" key in) at the control and display unit of the 
+drive unit*. 
+=> The drive motor of the measuring extruder stops. 
+The conical twin screw extruder KDSE and the die head* may be 
+very hot! 
+Risk of severe burning, risk of property damage! 
+Always wear suitable protective gloves! 
+Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot surfaces! 
+Deposit hot machine components on suitable, heat-resistant 
+surfaces only! 
+Place clear warning signs beside any hot parts in order to 
+avoid unintentional touching by third persons. 
+Danger of injury, risk of property damage! 
+When loosening the union nut of the die head*, the die head* may fall 
+down. 
+> Firmly hoid the die head* when loosening the union nut or 
+secure it in another way against falling down! 
+114 Conical twin screw extruder KDSE Mark III (counter-rotation)44 CLEANING 
+Disassemble the die head* as follows: 
+> {n the WinExt software’, set the temperature of the die 
+head” to "0". 
+> Disconnect the heater band cable of the die head* from the 
+terminal board of the Plastograph® EC Plus* or docking 
+station*. 
+> Unscrew the pressure transducer* and/or the melt temperature 
+thermocouple” or the corresponding closing bolts from the die 
+head* and dispose them on a suitable, heat resistant surface. 
+> Disassemble the control thermocouple* from the die head’. 
+@ Do not disconnect the cable of the control 
+thermocouple* of the die head* from the terminal 
+board of the Plastograph® EC Plus* or docking 
+station* as this would cause an alarm. 
+NOTICE 
+Risk of property damage! 
+During cleaning, the membrane of the pressure transducer* may be 
+damaged. 
+> Always clean the pressure transducer* while it is still hot! 
+> Take care not to damage the pressure transducer membrane! 
+> Carefully clean the pressure transducer’, the melt temperature 
+thermocouple* and/or the closing bolts of the die head* 
+while they are still hot. 
+> Unscrew the union nut of the die head* from the threaded 
+ring of the conical twin screw extruder KDSE by turning it 
+counter-clockwise. 
+> Disassemble the die head* and put it onto a suitable, heat 
+resistant surface. 
+@ For cleaning the die head*, please refer to the 
+separate instruction manual of the die head*. 
+() Press the "Loc" key 3 
+drive unit*. at the control and display unit of the 
+= The yellow LED at the "Loc” key ) lights up. 
+(5) Set a low speed (approx. 5 rpm) at the speed potentiometer of 
+the drive unit*. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) —_ 1151 CLEANING 
+of. 
+Press the "Start" key “© at the control and display unit of the 
+drive unit* in order to activate the drive unit* again. 
+> The conical twin screw extruder KDSE immediately starts 
+rotating with the speed set at the potentiometer. 
+Run the conical twin screw extruder KDSE until no more product 
+comes out at the screw tip. 
+(2) Press the “Stop” key io) at the control and display unit of the 
+drive unit*. 
+=> The drive motor of the conical twin screw extruder KDSE 
+stops. 
+If the front parts of the two rails have been folded down, fold up 
+the two front parts of the rails until the locking bolts on both 
+sides engage and make sure that they are properly locked. 
+Risk of injury, risk of property damage! 
+When disassembling the processing unit of the conical twin screw 
+extruder KDSE with a mounted feeder* and die head* from the gear 
+unit, the processing unit may drop over. Risk of injury, risk of 
+property damage! 
+> Always first disassemble the die head* and the feeder’, if 
+any, and only then disassemble the processing unit from the 
+gear unit! 
+The conical twin screw extruder KDSE may still be very hot! 
+Risk of severe burning, risk of property damage! 
+> Always wear suitable protective gloves! 
+> Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot surfaces! 
+NOTICE 
+Risk of property damage! 
+The two bows between the feed zone and the processing unit may 
+fall down - risk of property damage. 
+> Hold the two bows with your hand when loosening the screws! 
+116 Conical twin screw extruder KDSE Mark III (counter-rotation)11 CLEANING 
+(*)} Loosen the four hexagon head cap screws at the two bows 
+between the feed zone and the processing unit (one bow with 
+two screws on each side) and carefully draw off the bows. 
+Hexagon head cap screw 
+Bow 
+Fig. 11-1 
+(2) Hold the processing unit at the two handles and draw it towards 
+the discharge side until the screws* are completely bare. 
+@ In order to get more freedom of movement for 
+disassembling or mounting the screws*, the processing 
+unit can be turned on the mobile and pivotable support. 
+Processing unit, drawn off and 
+tured Screws* 
+Fig. 11-2 
+The screws* may be very hot! 
+Risk of severe burning, risk of property damage! 
+> Always wear suitable protective gloves! 
+> Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot screws* and to the hot surfaces 
+of the processing unit! 
+Deposit the screws* on suitable, heat resistant surfaces only. 
+Place clear warning signs beside any hot parts in order to 
+avoid unintentional touching by third persons. 
+(33) First clean the screws* with the supplied brass brush while they 
+are still mounted. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 41711 CLEANING 
+If applicable, turn the screws* by hand until the screws for fixing 
+the sleeve and the limit stop, which are visible through the 
+inspection glass (see fig. below, detail), are exactly on top. 
+@ Only in this position, the fixing screws of the screws” 
+are on top and can be reached and loosened. 
+NOTICE 
+Risk of property damage! 
+If the fixing screws of the screws* are unscrewed completely, it is 
+very difficult to screw them into the threaded bores again. 
+> Only slightly loosen the fixing screws of the screws*. Do not 
+completely unscrew them! 
+When the screws for fixing the limit stop and/or the screws for 
+fixing the sleeves on the gear shafts (see fig. below, detail) are 
+loosened, the screws* may run against the die adapter - risk of 
+destruction of the screws* and on the complete machine system! 
+> Never loosen the screws for fixing the limit stop and/or the 
+screws for fixing the sleeves on the gear shafts! 
+The use of unpermitted tools involves the risk of damage to the 
+processing unit and to the screws*. 
+> Never use any sharp-edged or pointed tools or any other 
+tools that might damage the surface of the screws* and/or of 
+the processing unit! 
+(#8) Slightly loosen the two fixing screws of the screws* using the 
+3/32" socket spanner from the accessory kit. 
+@ Only loosen the fixing screws, do not unscrew them! 
+Screws fixing the 
+sleeve on the 
+gear shaft = Access to the fixing screws Screws fixing the of the screws* 
+screw stop 
+@ For loosening the fixing Fig. 11-3 
+screws of the screws’, 
+these screws must be 
+exactly on top 
+118 Conical twin screw extruder KDSE Mark Ili (counter-rotation)11_ CLEANING 
+NOTICE 
+Risk of property damage! 
+The use of unpermitted tools involves the risk of damage 
+to the processing unit and to the screws*. 
+> Disassemble the screws* in pairs from the motor 
+shafts either with your hands (wear protective 
+gloves!) or using suitable tools (bronze or wooden 
+spatulas) and deposit them on a suitable, heat 
+resistant surface! 
+Never use any sharp-edged or pointed tools or any 
+other tools that might damage the surface of the 
+screws* and/or of the processing unit! 
+NOTICE 
+Risk of property damage! 
+Product residues at the screws* and/or in the processing 
+unit of the conical twin screw extruder KDSE lead to 
+increased wear at the screws* and at the processing unit 
+and falsify the measuring results of the subsequent 
+measurement. 
+> Immediately after each test series, clean the screws* 
+and the barrel bores with the supplied round brush 
+while they are still hot, then dry them thoroughly. 
+Take particular care for cleaning and drying any 
+grooves and corners! 
+If the screws* have already cooled down, remount them to the 
+gear shafts and push the hot processing unit over the screws* 
+until the adhering product flows again. 
+Also thoroughly clean the barrel bores with the supplied round 
+brush while they are still hot and dry them afterwards. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 11911 CLEANING 
+(20) 
+120 NOTICE 
+Risk of property damage! 
+Screws* not properly mounted and fixed can run against 
+the die adapter at the screw tip which inevitably will 
+destruct the screws* and the die adapter. 
+> Remount the screws* properly as described in 
+chapter 8.11.2 "Disassembling/mounting the screws*". 
+> Retighten the two fixing screws of the screws* with 
+the 3/32" socket spanner! 
+If no further tests are to be run, click the red button 
+in the control functions in the WinExt software’ in order to switch 
+off all heaters. 
+=> The button changes al bl 
+> All heaters are switched off. 
+Before starting the next test series, make sure that all test 
+parameters have been set correctly, that the entire machine 
+system has reached the nominal temperature and that this 
+temperature is constant. 
+Conical twin screw extruder KDSE Mark III (counter-rotation)12_ MAINTENANCE 
+12 MAINTENANCE 
+12.1 Safety notes concerning maintenance 
+NOTICE 
+Risk of property damage! 
+Improper maintenance of the instrument involves the risk of 
+damage to the instrument. 
+> Maintenance of the Brabender® conical twin screw extruder 
+KDSE may only be carried out by instructed personnel! 
+@ For a definition of the target group for maintenance and the 
+required skills, please refer to chapter 4.2. 
+a) In order to provide for professional maintenance of the 
+Brabender® conical twin screw extruder KDSE, you can enter 
+into a maintenance contract with Brabender® customer service. 
+For this purpose, please contact the Brabender® Service 
+department (see chapter 2 "Contact"). 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 12112 MAINTENANCE 
+122 Maintenance work 
+Check of tubes, hoses, 
+and fittings 
+Gear oil change 
+Abrasion check 12.2 Maintenance intervals 
+e All tubes and hoses as well as the corresponding connections and 
+screw joints must be checked for their general condition and 
+tightness every day before starting work. 
+¢ The gear unit of the conical twin screw extruder KDSE contains a 
+special gear oil (e.g. Vactra 4 ISO VG 220). The gear oil must be 
+changed in regular time intervals. 
+(a) Concerning gear oil change, please refer to chapter 12.3 
+"Gear oil change" 
+@ In case of everyday use, check the conical twin screw extruder 
+KDSE and the screws* for abrasion every time when cleaning the 
+machine or every 2 weeks, at the latest (visual check). 
+Keep the following maintenance intervals: 
+Interval 
+Check Execution 
+Visual check of general every day before starting work 
+condition and tightness 
+— 1. oil change: 
+after 500 - 1000 operating hours 
+further oil changes: 
+| every 4000 - 5000 operating hours 
+Visual check every time during cleaning or every two 
+weeks at the latest 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation}12 MAINTENANCE 
+12.3 Gear oil change 
+NOTICE 
+Risk of property damage! 
+Impurities in the gear oil or unsuited gear oil may cause damage to 
+the gear unit. 
+> Change the gear oil in regular time intervals: 
+1. oil change: after approx. 500 - 1000 operating hours 
+further oil changes: every 4000 - 5000 operating hours 
+> Do not mix up lubricating oils! 
+> Only use the gear oil admitted by Brabender®! 
+Impurities in the gear oil may indicate wear. 
+> Always check the drained oil for impurities in order to early 
+recognize wear in the gear unit! 
+Drain the gear oil immediately after stopping the machine 
+while it is still at operating temperature. 
+The gear oil can be ordered from Brabender® (ID no. 2 11 075, see 
+chapter 16 "Accessories"). 
+station’, if any, to position "0" ("OFF"). 
+Disassemble the conical twin screw extruder KDSE from the 
+drive unit*. Yy Set the isolator switches of the drive unit* and of the docking 
+Unscrew and remove the four fixing screws of the gear cover 
+hood (two on each side, mind the assignment of the screws to 
+the sides). 
+Fixing screws 
+of the gear cover hood 
+Fig. 12-1 
+Conical twin screw extruder KDSE Mark Ill {counter-rotation) 12312 MAINTENANCE 
+(4) Loosen and unscrew the two water flanges for gear cooling (see 
+fig. below) using an adjustable open-end spanner* (special tool, 
+not included in the accessory kit). 
+Water flanges 
+for gear cooling 
+Fig. 12-2 
+NOTICE 
+Risk of property damage! 
+When taking off the gear cover hood, the safety switch which is 
+fixed thereon may be damaged. 
+> Be very careful not to tear off or damage the safety switch 
+when disassembling the gear cover hood! 
+(Sj Carefully take off the gear cover hood. 
+Gear cover hood 
+Oil inspection glass/ 
+oil drain screw 
+Fig. 12-3 
+Put a suitable container (capacity approx. 0.5 I) as near as 
+possible under the oil inspection glass/drain screw. 
+Unscrew the oil drain screw and drain the oil into the container. 
+Inspect the oil for excessive contamination and foreign bodies. 
+ai In case of excessive contamination or foreign bodies 
+such as metal shavings in the gear oil, please 
+immediately contact the Brabender® Service 
+department (see chapter 2 "Contact"). 
+124 Conical twin screw extruder KDSE Mark Ill (counter-rotation)42 MAINTENANCE 
+(2) Unscrew and remove the eight fixing screws of the gear box 
+cover. 
+@ Mind the exact position of the gear box cover in order 
+to remount it correctly later-on. 
+Gear box cover = 
+Fig. 12-4 
+Fill fresh gear oil into the gear box (approx. 0.3 |, ie. approx. half 
+full), While pouring in the oil, turn the screws by hand (see fig. 
+below) and drain the remaining old oil as far as possible with the 
+fresh oil. 
+Gear box — 
+Fig. 12-5 
+(1) Fill in fresh gear oil until the gear box is about half filled. 
+When the gear box cover hood has been disassembled, the 
+rotating gear wheels are bare. 
+Danger of severe injury, entanglement hazard! 
+> Operation of the conical twin screw extruder KDSE without 
+the gear box cover hood being properly mounted is not 
+permitted! 
+Remount the gear box cover the right way round and fix it with 
+the eight screws. 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 12512 MAINTENANCE 
+Remount the gear cover hood but do not yet fix it. 
+Apply PTFE band or sealing compound onto the threads of the 
+two water flanges. 
+Reinsert the two water flanges and fix them. 
+NOTICE 
+Risk of property damage! 
+When fixing the gear cover hood, the cable of the safety switch can 
+be pinched and damaged. 
+> When mounting and fixing the gear cover hood, make sure 
+that the cable of the safety switch is not pinched or clamped! 
+Fix the gear cover hood with the four screws. 
+@ The fixing screws of the gear cover hood differ in size: 
+long screws => into long bolts 
+short screws > into short bolts 
+Remount the conical twin screw extruder KDSE to the drive 
+unit* 
+Please follow the instructions in chapter 8.3.2 (for 
+Plastograph® EC Plus*) and 8.4.3, respectively (for 
+Plasti-Corder® Lab-Station*). 
+Dispose the old gear oil in an ecologically sound way. 
+Schedule the next gear oil changes after approx. 4000 to 5000 
+operating hours. 
+126 Conical twin screw extruder KDSE Mark III (counter-rotation)13. TROUBLE-SHOOTING 
+13 TROUBLE-SHOOTING 
+This chapter lists some possible troubles which may occur during 
+operation of the Brabender® conical twin screw extruder KDSE and 
+measures to be taken for eliminating these troubles. 
+@ For trouble-shooting, please also refer to the chapter "Trouble- 
+shooting" of the separate instruction manual of the drive unit* 
+used and of the docking station’, if applicable. 
+Danger of injury, risk of property damage! 
+The conical twin screw extruder KDSE, the cooling air and cooling 
+water fittings, and further additional equipment, if any, remain very 
+hot even for a long time after switching off of the heaters! 
+Risk of severe burning, risk of damage to contact surfaces by hot 
+machine parts! 
+Always wear suitable protective gloves! 
+Always take care to keep a sufficient distance of unprotected 
+parts of your body to hot machine parts! 
+Deposit hot machine components on suitable, heat-resistant 
+surfaces only. 
+Place clear warning signs beside the hot machine parts in 
+order to avoid unintentional touching by third persons. 
+Harmful or irritant vapor, gas, or liquids! 
+Danger of chemical burn, danger of eye injuries or respiratory 
+complications! 
+Always wear suitable protective gloves and safety goggles 
+when working near to feed, discharge, or vent openings! 
+Never look directly into feed, discharge, or vent openings 
+without suitable eye protection! 
+Always keep a sufficient distance of the respiratory organs 
+to any feed, discharge, or vent openings. 
+Conical twin screw extruder KDSE Mark Itl (counter-rotation) 12713 TROUBLE-SHOOTING 
+No.| Error 
+1 Torque rises steeply at the 
+beginning of the test until 
+the electronic torque 
+limitation is activated | Cause/measure 
+Cause: 
+Screws* got stuck due to insufficient cleaning or overloading or 
+unmolten product 
+@ Screws* mounted wrongly (torque rises steeply at once) 
+¢ Foreign bodies within the barrel or in the screw channels (torque 
+rises steeply after a few revolutions of the screws*) 
+Measures: 
+a Press the emergency motor stop button or click the button 
+in the WinExt program*. 
+= The drive motor is reset to zero automatically. 
+Hot surfaces at the conical twin screw extruder KDSE, hot melt in 
+the barrel! 
+Risk of severe burning, risk of property damage! 
+> 
+> 
+© & Always wear suitable protective gloves and safety goggles 
+when working at the conical twin screw extruder KDSE! 
+Always take care to keep a sufficient distance of unprotected 
+parts of your body to the hot surfaces! 
+Dispose hot melt into suitable, heat-resistant containers only! 
+Draw the processing unit of the conical twin screw extruder 
+KDSE off the screws” as described in chapter 8.11.1. 
+Visually check whether the product is completely molten. 
+> if not, increase the temperatures of the control zones in the 
+WinExt software* for the next measurement so as to ensure 
+complete melting of the product. 
+Check the screws*: 
+© Are the screw channels free? 
+e Are the screw tips exactly in line with each other? 
+e@ Are the screws* mounted properly in the supporting bores? 
+Thoroughly clean the screws* and the barrel bores with the 
+supplied brass brush, then dry them. 
+See notes and instructions in chapter 11. 
+128 Conical! twin screw extruder KDSE Mark III (counter-rotation)13. TROUBLE-SHOOTING 
+No.| Error | Cause/measure 
+[1] [continued] 
+Remount the screws”. 
+Push the processing unit over the screws* and fix it. 
+Carefully try to restart the system as described in chapter 10.3.2. 
+2 The conical twin screw Cause: 
+extruder KDSE cannot 
+be started No power supply to the drive unit* and/or to the docking station* 
+Wrong mains voltage at the drive unit* and/or at the docking station” 
+Emergency shut-off switch (isolator switch) at the drive unit* and/or 
+at the docking station* in position "0" 
+Emergency motor stop button of the drive unit* activated 
+Cable of the safety device not properly connected to the socket 
+"Safety Device" 
+Cable of the torque limitation of the conical twin screw extruder 
+KDSE not properly connected to the socket “Torque limit key" 
+CAN cable not properly connected (CAN-IN and CAN-OUT and/or no 
+terminal resistor plugged onto CAN-OUT socket) 
+@ Motor of the drive unit* overheated 
+e Fuse of the drive unit* and/or of the docking station* released or defective 
+© Inverter error at the drive unit* 
+Measures: 
+(1) Check whether the mains plugs of the drive unit* and of the 
+OCe docking station*, if any, have been connected properly to the 
+mains. 
+Check whether the mains voltage meets the data on the name 
+plate of the drive unit* and of the docking station’, if any. 
+Make sure that the isolator switches of the drive unit* and of the 
+docking station’, if any, are in position "I". 
+Check whether the emergency motor stop button of the drive 
+unit* has been actuated (pressed down) by drawing the 
+emergency motor stop button upwards. 
+@ The red signal lamp of the emergency motor stop button 
+flashes when the emergency motor stop button has been 
+actuated (pressed down). 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation) 12913 TROUBLE-SHOOTING 
+No.| Error 
+[2] [continued] 
+3 The conical twin screw 
+extruder KDSE does not 
+start running although 
+power supply is on and a 
+speed was set at the 
+potentiometer or in the 
+software* 
+130 | Cause/measure 
+o) 
+Cause: Check whether the cable of the safety device has been 
+connected properly to the socket "Safety Device" at the 
+Plastograph® EC Plus* or on top of the docking station’. 
+Check whether the cable of the torque limitation of the conical 
+twin screw extruder KDSE has been connected properly to the 
+socket "Torque limit key" at the drive unit*. 
+In case of operation with a Plasti-Corder® Lab-Station*: Make 
+sure that the 12-pole CAN communication cable of the conical twin 
+screw extruder KDSE has been connected properly to the socket 
+"Communication" at the Plasti-Corder® Lab-Station*. 
+Check whether all CAN connection cables have been connected 
+properly to the sockets "CAN-IN" and "CAN-OUT" of the CAN 
+modules or, if the conical twin screw extruder KDSE is the last 
+CAN module in the system, check whether the terminal 
+resistance has been plugged onto the "CAN-OUT" socket of the 
+last CAN pressure transducer* in the system (if any) or on the 
+"CAN-OUT" socket of the docking station* (see also chapter 
+8.10.3 "CAN connection"). 
+If these measures are not successful, please follow the 
+instructions concerning this error in the chapter "Trouble- 
+shooting" in the instruction manuals of the drive unit* and of the 
+docking station* 
+Wrong operating mode ("Loc'/"Rem") set at the control and display unit of 
+the drive unit*. 
+Measures: 
+Q Check whether the correct operating mode has been set: 
+e For speed setting via the PC*: 
+) i J 
+LED "Rem" must light 
+e For manual speed setting at FON 
+the potentiometer: "Loc K 
+LED "Loc" must light 
+Conical twin screw extruder KDSE Mark Ill (counter-rotation)13 TROUBLE-SHOOTING 
+No.| Error Cause/measure 
+4 Alarm message “Contro! Cause: 
+thermocouple error" at 
+the controller and in the 
+WinExt software* e Control thermocouple broken or defective e@ Control thermocouple connected wrongly 
+Measures: 
+‘) Check whether the corresponding control thermocouple has 
+been mounted properly and whether it has been connected 
+properly to the corresponding controller. 
+=> If this is the case, the controt thermocouple may be broken 
+or defective. 
+> In this case, please contact the Brabender® Service 
+department (see chapter 2 "Contact"). 
+> Do not take the conical twin screw extruder KDSE into 
+operation any more! 
+5 Bursting pin broken Cause: 
+e Excessive pressure at the screw tips 
+Measures: 
+Danger of injury, risk of property damage! 
+When the bursting pin fails, hot product and, possibly, hot steam, 
+gas, or liquid may emerge under high pressure through the 
+bursting pin until the pressure at the screw tips has released! 
+Danger of severe burning, danger of chemical burn, eye injuries, or 
+respiratory complications, and risk of damage to or destruction of 
+machine parts or of machines nearby by hot material spurting out 
+through the bursting pin! 
+> Always keep a sufficient distance to emerging hot product! 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 13413 TROUBLE-SHOOTING 
+No. | Error Cause/measure 
+aoa — 
+[5] [continued] 
+Disassembly of the old and mounting of the new bursting pin must 
+be done at operating temperature in order to prevent damage to 
+the membrane of the new bursting pin by any hardened product 
+residues! 
+Hot surfaces at the conical twin screw extruder KDSE, hot melt in 
+the processing unit! 
+Risk of severe burning, risk of damage to storage surfaces and/or 
+disposal containers! 
+> Always wear suitable protective gloves and safety goggles 
+when working on the machine! 
+> Always take care to keep a sufficient distance of unprotected 
+parts of your body to emerging hot product and to hot 
+surfaces! 
+Never hold any part of your body directly in front of or under 
+the bursting pin or look directly into the bursting pin! 
+> Discharge hot material into suitable, heat-resistant 
+containers only! 
+When operating the conical twin screw extruder KDSE without 
+bursting pin, impermissibly high pressure may build up at the screw 
+tips! The gear bearings may be damaged and/or the die head* may be 
+blown off! 
+Danger of most serious injuries, risk of property damage by 
+machine parts being blown off and by hot melt spurting from the 
+machine! 
+> Once activated, IMMEDIATELY replace the bursting pin! 
+> Only use genuine Brabender® bursting pins (ID no. 4 30 308, 
+see chapter 17 "Spare parts”)! 
+Carry out steps no. 1 - 7 listed under the measures for error no. 1. 
+Carefully unscrew the old bursting pin from the threaded ring. 
+Screw in a genuine Brabender® bursting pin (ID no. 4 30 308). Cece For restarting the conical twin screw extruder KDSE, please 
+follow the instructions in chapter 10.3.2 
+132 Conical twin screw extruder KDSE Mark Ill (counter-rotation)14 REPAIR 
+14 REPAIR 
+Danger of injury, risk of property damage! 
+Improper repair work involves the danger of injury for the personnel 
+and the risk of damage to the instrument. 
+> Repair work at the Brabender® conical twin screw extruder 
+KDSE may only be carried out by Brabender® service 
+technicians or by skilled personnel authorized for this work 
+by Brabender®. 
+If the Brabender® conical twin screw extruder KDSE needs to be repaired, 
+please contact the Brabender® customer service/Service department. 
+Contact: Brabender® GmbH & Co. KG 
+KulturstraBe 51 - 55 
+47055 Duisburg 
+Germany 
+@ Phone -49-203-7788-0 
+ee E-mail: service@brabender.com 
+North American Regions 
+Contact: C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+&@ E-mail: service@cwbrabender.com 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 13314 REPAIR 
+134 Conical twin screw extruder KDSE Mark Ill (counter-rotation)15 DISPOSAL 
+15 DISPOSAL 
+The carrier of the instrument is responsible for ecologically sound 
+disposal of the Brabender® conical twin screw extruder KDSE or of parts 
+thereof. 
+e@ Lubrication of the gear unit of the Brabender® conical twin screw 
+extruder KDSE implies the use of the process material high- 
+temperature gear oil. 
+e It is within the responsibility of the carrier of this machine to observe 
+and apply the manufacturer's regulations and instructions in the safety 
+data sheets concerning disposal - even of residues - of this process 
+material. 
+@ In case of a necessary disposal of the Brabender® conical twin 
+screw extruder KDSE or of part thereof, we recommend 
+entrusting an authorized disposal company with the disposal of 
+the machine/machine parts in order to make sure that the local 
+regulations concerning collection, recycling, and disposal as 
+well as those concerning documentation are observed. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 13515 DISPOSAL 
+136 Conical twin screw extruder KDSE Mark III (counter-rotation)State the ID no. and 
+the serial number 
+(see name plate)! 
+If possible, state the 
+order number as well! 16 ACCESSORIES 
+16 ACCESSORIES 
+For handling and operating the instrument as well as for cleaning, the 
+accessories listed below are included in the scope of supply of the 
+Brabender® conical twin screw extruder KDSE. 
+16.1 Reordering instructions 
+e The individual parts of the accessory kit can be reordered like spare 
+parts at any time in case of consumption. 
+e For all reorders of accessories of Brabender® instruments, please 
+always state the ID no. and the serial number of the instrument for 
+which you require the respective part. 
+These numbers are indicated on the name plate of the Brabender® 
+instrument (see chapter 6.2.1 "Name plate"). 
+e Additional indication of the order number under which you received 
+the Brabender® instrument facilitates handling of you order. 
+e Please address your repeat order to your local Brabender® 
+representation or directly to Brabender®. 
+Contact: Brabender® GmbH & Co. KG 
+KulturstraRe 51 - 55 
+47055 Duisburg 
+Germany 
+@ Phone -49-203-7788-0 
+6 E-mail: brabender@brabender.com 
+North American Regions 
+Contact: C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+Phone 201-343-8425 
+ea E-mail: service@cwbrabender.com 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 13716 ACCESSORIES 
+16.2 List of accessories 
+ID no. Designation Packing unit 
+6 19 224 Extruder brush 1 pe. 
+2 97 097 Brass wire brush 1 pe. 
+211071 Copper paste OKS240 250 g 
+(-30°C - +1100°C) 
+2 97 547 Set of Allen keys, 1/16" - 3/8" 1 pe. 
+2 97 180 Sickle spanner 95/100 mm, DIN 1810 B 1 pe. 
+2 97 956 Double open ended wrench size 14* 15 mm 1 pe. 
+2 33 630 Hexagon socket key 6 mm DIN 911 1 pe. 
+2 60 072 Silicon hose 8 * 12mm 45 m 
+2 97 457 Hose clamp with jaw adjustment 7 pes. 
+@13-15* 9mm 
+430217 Closing plug 1 pe. 
+6 17 215 Heater zone connecting cable 0.6 m 1 pe. 
+4-pole Tuchel 
+673 326.002 | Control thermocouple with PTFE cable | 1 pe. 
+3000 mm 
+138 Conical twin screw extruder KDSE Mark Ill (counter-rotation)17 SPARE PARTS 
+17 SPARE PARTS 
+17.1 Ordering instructions 
+State the ID no. and e For spare part orders for Brabender® instruments, please always 
+the serial number state the ID no. and the serial number of the instrument for which 
+{see name plate)! you require the respective part. 
+These numbers are indicated on the name plate of the Brabender® 
+instrument (see chapter 6.2.1 “Name plate"). 
+a Your order cannot be handled without these numbers. 
+If possible, state the e §Additional indication of the order number under which you received 
+order number as well! the Brabender® instrument facilitates handling of you order. 
+e Please address your spare parts order to your local Brabender® 
+representation or directly to Brabender® 
+Contact: Brabender® GmbH & Co. KG 
+KulturstraBe 51 - 55 
+47055 Duisburg 
+Germany 
+& Phone -49-203-7788-0 
+és E-mail: brabender@brabender.com 
+North American Regions 
+Contact: C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+és E-mail: service@cwbrabender.com 
+Conical twin screw extruder KDSE Mark Ill {counter-rotation) 13917 SPARE PARTS 
+17.2 Spare parts list 
+ID no. Designation 
+315-40-035 Ceramic heater band 1900 W, 230 V (Zone 1) 
+315-40-036 Ceramic heater band 1000 W, 230 V (Zone 2) 
+315-40-037 Ceramic heater band 1200 W, 230 V (Zone 3) 
+315-40-057 Heater band MICA 400 W, 230 V (Collector) 
+2 43 160 Cheese head screw 3/8"-16"1.5" - 12.9 
+315-40-010 Y-piece (Collector) 
+315-40-010B Collector Insert 
+2 43 053 Parallel pin 1/8" * 3/4" 
+4 30 308 Safety bursting pin %" * 20 UNF * 67, 700 bars/150°C 
+315-40-009 Vent exhaust block 
+315-40-045 O-ring for lead-through to the gear unit 
+315-40-030 Screw coupling (long) 
+315-40-031 Screw coupling (short) 
+3-104-1020 Set screw 10-32 * 3/16" UNF (clutch) 
+305-00-307 _| Silencer made of sinter bronze 1/8" NPT 
+315-40-148 Simmerring seal KDSE gear unit input shaft 
+211075 Gear oil Vactra 4 (ISO VG 220) 
+140 Conical twin screw extruder KDSE Mark III (counter-rotation)State the ID no. and 
+the serial number 
+(see name plate)! 
+If possible, state the 
+order number as well! 18 SUPPLEMENTARY MODULES, ADDITIONAL EQUIPMENT 
+18 SUPPLEMENTARY MODULES, ADDITIONAL 
+EQUIPMENT 
+Supplementary modules and additional equipment are modules which 
+may be mounted additionally to or used in combination with the 
+instrument but which are not necessarily required for operating the basic 
+instrument, or parts, that may substitute standard parts of the instruments 
+and need to be ordered separately 
+18.1 Ordering instructions 
+e ~The individual parts can be ordered like spare parts at any time. 
+e For orders of supplementary modules or additional equipment for 
+Brabender® instruments, please always state the ID no. and the 
+serial number of the instrument for which you require the respective 
+part. 
+These numbers are indicated on the name plate of the Brabender® 
+instrument (see chapter 6.2.1 "Name plate"). 
+e Additional indication of the order number under which you received 
+the Brabender® instrument facilitates handling of you order. 
+e Please address your spare parts order to your local Brabender® 
+representation or directly to Brabender® 
+Contact: Brabender® GmbH & Co. KG 
+KulturstraBe 51 - 55 
+47055 Duisburg 
+Germany 
+@ Phone -49-203-7788-0 
+és E-mail: brabender@brabender.com 
+North American Regions 
+Contact: C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+&@ E-mail: service@cwbrabender.com 
+Conical twin screw extruder KDSE Mark Il (counter-rotation) 14118 SUPPLEMENTARY MODULES, ADDITIONAL EQUIPMENT 
+18.2 List of supplementary modules 
+ID no. Designation 
+241 941 Pressure transducer with thermocouple 
+142 Conical twin screw extruder KDSE Mark III (counter-rotation)19 ANNEX 
+19 ANNEX 
+19.1 Electrical documents, wiring diagrams 
+The electrical documents and wiring diagrams of the Brabender® conical twin 
+screw extruder KDSE are included separately in the scope of supply. 
+Conical twin screw extruder KDSE Mark III (counter-rotation) 143g L 
+~ 10-0003 209%€8 5.9 ———— 
+209KE8 stintvea| 
+EPO J3"Td 404 Ill EW ASA" 
+| ¢ | ¥ | t ] z 
+= aa] i) eT wen canoe | Tiny aan | 
+J@ayUs 12A0D) sere} =< | 
+nelay20q] Lapueqerg mare] oor — 
+wes6eig b0-000409¢¢8 
+[o'r ]¥ [sy] [ogros]?# [saroez | 
+L_ | s [_sooreg | trom 
+ES aa 
+woosapuaqeig Quepuaqesq &| 0- SBLL- C0Z- y+ OU0Ud BE 
+Aueuued Bingsing scopy = LS-6 “HSUNyNyy 
+Dy 9D 8 HAWD ,jepusqeig 
+Japuaqeig SdlAEq 
+L09vE8 
+Bingsing Of OOFHAWS USANSEVHE @ | “uajeqsen Burmuuugsnz eupippqupsne e39sun euyo pus: fanqsing SW OOVHdWS UAGNaavud @ | 
+a "Wappiqioy Agougs = Auoyyne ssaudxe jnouua sagied Pau oF einsopsip so ssn ‘uoRonposday “ureieNp peulewoo YOR ~eUUO}U BY Ut pul woUINDOP SiR UI UBL IIe eAIeseI OAA, “SunbIYReIAIEA “0A qyDey OIfe SUN 41M UOHEYAQ PUTS -ueGan uoytelsoBiep Uuep uap pun quauunyog sasalp 104 seqeyu] sours Bunpanue 1po aqua ue aqeBuEyeg 
+«< 
+§ _ t t z 5 wear ig) 
+z Hea 10-0004 L09vE8 -sunayae? 
+2097E8 dduineg a) ca 
+$}]U9}UCD JO SI] 
+SIUYDI9ZIOAS BYU], 
+Jepueqesg 
+| i UIST 
+1 ag 
+ede(era | “weg | 
+Ozoz'vOrrL | ned, 
+it 
+Sinqsind Dx OOPHAWS UAGNZEVHE @ | usjoqien Sunuuugsnz ayopDIpSAe sesun SUYO PUES ‘Seqeyu SeuIes BunyoMuen Jape spuG Ge aqeB\uUexsg “BunSuRiaWa, ‘30a oyyoay ope Sun yA Ual/eYyaq PUEIS -uabeg tranyarsaBiep unep wap pun jrOUInYO sasarp 104 YEPPIGIO) Bingsing oy OOSHAWS YSaNSavua © 
+ajsiieywsqeuisg 9 Pe 
+ueldynejwons ¢ ysij sjuaucdio5, 
+ue|dynejwojns © 
+SIUYDISZIBAS}EYU] TZ 
+Reqs | 
+ad} JueWuNDOp eyep wei6eiq BuLiAA aysyayiwsqeyjag 
+wes6eiq Buia, 
+$]U9}U09 JO ISI] 
+J8ays 18009 
+UOISISA eolaap Jepniyxg 
+sluyolezieasyjeyul 
+neipeq | 1 S 
+aalasp Ayes v 
+€ 
+[4 
+uolduosep jeous 
+SJUSJUOD Jo ISI) 
+Aqaus si Awoujne ssaidxe ynowpm somed PALA OF ‘ainsopsip 20 95n ‘uoonposdey “ulsratp PaUIE]UOD UOR ~eunojUr 249 Ut pue quawNoOp SHH ul SIYBW fle Sa1aSe1 OMA “in 
+t 
+xe xa re 
+a x2 J = 217249 
+FT -X1 
+217248 
+‘ 
+Cover extruder fine | 4 
+Front panel 
+a i, 
+= MOP 
+2 trm5 
+ms gf x a 
+teh 
+© s 
+a au 
+= Mont 
+— Tt 
+hee gz we 
+Ey 
+lh 
+© > 
+=|) 
+M0001 
+28 
+ae Et s Py 
+e 4 
+- S —h 2 E 4 B 
+Cal 
+xy MOOS) a mi & 
+Soe wgg 
+$f ry 
+a 
+Bingsing SY COsHIWD HAGNSdVYd 
+wappXVo} Apouys st Aone ssaudxe noyym sepled pnp OF 
+sinsopsp 10 2sn ‘woponpoidey -PuLig}uy auf ur pue ouunoo SIMs UF SUSU Ie eALOSEA a 1043 paulEioo uoG | Ginqsing OF OOBHAWS USGNISVUG S | -uejoqen Bunuaunsnz eyaipaoipsne azasun euyo purs SeBMU] SOUNDS BunpaNie, J9p0 eMC UE aqeBuUEIER “BunBargisuu2, 20 a1Y90y Oe SUN JIM LEYEYaq pueIs uafen uaiayseG1ep uLZp Uep PUN UOLUNYE SEsoIp ID 
+° a uw J 
+834607 
+=" 834607E000-01 Bugrupps 
+Diagram Extruder device 
+iring [ew 
+a. Brabender’ 4.04.2020 
+D.Pieper alum 
+Bear. 
+Gop. 
+Nom Name Andenng Datuat Zosiand 200 
+Nm Extruder Torque 
+limit 
+box 
+=e ?s 3 g 3 2 
+ef 3 = ad =8 42 
+an = To a5 5s 8 
+“BL as 
+Ze 3 = FT a 
+#8 —— ; “ 
+BS rT | n 
+as 7 t = xB 
+= N 
+& 
+222008 
+ee 
+< 
+g Oo 
+Qo 
+oO 
+Ww 
+5 519 3) 5 m| © 
+@| 
+3 a |2 B |: 
+a if iagram ing D Safty device Brabender| 
+enh. |14.04.2020 Dalam 
+Sinqsing OW OOWHqWIS HBGNSEveE @ 
+“uappiasog Agoins 51 Auornne ssoudxo ynouym sonsed pug 0 einsoppsip 16 36n "‘uoRonpoxden! “ursIey PaUIEUOO UO -eunoyur 219 4 pue yeulNDop SILA UI SIYBLE YE @A1ESO! OANA Bingsing OW’ OOFHIWS NAGNAEWNE O 
+-uajoqrea Bunuaugsnz ayoipplupsne aasun ouye puls 
+‘soyeyuy sauias Bunuomien Jap aqua ue eqeByue{eR “GungygyeIren 40n oWpOY BLE SUN aw UEEYEY BUTS -ueBeg uayiauseBtep uuep Uap pun uowiMyed seseip 404 000A L09PE8 f rs 
+sNsBonUNEeZ LOOPES oldna0g Jepuaqeig Oz0%'P0"F1 vedeigd 
+Bangsing ow OD9HUO YSONISVUT © 
+‘seyeyul sours Bunyamia, apo oyna ue eqetuueyeg 
+“GunBmeavua, 104 oypoy aye sun aa uayeyaq PUES -uefep uayjeysefuep wep wap pun jueWN}oG seseIP 105, “wajoqiea Sunuuugsnz ayopApIpsne 1esuN BuO Puls 4 
+|_| | = 
+i 
+T = 
+] 
+gigas a 
+} 
+HAT a°nea = 
+gig: = 
+| 
+_| 
+|R 
+$22 | 
+eae 
+OHO 
+Jepuageig 
+jeuluue; 
+yee 
+| 
+OOF 
+eSeelz 
+| 
+9x- 
+ze) 
+ag | 
+| 
+ea 
+690V 
+SOL 
+OSIINA/USNg 
+|odz} 
+Jo}9euUUOD|eqe5 
+96612z 
+sx 
+il 
+bb 
+33° | 
+sae 
+jouayduny-jsyon 
+| 
+Ody 
+J0}98UUOD 
+BI1G29 
+aIe/\ 
+| 
+6bzLLZ 
+eX 
+| 
+OF ree) 
+jousydwy-jeyon, 
+| 
+Ls 
+Byodz 
+1ojeuuc9 
+ejqeo 
+eey) 
+ZSZL1z 
+ex: 
+| 
+6 eae 
+Jouayduny-jsyony, 
+LS 
+Bijody 
+iojaauuco 
+ajqeo 
+ajeyy] 
+6bZL1z 
+zx: 
+| 
+F) 
+: La’e/ 
+joueyduny-eyon, 
+~_ 
+LS 
+Bilody 
+soyoeuu0o 
+e\g20 
+aeW 
+6bzLbz 
+LX: 
+Lo Sor 
+HW'ODRHAW 
+Jepueqeig 
+WNOOZ 
+JEpnaxe 
+xoq 
+yu] 
+enbso} 
+g00°s986Z9 
+Lae 
+9 Ze 
+NOHO) 
+OCAPzZ 
+S1/QZ 
+Z0-L2-OWSN-HOL-SEs 
+Josuas 
+Ajayes 
+SyouBeyy 
+800Z2ZZ 
+| 
+LS 
+g 8) 
+| 
+saver 
+amo 
+AQEz/‘MOOr 
+ee} 
+Bujeoy 
+ZS0-Ob-SLE 
+| 
+va- 
+v 
+& [pares 
+amo 
+AdEz/MOOZE 
+qe; 
+Buyeey 
+LE0-OP-SLE 
+ea 
+€ 
+| eq'e/ 
+amo 
+A0EZ/MOOOL 
+ede} 
+Bujesy 
+9E0-0F-S1LE 
+za 
+Zz | 
+Loves 
+aMo 
+Aoez/Mo06} 
+qe} 
+Buyeay 
+GE0-OF-SLE 
+Ler 
+| 
+[| 
+: suoneubisa 
+; | yjed 
+/ aBed 
+| 
+Jeyddns 
+uoyduosap 
+juauodwoo 
+se 
+P 
+uoyeoo| 
+| Ajquesse 
+sod ¥ 
+| 
+| 
+- 
+4 
+| 
+¥ s}uesuodwoy Brabender® GmpH & Co, KG 
+Kulturstr. 49-51 
+47055 Duisburg 
+Germany 
+@ Phone +49-203-7788-0 
+f= E-mail brabender@brabender.com 
+www.brabender.com C.W. Brabender® Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ = Phone +201-343-8425 
+Fax +201-343-0608 
+6 E-mail: service@cwbrabender.com 
+www.cwbrabender.com Brabender’ 
+... where quality is measured. 
+000 «Bpa6enzep» 
+yn, Arogwyckaa, A. 25 
+420032 Kasahb 
+Poccua 
+@ Ten. +7843 233 46 66 
+€ E-Mail: oo0.brabender@brabender.ru 
+www. brabender.com

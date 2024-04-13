@@ -1,0 +1,211 @@
+uy) 
+Brabender’ 
+Endpriufprotokoll 
+Final Test Certificate 
+MetaStation 4E Ident-Nr. 815670 Serien-Nr. 1936376 
+ID no. Serial no. 
+Hersteller Brabender GmbH & Co. KG 
+Manufacturer Kulturstr. 49 - 51 
+47055 Duisburg 
+Germany 
+Dieses Endpriifprotokoll besteht aus 5 Seiten. 
+Es darf nur unverandert und vollstandig weitergegeben werden. 
+No. of sheets: 5. 
+This Final Test Certificate shall be void if amended without authorization or reproduced other than in full. 
+04.05.2021 Wa 
+Mitarbeiter des Priiffeldes (Stempel) Ausstellungsdatum - Unterschrift 
+Person in charge at testshop (Seal) Date of issue Signature 
+_ 1/5 
+Revision: 08.01.2021 815670-xxx+815675-xxx_MetaStation-4E_EPPdg-00-d Brabender' 
+Priifergebnisse 
+Test results 
+Drehzahipriifung 
+Speed check 
+| Nominal Nominal _Gemessen/Found as _Gemessen/Found as 
+5.0 min" 
+10.0 min“ 9,98 min? 120.0 min“ 120,1 min‘ 
+35.0 min" 34,98 min 150.0 min’ 150,1 mint 
+60.0 min“ 60,06 min’ | 185.0 mint 185,2. min 
+. Toleranz/Tolerance Prifmittel 
+21°C Test equipment Serial no. Next date of calibration vom Endbereich/of full load 1 Digitales Tachometer (02874 _ 07/2021 
+| Digital speedometer _ 
+Drehmomentpriifung 
+Torque check 
+50 % 
+Nominal Gemessen/Found as 100 % 
+Gemessen/Found as Nominal 
+2.0 1.0 1,0 Nm 
+5.0 Nm 5,0 Nm 2.5 Nm 2,5 Nm 
+10.0 Nm | 10,0 Nm 5.0 Nm 5,0 Nm 
+25.0 Nm 24,9 Nm 12.5 Nm 12,5 Nm 
+50.0 Nm 49.8 Nm 25.0 Nm 24,9 Nm 
+100.0 Nm 99,8 Nm | 50.0 Nm | 49,8 Nm i | 
+150.0 Nm 149,8 Nm 75.0 Nm 74,8 Nm 
+200.0 Nm 199.8 Nm 100.0 Nm 99,8 Nm 
+300.0 Nm | Nm 150.0 Nm —_— Nm 
+400.0 Nm ese Nm | 200.0 Nm | —-—-—- Nm 
+Toleranz/Tolerance 
++1°% 
+vom Endbereich/of full load Kalibrierwert | 9% = -0,00435 
+Calibration value | 100% = 1,64722 
+Priifmittel Serien-Nr. 
+Test equipment | Serial no. 
+Kalibrierarm/Calibration arm 1000 mm 
+M.-Prazisionsgewichte (04479 & 04480 & 04481 08/2021 | 
+Class M1 precision weights 
+2/5 
+Revision: 08.01.2021 815670-xxx+815675-xxx_MetaStation-4E_EPPdg-00-d Brabender’ 
+Temperaturkontrolle 
+Temperature check 
+Raumtemperatur/Ambient temperature 
+| Gemessen/Found as 20 °C 
+Massetemperaturpriifung 
+Melt temperature check 
+Nom. | Gemessen . |Gemessen |Nom. | Gemessen Gemessen 
+Found as Found as | Found as 
+Display Display / Display 
+300 °C 
+300 °C 300 °C | 400 °c 400 °C 
+200 °C | 300 °C | 300 °C| 400 °C 400 °C 
+200 °C | 300°C | 300 °C| 400 °C 400 °C 1 100°C 100 °C 
+2 100°C | 100°C 
+3 | 100°C 100 °C 
+4 |100°C 100 °C 200 °C | 200 °C 
+200°C | 200 °C 
+200 °C | 
+200 °C 
+Priifmittel 
+Test equipment Toleranz/Tolerance 
+22°C 
+bei 20 °C Raumtemperatur 
+at 20 °C ambient temperature 
+| Universal calibrator Universalkalibrator 03619 06/2021 
+Regeltemperaturpriifung 
+Control temperature check 
+Gemessen Gemessen Gemessen Gemessen 
+Found as Found as Found as Found as 
+Display Display Display Display 
+300 °C 299 °C 100 °C 199°C 
+400 °C 399 °C 2 100°C) 99 °C | 200°C | 199°C | 300°C 299 °C | 
+3 100°C 99 °C | 200 °C | 499 °C | 300 °C 299 °C | 400 °C 399°C 
+4 ~~ 100°C | 99 °C 200 °C | 199 °C 300 °C 299 °C| 400 °C | 399 °C 
+‘5 \t00°C = 99°C | 200°C 199 °C | 300 °C | 299 °C | 400 °C 399°C 
+6 | 100°C 99 °C 199 °C | 300 °C | 299 °C | 400 °C 399 °C 
+Priifmittel 
+Test equipment Toleranz/Tolerance 
+42°C 
+| bei 20 °C Raumtemperatur 
+at 20 °C ambient temperature Serien-Nr. Nachster Priiftermin 
+Universalkalibrator | 03619 06/2021 
+Universal calibrator - 
+3/5 
+Revision: 08.01.2021 815670-xxx+815675-xxx_MetaStation-4E_EPPdg-00-dUntere Anschlagschraube/Hebelarm 
+Lower stop screw/lever arm 
+Obere Anschlagschraube am Waagenhebel 
+Upper stop screw on balance lever 
+Schrauben 
+Screws 
+USB-Ports 
+USB ports 
+HDMI-Ausgang 
+HDMI port 
+Sicherheitsschaltung 
+Safety device 
+Zweihand-Sicherheitsschaltung 
+2-Hand safety device 
+Not-Halt-Taster 
+Emergency motor stop button 
+MetaBridge-Version 
+MetaBridge version 
+Sauberkeit, Lack-/Metallschaden 
+Cleanliness, paint/metal damage 
+Typenschild mit CE-Zeichen ok 
+Name plate with CE sign ok Weitere Priifungen 
+Further checks 
+Spiel eingestellt? 
+clearance adjusted? 
+justiert+verlackt? 
+adjusted+varnished? 
+verlackt? 
+varnished? 
+gepriift? 
+checked? 
+geprift? 
+checked? 
+gepriift? 
+checked? 
+gepriift? 
+checked? 
+gepriift? 
+checked? 
+gepriift? 
+checked? 
+gepriift? 
+checked? 
+geprift? 
+checked? Brabender’ 
+4/5 
+Revision: 08.01.2021 815670-xxx+815675-xxx_MetaStation-4E_EPPdg-00-dBrabender 
+Anschluss an Nationale Normale 
+Traceability to national measurement standard(s) 
+Universalkalibrator/Universal calibrator Nr. 03619 
+Digitales Tachometer/Digital speedometer Nr. 02871 
+Kalibrierarm/Calibration arm Nr. 02062 
+M,-Prazisionsgewichte/Class M: precision weights Nr. 04479 & 04480 & 04481 
+Die Endpriifung wurde durchgefiihrt auf Basis der folgenden Endpriifanweisung: 
+The final test was performed according to the following Final Test Procedure: 
+815670-xxx+815675-xxx_MetaStation-4E_EPAWdg-00 
+Der Priifgegenstand entspricht in allen Belangen den Bedingungen der vorgenannten Priifvorschrift. 
+The measuring device conforms to the regulations of the above test procedure in every respect. 
+Mitgeltende Unterlagen/Associated documents: 
+® Priifprotokoll (Zwischenprtifung) “Priifung der elektrischen Sicherheit" 
+Test protocol (in process test) "Safety of electrical circuits" 
+Weitere Bemerkungen/Remarks, if any 
+——_ ——<—<—<—<— 5/5 
+Revision: 08.01.2021 815670-xxx+815675-xxx_MetaStation-4E_EPPdg-00-dBrabender'’ Original [DE,EN] 
+EG-Konformitatserklarung 
+EC Declaration of Conformity 
+Wir, die Brabender® GmbH & Co. KG 
+We 
+mit Geschaftssitz Kulturstr. 49-51 
+of 47055 Duisburg 
+erklaren hiermit, dass das nachstehend bezeichnete Produkt 
+declare under our sole responsibility that the product 
+Produktbezeichnung MetaStation 4E 
+Product description 
+Typ/Serien-Nr. 815670/1936376 
+Type/Serial No. 
+die einschlagigen Anforderungen der folgenden Richtlinie und deren Erganzungen erfiillt: 
+complies with all relevant essential requirements of the directive below as amended. 
+Richtlinie 2006/42/EG [Maschinenrichtlinie] 
+Directive 2006/42/EC [Machinery Directive] 
+Fundstellen der angewandten harmonisierter Normen nach Artikel 7, Abs. 2 dieser Richtlinie: 
+References to the harmonised standards used, as referred to in Article 7(2) of this Directive: 
+EN ISO 12100: 2010 EN ISO 13849-1:2015 EN 60204-1: 2006+A2009/AC:2010 
+EN ISO 14120:2015 EN 1SO 13850:2008 
+Das Produkt entspricht ferner den grundlegenden Anforderungen der 
+and further complies with the relevant essential requirements of 
+Richtlinie 2014/30/EG [EMV-Richtlinie] 
+Directive 2014/30/EC [EMC Directive] 
+Richtlinie 2011/65/EG [RoHs-Richtlinie] 
+Directive 2011/65/EC [RoHs- Directive] 
+Fundstellen der Spezifikationen, mit denen das Gerat iibereinstimmt und aufgrund deren die Konformitat mit 
+den Bestimmungen dieser Richtlinie erklart wird: 
+Dated reference to the specifications under which conformity is declared to ensure the conformity of the apparatus with the provisions 
+of this Directive: 
+DIN EN 61000-6-2:2006 wie mit Priifbericht Nr. #4 der IMST GmbH nachgewiesen 
+DIN EN 61000-6-4:2011 as substantiated by the a.m. test report of IMST GmbH 
+Europaische Normen, nationale Normen oder technische Regelwerke, denen das Produkt weiterhin entspricht: 
+Other European Standards, national standards and technical provisions used: 
+In der Gemeinschaft ansdssige Person, welche bevollmachtigt ist, die technischen Unterlagen zusammenzustellen: 
+Person established in the Community who is authorised to compile the technical file: 
+J. Kasper, KulturstraRe 49-51, 47055 Duisburg 
+Ort/Datum Duisburg 04.05.2021 Name/Name Dr.David Szezesny 
+Place & Date of Issue 
+Position/Function Geschdftsfiihrer/Chief Executive Officer 
+Dieses Dokument wurde elektronisch erstellt und ist ohne Unterschrift giltig. 
+Electronic document - validity not subject to authorization by signature. 
+Entsprechungen: _ Richtlinie 2006/42/EG Anhang II 1.A; Richtlinie 2014/30/EG Anhang IV 2;Richtlinie 2011/65/EG Anhang VIII 
+EN ISO 17050-1:2010-08 
+Compliant with Directive 2006/42/EC Annex II 1.A; Directive 2014/30/EC Annex IV 2;Directive 201 1/65/EC Annex VIII 
+EN ISO 17050-1:2010-08

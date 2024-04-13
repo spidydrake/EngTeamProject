@@ -1,0 +1,2335 @@
+Brabender’ 
+... where quality is measured. 
+a > he : ; Ke ry a - ; zt 
+Instruction Manual’ bd - 
+2 : hh bis o et 4 \ 3 . - 9. Be “rhs ae e.} AG 
+- i Oe  * . wa Yr 24 ers ' = H "> 
+Software MetaBridge® MixMB for Mixer 
+ID no. 7900060Copyright 
+All content, pictures, texts and graphics are protected by copyright. All kind of 
+translation, forwarding to third persons, reproduction and distribution - even of 
+extracts - is prohibited without our prior express written consent. 
+Brabender® and other brands not specially marked are registered trademarks of 
+Brabender GmbH & Co. KG. 
+© Copyright by 
+Brabender GmbH & Co. KG 
+KulturstraRe 49-51 
+47055 Duisburg 
+Germany 
+Proprietary rights, brands and trademarks of third parties 
+Any products registered as trademarks are not particularly marked in the present 
+documentation. Existing property rights (patents, trademarks, registered or industrial 
+designs) must be observed by all means. 
+Original Instruction Manual 
+7900060_SW-MixMB_BAdg-00-e 
+Edition 0419Contents 
+1 General Information... cece eee senenenreneseereesitesciecseesneeeeenseceaseesianents 5 
+1.1. Use of the instruction manual... 
+1.2 Disclaimer of liability.. 
+1.3. Software 
+2 COMA oie cee ceeeneteeseneesecatseensetsanetieeeeseceeseuesieessenenesseteuseesgessteteteenes 7 
+3 Stylistic features oo. eae cee eee cneteenetterse rece seeestieescieceetseceeeneesseaeeeneeeeaes 9 
+3.1 General stylistic features.. 
+3.2 Mandatory signs..... 
+3.3 Design of safety messages. 
+4 MetaBridge software 0... cseeccneeeereseeeteeereseresneceesstesnsetessiteanicaes 11 
+4.1 Connection of the MetaBridge controller... re nseeneeneeeee 11 
+4.2 — Starting/running down the internal PC . 
+4.2.1 Starting the internal PC 
+4.2.2 Running down the internal PC oo... ccc eeeeeeeeeseneeeeeeeeene 14 
+4.3 Start screen of the Brabender MetaBridge ............0.0c cece 15 
+4.4 Device-specific tiles... eect ceeeceereeeeaeenereneeeeteeeeneraseesasieeeerreteers 
+4.4.1 Tile "MetaBridge" ... 
+44.2 Tile "New" 
+44.2.4 Parameter WINdOW...0..... cece cee cceeeetet ce reeeatereeeeeteeeeas 17 
+4.4.2.2 Measuring WINdOW...0...... cies eeetceeeesee erste ceesttesseeeeneeats 21 
+4.4.2.3 Evaluation.... 
+44.3 Tile "Load" 
+4.4.3.1 Editing a loaded test.. 
+444 Tile "Correlation’ ........ ccc ceecece cee teers reese eeaeeaeeseeraseeeeerneseeeate 34 
+44.4.1 License activation 00.00... eer re ere reeeiente 34 
+444.2 Create new correlation .... 
+4443 Load correlation... 
+445 Tile "Reference curve” .. 
+446 Tile "M@thods! o.oo... eee ceececee cece ceceeeeeeeseaeeeteceeeeeeineeaeaesenteenecenenenenteeas 42 
+446.1 Create a new Method oo... cece ecneeeenenecnetennerereeeenenees 43 
+4.46.2 Rename a method. 
+446.3 Delete a method .... 
+446.4 Create, rename, delete speed profiles .... . 
+44.7 Tile “Alar ooo. e cece eeececeeeece cee ceeceecceceaeeseeeeseeeeseseeetetiseteeeeeeets 
+4.5 General tiles 0... cece ece ere eee testes se teeeeneeseecneee cee sneeneeneenssneeeseesned 
+45.1 Buttons in the action bar of the general tiles .. 
+4.5.2 Tile "Hardware" 
+45.3 Tile "Time/date”... 
+454 Tile "MuitiDevice" 
+45.44 Installation of a new device oo... cece eeeeee ete teeeriee 52 
+45.4.2 Tile "FAQ" 
+4.5.4.3 Tile "Device Management” .. 
+Software MetaBnidge® MixMB for MixerContents 
+8 4.5.4.4 Tile "FECAD ACK" oe. ccc eeee ee cee eee ee eseeree rennet naeaenenesnerneees 56 
+4.5.4.5 Tile "Network devices? oo... eee eee ee ee eereereneceecneenes 56 
+4.5.5 Tile "Manual". 
+4.5.6 Tile "Options" .... 
+4.5.6.1 General settings... 
+456.2 Network setting, printer Setup... ee ccc e cre eeeeeneeees 61 
+4.5.6.3 Diagram settings 
+4.56.4 Axis settings 
+4.5.6.5 Series settings .. 
+4.5.6.6 Correlation Settings ........... cece ere eee reece snseneneraies 69 
+4.5.6.7 Measuring view 
+4.5.6.8 Service settings 
+45.6.9 Hardware settings 
+4.5.7 Tile "User" 
+4.5.8 Tile "Our Products’ 
+45.9 Tile "About us" 
+Configuration of the MetaBridge software 
+5.1 Presettings in the MetaBridge software at initial start-up.. we 
+Running a test 2.2... ee cececeee tenses recesses sseesasasssesenessaseeseessasenseraseecscesiecatees 83 
+6.1 Safety notes, general NOLES 0... ccc cree ce tees ce ce rseeneteteeteeteeeecaes 83 
+6.2. System preparation prior to each test... 
+6.3 Test procedure. 
+6.4 Testend 
+6.4.1 Test end upon expiry of the test £16... eects rete ree creer eee 88 
+6.4.2 Early test end (test abDOrtion)......... eee cece cece eeneeneetanees 89 
+71 
+Software MetaBridge® MixMB for MixerRead the manual 
+thoroughly! 
+Strictly observe 
+instructions and 
+safety instructions! 
+Keep and hand over 
+with the instrument! 
+Keep instruction 
+manual accessible at 
+any time! General 
+1 General Information 
+1.1. Use of the instruction manual 
+Brabender instruments/software are developed/designed and built according to the 
+state-of-the-art and comply with the demand for simple and safe handling. In order 
+to become familiar with the applications and to use the Brabender 
+instrument/software in an optimum way, it is imperative to read this instruction 
+manual very carefully before putting the Brabender instrument into operation. 
+The instructions, safety instructions and precautions given in the present instruction 
+manual have to be observed strictly. 
+This instruction manual manual is delivered with the Brabender instrument/software 
+and is intended for operation in practice. It is fo make the operating personnel familiar 
+with the Brabender instrument/software and to inform them about details concerning 
+transport, storage, mounting, start-up, operation, maintenance, trouble-shooting, 
+and disposal. 
+This instruction manual is, therefore, to be considered part of the Brabender 
+instrument/software and must be kept and handed over with the instrument/software. 
+The operating personnel as well as the personnel in charge of maintenance and 
+repair must always have free access to this instruction manual. 
+1.2 Disclaimer of liability 
+Within the scope of legal regulations, Brabender GmbH & Co. KG refuses any liability 
+- for whatever legal argument - for direct or indirect damage caused in connection 
+with the delivery or use of the Brabender instrument/software. This is in particular 
+true for - but not limited to - improper use and/or improper operation and handling of 
+the Brabender instrument/software. 
+In this context, Brabender explicitly excludes any warranty for wear parts, in 
+particular for those with product contact. 
+Under no circumstances, Brabender GmbH & Co. KG can be made liable for any 
+damage or injuries caused by non-observance of the safety regulations included in 
+the data sheets of the producer of substances to be tested or processed with the 
+Brabender instrument. This is also valid if a recommendation was made concerning 
+the application of certain substances and/or if the provision of test material is part of 
+the scope of delivery and service. 
+The Brabender instrument is subject to modifications of color and design as well as 
+to technical modification without prior notice. 
+Software MetaBridge® MixMB for Mixer 5General Information 
+1.3 Software 
+The Brabender software is developed with care and is tested internally - within the 
+frame of general safety standards also for computer virus. This does, however, not 
+involve any warranty whatsoever that the data carriers provided by Brabender and/or 
+data transmitted electronically by Brabender are virus free. 
+It is within the exclusive responsibility of the user to test the Brabender software by 
+means of state-of-the-art virus searching programs and to make sure that only 
+Brabender software is applied which has been duly tested for computer virus by the 
+user and has been found virus free. 
+Any claims arising from liability for defects concerning the functionality, 
+faultlessness, and usability of Brabender software and/or concerning Brabender 
+software being virus free are therefore excluded. 
+Our liability for any other damage arisen by the use of the Brabender software is 
+limited to intent or gross negligence. Any further liability - for whatever legal 
+argument, in particular for direct or indirect consequential damage - is excluded. 
+The software is subject to modification serving functional improvement and technical 
+progress without prior notice. 
+Due to continuous progress and development of the software, the screenshots, if 
+included in the present instruction manual, may slightly differ from the software 
+version delivered. 
+6 Software MetaBridge® MixME for MixerContact 
+2 Contact 
+Data to be stated in case of inquiries 
+If there are any inquiries to Brabender - e.g. relating to handling of the Brabender 
+instrument/software, ordering of spare parts, accessories, additional equipment or to 
+sending back Brabender instruments or parts of the instrument/spare parts for 
+maintenance or repair - all data given on the name plate must be stated. 
+For questions concerning the Brabender software, besides the ID no. of the software 
+the version no. must be stated as well. 
+Contact 
+For any questions, further information, or in case of problems with the Brabender 
+instrument/software, please do not hesitate to contact the Brabender Service 
+department. 
+Brabender GmbH & Co. KG 
+Kulturstrafe 49 - 51 
+47055 Duisburg 
+Germany 
+@ Phone +49-203-7788-131 
+& E-mail: service@brabender.com 
+North American Regions 
+C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+6 E-mail: service@cwbrabender.com 
+Software MetaBridge® MixMB for Mixer 7Contact 
+& Software ‘MeteBridge® MixMB for Mixerfeatures. 
+3. Stylistic features 
+3.1. General stylistic features 
+The following stylistic features are used in the instruction manual: 
+1. marks operating instructions in their serial order 
+> [indented] marks individual steps of a preceding general instruction 
+> [indented] marks the consequences of a preceding action 
+> {in safety messages] marks operating instructions 
+e marks lists or (in instructions) alternatives 
+- [indented] marks subordinated lists 
+3.2. Mandatory signs 
+The following mandatory signs are used in the instruction manual: 
+@ General mandatory sign, additional information 
+@ Read the instructions before, cross referenceStylistic features 
+3.3 Design of safety messages 
+The safety messages given in the instruction manual are marked by a hazard 
+warning sign and a signal word. 
+The signal word and the associated signal color indicate the relative severity of the 
+hazard: 
+& DANGER 
+Describes an imminently hazardous situation which will result in death or 
+serious injury if not avoided. 
+Describes a potentially hazardous situation which is likely to result in death or 
+serious injury if not avoided. 
+40 Describes a potentially hazardous situation which may result in minor or 
+moderate injury if not avoided. 
+Describes a situation which may result in property damage if not avoided. _...MetaBridge software 
+4 MetaBridge software 
+The Brabender MetaBridge has been factory installed on the internal PC of the 
+Brabender instrument or of the MetaBridge controller. The software is web-based, 
+that means several authorized users can log in at the same time and monitor the 
+teadings live on their PC, tablet or smartphone from anywhere around the world via 
+network. The results can be evaluated, printed, and exported using the software. 
+4.1 Connection of the MetaBridge controller 
+1. Connect a USB-to-CAN adapter to one of the four USB ports on the left side 
+of the MetaBridge controller and, on the other side, to the CAN-OUT port of 
+the Brabender instrument. 
+Fig. 1: USB-to-CAN adapter Fig. 2: MetaBridge controller, 
+connections on the left 
+side 
+1 CAN cable 3 USB (4 x) 
+2 USB-to-CAN adapter 4 HDMI 
+5 LAN 
+6 PC ON/OFF 
+2. Plug the power cord into the power cord connection on the right side of the 
+MetaBridge controller and connect it to the power supply. 
+Fig. 3: MetaBridge controler, power supply connection 
+1 Power supply connectionsoftware 
+~~ 
+om 
+Button "Network 
+settings” 
+12 Connect the MetaBridge controller as follows with the display unit. 
+For direct access to the MetaBridge software {no LAN access) 
+> 
+> 
+> Connect a monitor or touch monitor via an HDMI cable to the HDMI 
+connection of the MetaBridge controller. 
+In case of a touch monitor, connect the monitor via a USB cable to one 
+of the four USB ports of the MetaBridge controller. 
+lf anormal monitor is used, connect an additional mouse and keyboard 
+via USB cables to a USB port of the MetaBridge controller. 
+Switch the MetaBridge controller on by pressing the key "PC ON/OFF". 
+For external access to the MetaBridge software via LAN 
+@ If DHCP has been activated, an IP address is allocated automatically 
+when the MetaBridge controller is connected to the network. 
+Steps to be carried out locally: 
+> 
+> Connect the MetaBridge controller via a LAN cable to a LAN wall 
+socket. 
+Press the key "PC ON/OFF" on the MetaBridge controller in order to switch 
+the MetaBridge controller on. 
+To show the IP address of the MetaBridge controller, connect a touch 
+monitor (or a standard monitor and an additional USB mouse) directly 
+to the MetaBridge controller via HDMI and USB. 
+Tap the tile "Options" on the start screen of the MetaBridge and then the 
+button "Network settings" in the action bar and note IP address of the 
+MetaBridge controller. 
+External access: 
+> Contact a local lab assistant in order to find out the IP address of the 
+MetaBridge controller. Enter this IP address in the address line of your 
+internet browser. 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+4.2 Starting/running down the internal PC 
+4.2.1 Starting the internal PC 
+1. In case of a direct connection via an HDMI cable, switch the MetaBridge 
+controller on by pressing the key "PC ON/OFF". 
+@ For external access via LAN, the MetaBridge controller must have been 
+switched on as well. 
+For external access, enter the IP address of the MetaBridge controller in the 
+address line of your internet browser and confirm with “Enter”. 
+> After a few seconds, the log-in window shows up on the display unit 
+(see fig. below) where you can log in or create a new user account. 
+a) Only in case of external access: A warning message concerning an 
+unsafe connection may appear which can, however, be ignored. 
+IivietaBriage MetaBridge Brabender, 
+Hier 
+reed or Ps 
+Ss aly 
+RE Eo 
+Fig. 4: Log-in window Fig. 5: Log-in window (creating a 
+(standard log-in) new user account} 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+4.2.2 Running down the internal PC 
+it) Users who do not have administrator authorities can only run down the internal 
+PC locally, that means if the display unit (PC, tablet, smartphone) is connected 
+via a cable to the MetaBridge controller. In remote mode, only administrators 
+can run down the internal PC. 
+(SM Risk of loss of data by running down the PC improperly! 
+Switching off the MetaBridge controller with the main power switch, data may be 
+damaged or get lost. 
+> 
+> Always run down the internal PC properly before switching off the 
+MetaBridge controller. 
+Do not switch off the MetaBridge controller as long as the internal PC is still 
+running! 
+Button “Shut down 
+the device" For running down the internal PC, tap the tile "User: 
+> The following selection window pops up: 
+Please select an action... 
+[& | Log out a ] 
+|e | Change password ] 
+[#5 | User administration ] 
+Id | Shut down the device 
+=) 
+Fig. 6: Selection of user functions 
+@ Users below the administrator level can see the button "Shut down the 
+device" only in local operation. In remote mode, i.e. on external 
+terminals, only administrators can see this button. 
+Tap the Button "Shut down the device”. 
+> A message window "The device is shutting down" pops up. 
+™ ta 
+The device is shutting down 1ae 
+L 
+Fig. 7: Message "The device is shutting down" 
+> After a few seconds, the internal PC is shut down. 
+> Now, the MetaBridge controller can be switched off. 
+14 ‘Software MetaBridge® MixMB for Mixersoftware 
+4.3 Start screen of the Brabender MetaBridge 
+Upon log-in, the start screen of the Brabender MetaBridge appears (see fig. below). 
+@ Generally, the start screen contains some device-specific tiles in the upper 
+part (see chapter 4.4 “Device-specific tiles") and some general tiles in the 
+lower part (see chapter 4.5 "General tiles"). 
+The arrangement of the tiles may vary depending on the terminal (PC, tablet, 
+smartphone) and monitor size. 
+The menus and functions of the individual tiles will be explained in detail in the 
+following. 
+@ The following software description is based on touchscreen operation (‘‘tap”). 
+The software can, however, be handled just as well using a mouse. 
+wit 
+(see oil 2 Us 
+ae 
+Fig. 8: Start screen MixMB 
+1 Device-specific tiles 2 General tiles phpvaeray Lapua | 
+Software MetaBridge® MixMB for Mixer 15WetaBridge software 
+Yom. 2016/02 
+Type: 616100 
+SN. 1929553 
+Fig. 9: 
+Tile "MetaBridge" 
+Fig. 10: 
+Tile "New" 44  Device-specific tiles 
+4.4.1 Tile "MetaBridge" 
+The "MetaBridge” tile shows the most important instrument data: 
+* User-defined device name (factory setting: Brabender, editable under 
+“Options” - "Device") 
+© Model name (here as an example: Farinograph-TS) 
+© BMB: Brabender MetaBridge version no. 
+© YoM: Year of mounting of the Brabender device 
+@ Type: 1D no. of the Brabender device 
+© SN: Serial no. of the Brabender device 
+44.2 Tile "New" 
+The tile "New' opens the parameter window for entering the parameters for a new 
+test and for running and evaluating the new test. 
+Software MelaBridge® MixMB for Mixersoftware 
+4.4.2.1 Parameter window 
+Tapping the tile "New" opens the parameter window for entering the test parameters 
+for a new test (see fig. below). 
+@ When the parameter window opens, it shows the test parameters of the 
+previous measurement so that data that remain unchanged (e.g. user. 
+method) do not need to be entered anew. 
+@ The fields "User" and "Sample" are mandatory fields. 
+Fig. 11: Parameter window 
+1 Documentary parameters 3 Action bar 
+2 Method-/product-specific 
+parameters 
+Buttons in the action bar 
+Description of button functions 
+shows a description of the button functions 
+Methods 
+opens the "Methods" window 
+a Speed profiles 
+é opens the "Speed profiles" window 
+& Temperature profiles 
+opens the "Temperature profiles” window 
+Software MetaBridge® MixMB for Mixer 17MetaBridge s software 
+K == 
+o= 
+18 Options 
+opens the "Options" window (see chapter 4.5.6 "Tile "Options'™") 
+User parameters 
+allows to define user-specific parameters in the parameter window. 
+1. Tap the button “User parameters”. 
+=> The following window opens: 
+Please enter a new parameter and confirm with 
+_* Keep fast value? 
+print parameter? 
+x Fig. 12: Entry mask for user- 
+J specific parameters 
+2. Fill in the mask and confirm with "OK". 
+> The following window opens: 
+Overview of your user parameters 
+pe 
+i Additive 
+za Fig. 13: Overview of user-specific 
+j parameters 
+3. Tap “Add" for defining further parameters or tap "Close" for taking over the 
+parameter. 
+> The parameter is taken over in the parameter window. 
+Tag editor 
+allows management of tags (key words) which can be searched for later. 
+Please enter some new tags and confirm with "OK". 
+Tags 
+kk Fig. 14: Entry mask for tags 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® MixMB for Mixer Ent. MetaBridge software 
+elds of the parameter window 
+@ In case of touchscreen operation, a virtual keypad appears when tapping an 
+entry field. 
+e New measurement (documentary parameters): 
+Field Entry 
+User User name (mandatory!) 
+The previous entry will appear automatically until another 
+name is entered. 
+Order E.g. order no. or ordering company 
+Code number Free entry of a code no. (sample or order specification) 
+Tags 
+e Method parameters: Entry of tags (marks) which facilitate finding the 
+measurement or sorting tests by certain criteria 
+rt) These parameters are determined by the method selected and can only be 
+edited if no method has been set (-/-). 
+Field Entry 
+Method Selection of a method 
+@ For details concerning methods, please refer to 
+chapter 4.4.6 "Tile "Methods™ 
+Sample Free entry of a sample designation 
+Evaluation Selection of the evaluation 
+Sample weight Entry of the sample weight (mandatory!) 
+Measuring time 
+Software MetaBridge® MixMB for Mixer Entry of the measuring time 
+@ The scaling of the time axis depends on the value 
+entered here. Upon expiry of this time, the test is 
+stops automatically. 
+19MetaBridge software 
+& 
+Button "Speed 
+profiles" 
+8 Button "Temperature 
+profiles” Field Entry 
+Speed 
+Speed profile 
+Mixer temperature 
+Temperature profile Entry of setpoint speed (mandatory!) 
+@ This value is transmitted to the drive unit when the 
+test starts. 
+Selection of a speed profile 
+@ Tapping the button "Speed profiles" in the action 
+bar opens a window for defining a speed profile. 
+Entry of setpoint mixer temperature (mandatory!) 
+@ This value is transmitted to the temperature 
+controller when the test starts. 
+Selection of a temperature profile 
+@ Tapping the button "Temperature profiles" in the 
+action bar opens a window for defining a 
+temperature profile. 
+Mixer Selection of the mixer used (mandatory!) 
+rt ) If a Lab-Station is used as a drive unit, the mixer is 
+recognized automatically and cannot be changed. 
+Alarm profiles Selection of an alarm profile 
+@ Under the tile "Alarm", alarm profiles can be 
+defined. 
+Additive Free entry of an additive 
+Loading chute 
+Compare 
+reference curve 
+Remark with | Free entry of the loading chute used. 
+Tapping the box opens a window for loading a reference 
+curve. 
+@ Entering a key word (tag) in the field "Search..." in 
+the right top allows searching for a certain 
+reference curve. 
+| Free entry of remarks concerning the test 
+Software MetaBridge® MixMB for Mixer_MetaBridge software 
+4.4.2.2 Measuring window 
+Upon test start, the measuring window appears showing the online diagram and, if 
+selected, the numerical values of the running test. 
+=a Tapping the button "Diagram settings" allows individual adjustment of the 
+measuring window and the displays therein. 
+Button "Diagram 
+settings” OA 
+REDRHOH 
+0:0 3200 2700 300 4:00 5:09 Tene inemss} 
+i we Torque 1 Speed 1 Stack temperoture 2 ——_———+ ‘i Hi Win. Toque «Fox. Torque «Heating zone a 
+g+02:12 40.945. 192.4 ed Stock temperature ime Torque 
+Fig. 15: | Measuring window, here: with display of numerical details 
+1 Measuring diagram 4 Numerical details 
+2 Legend 5 Display of method / Sample 
+3 Live-Ticker 
+Buttons in the action bar 
+Description of button functions 
+shows a description of the button functions 
+Enabte/disable zoom 
+He allows zooming of sections of the curve. 
+1. Tap the button "Enable/disable zoom". 
+2. Draw the desired range to show it on an enlarged scale. 
+3. Tapping the button “Enable/disable zoom" again returns to the normal view. 
+# Show/hide numerical view 
+When enabled, tapping any point on the curve shows a window with the numerical 
+values of the curve in this point. Tapping this button anew disables this function. 
+Software MetaBridge® MixMB for !ViixerNetaBridge software 
+= Enter/edit comments 
+allows to insert and edit comments and series labels in the diagram. 
+it A comment can be placed at any point within the diagram. It is not fixed on 
+the curve. In contrast to that, a series label is always fixed with a line on the 
+corresponding curve. 
+When shifting a series label, the line is moved as well, the line head being 
+fixed on the curve and the other end of the line being shifted together with the 
+text field. 
+1. Tap the point where you want the comment to appear. 
+> When you tap directly onto the curve, first a window for selecting 
+between series label and comment will appear. Upon selection of the 
+option, a text field will appear (see figs. below). 
+Label series. |= > 
+— | 
+Fig. 16: — Selection window Fig. 17: Text field 
+2. If applicable (e.g. with a tablet or smartphone), tap the text field for showing 
+the virtual keypad, then enter the text, format it (only with a PC, not on touch 
+terminals), and tap "Save". 
+> The comment appears in the diagram. 
+@ As long as the function "Edit comment" is enabled (or when it is enabled again 
+later), the comment can be shifted (tap and shift), edited, or deleted (tap). 
+Show parameter window 
+shows the test parameters in a separate window. 
+@ Fields with the "Edit" button can still be edited. 
+Button "Edit" 
+Software MetaBridge® MixMB for MixerBridge software 
+[4 Change paramete 
+= Opens a selection window for changing individual parameters while the measurement 
+is still running. 
+@ This button is only visible as long as the test is running. 
+j + Add reference curve 
+allows loading of a reference curve into the running test. 
+1. Tap the button "Add reference curve”. 
+=> The list of saved reference curves opens. 
+2. Tap the desired reference curve in the list. 
+> The selected reference curve is shown as a hatched area in the test 
+diagram. 
+> The button "Add reference curve" (with a "+" sign) turns into "Remove 
+reference curve" (with a "-" sign). ED* 
+SO 
+HOTS 
+store . Steck. tempera fein Togo Hay, Torque Hewtng zane 7 
+02:12 40.9 45.0 192.4 Tooue Stork temiperatin 
+Fig. 18: Running test with a reference curve 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+Ko Diagram settings 
+opens the window "Diagram settings" for making some basic settings concerning the 
+test diagram. 
+Ted Siem morn 
+‘Sater set by tages oO 
+a| Td eect owen by acts L 
+FE show nas erm ia 
+Bop 
+us 8 
+a 
+a 
+Fig. 19: Window "Diagram settings" 
+Field Entry 
+Show legend 
+Select series by 
+legend Shows/hides the legend in the diagram 
+Tapping and holding a series name in the legend shows 
+only this series in color in the diagram while all other series 
+are shown in grey (see fig. below: series "Min. (smoothed)") 
+Select series by axis 
+Show sample name 
+Show max torque Tapping and holding an axis inscription shows only this 
+series in color in the diagram while all other series are 
+shown in grey. 
+Shows/hides the sample name in the right bottom corner 
+of the diagram. 
+Shows/hides the maximum torque value in the right 
+bottom corner of the diagram. 
+The buttons in the action bar enable further settings. eovT view"). 
+Back Axis settings 
+Enables settings concerning the axes of the diagram. 
+Series settings 
+Enables settings concerning representation of the individual series. 
+Measuring view 
+enables selection of a diagram view (see chapter 4.5.6.7 "Measuring 
+returns to the previous page. 
+Software MetaBridge® MixMB for MixerMetaBridge s 
+Stop measurement 
+stops the running test before the measuring time has elapsed. 
+Back to start screen 
+= © 
+returns to the start screen 
+MetaBridge® MixMB for MixerMetaBridge software 
+=S = 
+So 
+Button "Diagram 
+settings" 
+Ho 
+26 4.4.2.3 Evaluation 
+Upon expiry of the measuring time or after early test stop, the evaluation with the 
+complete diagram including the evaluation lines and the tabular evaluation is shown 
+(see fig. below). 
+& Using the button “Diagram settings’, the evaluation diagram and the 
+corresponding displays can be adjusted to your individual needs. 
+zo 750) 
+vw f* @ | wo fog 2s 
+255 0g Cd 
+3003 = tit 
+ve Efe 
+3 pe o ff Bl » @B 
+a 
+° B oto 5:00 fs) 9 
+ts Torque speed = Stock temperture o 88 Hin. Torque ME Max. Torque» Heting zona 1 ae i Evaluation noints 
+nN 
+iG 
+i 
+ix 
+Integration / Ens 
+B 14.7 kien |aseeing Peary St Herve 
+Minmum to Maximum 
+Maximum to End 
+9 km = Loading Peak to Meximum 
+148.3 kim Loading Penk to End (W) 1822.2 kNmveg ‘Specific Energy (W/Semple Mass) 
+“3.4 kien elation Area above B 
+Result 
+|Puston Time t (AX) [eats smite 
+Gelotion Speed ¥ 64.0 Nejrain 
+Fig. 20: Evaluation window (here: with reference curve) 
+Buttons in the action bar 
+Descri n_of button functions 
+shows a description of the button functions 
+Enable/disable zoom 
+@ See details in the chapter 4.4.2.2 "Measuring window" 
+Show/hide numerical details 
+@ See details in chapter 4.4.2.2 “Measuring window". 
+Software MetaBridge® MixMB for Mixer=| Enter/edit comments 
+@ See details in chapter 4.4.2.2 "Measuring window". 
+Show parameter window 
+@ See details in chapter 4.4.2.2 "Measuring window". 
+E/ Change evaluation 
+opens a window for selecting another evaluation method. Upon confirmation with 
+"Apply", the test is evaluated anew according to the selected evaluation. 
+} + Add reference curve 
+opens a selection window for loading a reference curve into a loaded test or for 
+creating a new reference curve from the loaded test. 
+Please select an action... 
+(2 | Add reference curve | 
+Shy | Create reference curve | 
+Close dialog 
+Fig. 21: Selection window reference curve 
+[ee 
+If reference curves were already saved, a reference curve can be loaded and shown 
+directly in the test diagram. Add referenzkurve 
+1. Tap the button "Add reference curve". 
+> The list of saved reference curves is opened: 
+2. Tap the desired reference curve in the list. 
+=> The selected reference curve with the tolerance limits is shown as a 
+hatched area in the evaluation diagram of the loaded test. 
+> The evaluation under the diagram shows the tolerance range of the 
+reference curve and the deviations of the measuring curve from the 
+reference curve. 
+> The button "Add reference curve" (with a "+" sign) turns into "Remove 
+reference curve" (with a"-" sign). 
+Software MetaBridge® MixMB for Mixer 27MetaBridge software 
+bs 
+& 
+28 Remove reference curve 
+Having added a reference curve into a test (see above), the button "Add reference 
+curve" (with a "+" sign) turns into "Remove reference curve" (with a"-" sign). Tapping 
+this button opens the following selection window: 
+Please select an action... | 
+F=| Remove reference curve || a = 
+Sk?| Create reference curve 
+Close dialog 
+Fig. 22: Selection window "Remove reference curve" 
+fS Remove reference curve 
+Deletes the reference curve from the diagram. 
+Create reference curve 
+From each test loaded, a reference curve can be created, saved and loaded into any 
+test using the function "Add reference curve". 
+@ For creating a new reference curve, a test must be open. 
+4. Tap the button "Create reference curve" in the action bar of the open test. 
+> A window with the measuring values and editable tolerances appears. 
+Edit the tolerances as desired. 
+For saving the edited curve as a reference curve, tap the field “Apply”. 
+=> The edited measuring curve is saved as a reference curve. 
+> The original measuring curve of the loaded test is shown again. 
+4. For loading the reference curve, see "Add reference curve" above. 
+@ Reference curves can also be created from a correlation using the button 
+"Export". 
+Print 
+opens a window for selecting a printer. 
+@ For printer setup see chapter 4.5.6 "Tile "Options'”. 
+Software MetaBridge® MixMB for Mixer_MetaBridge software 
+[s Export 
+enables export of the test in different ways. 
+1. Tap the button "Export’. 
+> The following selection window appears: 
+Please select an action. 
+FE) open POF report 
+[EB] export to Excel 
+| @ | Send reper: per mail 
+| ¥ | Download vest file 
+[E) downiead picture 
+[22 | Add tests to correlation 
+Close dialog 
+Fig. 23: Selection window "Export" 
+2. Tap the desired button in this window. 
+creates a PDF file from the test (this button only appears in case 
+of external access) 
+exports the test to an Excel sheet 
+opens a window for sending the PDF file of the test as an e-mail 
+creates a ZIP file from the test 
+creates a PNG file from the diagram 
+creates a new correlation or extends an existing one (this button 
+only appears if the Correlation module has been installed). 
+Tapping this button opens another selection window: 
+Please select an action... 
+ez! Create new correlation 
+jes! Load carralation 
+Close dialog 
+Fig. 24: Selection window "Add to correlation” 
+iS creates a new correlation 
+eS adds the test to an existing correlation 
+Software MetaBridge® MixMB for Mixer30 software 
+Diagram settin f@ @ See details in chapter 4.4.2.2 "Measuring window" 
+New measurement Q opens the parameter window in order to start a new test 
+@ When loading a saved test, there is the button "Back" on this position instead. 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® MixMB for Mixer4.4.3 Tile "Load" 
+The tile "Load" contains a list of all tests saved. 
+@ In the field "Search..." in the right top, you can search for a certain test or for 
+tags (key words) defined before. 
+Fig. 25: 
+Tile "Load" 
+‘show tent per page 10, Bl 
+senete ee 
+07130071590 anu earn anu eam apuiresian ROBPN a De: PEEPEPPRPEE Dorerett 812 we 
+Presous 1 
+Fig. 26: Window “Load test" 
+q Field “Search...” 
+Buttons in the action bar 
+(i) Description of button functions 
+shows a description of the button functions 
+[3 Show preview 
+2 shows a preview of the selected test. 
+@ First tap the button "Show preview", then select the desired test. Otherwise, 
+the test tapped will be opened immediately. 
+at tom “ 
+snow 16 oe sue 34 BL 
+cd rc) 
+Fig. 27: Window "Load test" with preview of the test MotaPridge software 
+32 il oe} 
+® Delete 
+deletes the selected test(s) from the list. 
+a First tap the button “Delete”, then select the test(s) to be deleted. Otherwise, 
+the test tapped first will be loaded. 
+Import 
+opens the file selection dialog of the respective operating system. 
+Taq editor 
+allows management or entry of tags (key words) that can be used to filter the test list. 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® MixMB for Mixercnn, MetaBridge software 
+4.4.3.1 Editing a loaded test 
+Tapping a test in the list of tests or importing a test shows the test diagram with the 
+table of evaluation points according to the evaluation selected. 
+@ To get a better survey, the following fig. shows the window as a whole, 
+although in the usual representation on a PC, tablet or smartphone, you must 
+scroll down in order to see the lower part of the window. 
+& Concerning the functions of the buttons in the action bar beside the test 
+diagram, please refer to chapter 4.4.2.3 “Evaluation”. 
+EQ 9 2 ae = Toeque {2m} 
+8 
+2:00. 2:08 4:00, me [nema 
+@ Torque Speed 1 Stock temperature = Min. Forqua = Max. Torque Nesting zone + HOODOO a 
+Besieation points 
+turgow Stocktemperature Description 
+: Landing Peat, 
+enimum 
+Inflection Pott 
+Maxum 
+End 
+4.7 «Nm Lonaing Fees ve minim 
+sm <7 37.4 item [Maximum to End _ = 
+rrr | evaing Peak to Maximum 49.3 ktm Leading Peak to End (¥) 
+~ 4822,2 Kiimvkg | Specific Eneray (W/Semple Maze) | 
+ex 13.4 iim Getation Area ebave 6 
+Narsuilt 
+SS ———————EET—————— Foxton Tame { (4-5) 04:24 mimes —=—Syj 
++ Galatton Speed v [4.0 Nmfmnin — 
+Fig. 28: Evaluation window (here: with reference curve) 
+ixer 33software 
+4.4.4 Tile "Correlation" 
+If the program module "Correlation" was not included in the scope of delivery of the 
+basic program, a separate license for this program module needs to be ordered and 
+activated. 
+Fig. 29: @ Activation of a license requires at least administrator authorities. 
+Tile "Correlation" 
+4.4.4.1 License activation 
+If the license for the program module "Correlation" was not included in the scope of 
+the order, it can be ordered separately from Brabender. You will get a license number 
+which must be activated as follows. 
+fa 1. To activate the license number for your device, select the tile "About us" and 
+nS tap the button in the action bar. 
+Button "Service" > The selection window "Service" is opened: 
+How do you want to get your update? Please select an action... 
+fia) {© web update : | 
+>) Remote service == 
+J 
+| {| nad scense 
+Close dialog 
+Fig. 30: Selection window "Service" 
+2. Inthe selection window "Service", tap the button "Add license". 
+> A window for entering the serial number and the license number is 
+Button "Add license” opened: | Download log 
+‘To activate features, please insert a valid key. 
+Serial number 
+990485 
+Fig. 31: Entry of the license number 
+3. In the field "Serial number", enter the serial number of the Brabender device 
+to be connected with the MetaBridge software. 
+@ The serial number is indicated on the name plate of the device. 
+4. In the field “License number", enter the license number you got from 
+Brabender. 
+34 Software MetaBridge® MixMB for Mixerrn __ Bbeeridas sortmers 
+5. Confirm your entries with "OK". 
+> A message window "License number activated" appears. 
+License number activated 
+9438-7815-9784-6770 
+Fig. 32: | Message window “License number activated" 
+6. Close the message window. 
+> The window for entering the serial number and the license number 
+appears once more in order to activate further licenses, if any. 
+To activate features, piease insert a valid key. 
+Serial number 
+4930486 
+Ox 
+Fig. 33: Entry of license number 
+7. If no further licenses are to be activated, tap "Close" to close this window. 
+> The window "About us" appears again. 
+BE 8. Tap the button "Back to start screen" in order to return to the start screen. 
+ae > The new program module can now be used. 
+Button "Back to start 
+screen" 
+The tile "Correlation" includes two functions. 
+Please select an action... 
+=) Create new correlation 
+[es | toad correlation J 
+Close dialog 
+Fig. 34: Selection of correlation functions 
+rS Create new correlation 
+= | Load correlation 
+Upon selection of one of these functions, the corresponding window appears. 
+Software MetaBridge® MixMB for Mixer 35MetaBridge software 
+4.4.4.2 Create new correlation 
+Tapping the button "Create new correlation" opens the window “Correlation 
+parameters". 
+ee 
+Sample 
+ROFS 
+Psa Es 
+Fig. 35: Window "Correlation parameters" for a new correlation 
+Buttons in the action bar 
+(i) Description of button functions 
+shows a description of the button functions 
+& Load correlation 
++ opens a window for loading a saved correlation 
+.o) Tag edito 
+allows management of tags (key words) which can be searched for later. 
+Please enter some new tags and confirm with "OK". 
+Fig. 36: Entry mask for tags 
+Back to start screen 
+returns to the start screen 
+ce Software MetaBridge® MixMB for MixerMetaBridge software 
+Procedure for creating a new correlation 
+1. Fill in the entry mask “Correlation parameters" as required. 
+2. Tap the field “Add tests" in the left bottom. 
+> A list of saved tests that can be selected for the correlation opens. 
+3. Select the desired tests. 
+@ Selection is facilitated by tapping the button “Show preview" before 
+starting the selection which opens a preview of the individual tests 
+selected. 
+4. Tap the field "Start correlation" under the list of tests. 
+> The correlation is created and shown. 
+RP d+ fo | 
+ROAD HA 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+CG 
+38 Buttons in the action bar 
+Description of button functions 
+shows a description of the button functions 
+Enable/disable zoom 
+@ See details in the chapter 4.4.2.2 "Measuring window" 
+Show/hide numerical details 
+@ See details in chapter 4.4.2.2 "Measuring window". 
+Enter/edit comments 
+@ See details in chapter 4.4.2.2 "Measuring window". 
+Edit correlation 
+opens again the list of saved tests for adding further tests to the correlation or for 
+deleting tests from the correlation. 
+Change correlation mode 
+switches between normal display of the curve (each test in another color) and series 
+view (all series, e.g. all mean values, in the same color). 
+Change evaluation 
+opens a window for selecting another evaluation method. Upon confirmation with 
+"Apply", the test is evaluated anew according to the selected evaluation. 
+Print 
+opens a window for selecting a printer. 
+@ For printer setup see chapter 4.5.6 "Tile "Options". 
+Export 
+enables export of the correlation as an e-mail or download. 
+@ First tap the button "Export", then select the test(s) to be exported. Otherwise, 
+the test tapped first witl be exported. 
+@ See details in chapter 4.4.2.3 "Evaluation". 
+Furthermore, the button "Export" enables creation of a reference curve from the 
+correlation. The program calculates the reference curve from the bandwidth given 
+by the correlation in each point of the curve. 
+Software MetaBridge® MixMB for MixerSs 
+om _MetaBridge software 
+1. Tap the button "Create reference curve” in the selection window. 
+> A window for defining the bandwidth (tolerance range) of the reference 
+curve is opened: 
+Create rifierence curve 
+Fig. 38: Window "Create reference curve" 
+Bandwidth Factor by which the original bandwidth of the 
+correlation is enlarged 
+Max. bandwidth maximum bandwidth of the reference curve 
+Min. bandwidth minimum bandwidth of the reference curve 
+@ Equal values for max. and min. bandwidth create a tolerance range with 
+a constant band width. 
+2. To create the reference curve, tap the field "Next". 
+> A window with the individual values of the reference curve including 
+lower and upper limits is shown. 
+Diagram settings 
+© See details in chapter 4.4.2.2 "Measuring window". 
+The buttons in the action bar enable further settings. 
+I Axis settings 
+® See details in chapter 4.4.2.2 "Measuring window". 
+E Correlation settings 
+enables settings concerning representation of the individual curves or 
+series. 
+Back to previous page 
+returns to the previous page. 
+Back to previous page 
+returns to the previous page. 
+Back to start screen 
+returns to the start screen 
+% MixMB for Mixer 39MetaBridge software 
+40 4.4.4.3 Load correlation 
+1. Tap the button "Load correlation”. 
+=> The list of saved correlations appears: 
+Fig. 39: Window “Load correlation" 
+2. To load a correlation, select the desired correlation in the list. 
+> The correlation is loaded and can now be treated just like a newly 
+created one. 
+@ For editing a correlation, see chapter 4.4.4.2 “Create new correlation" 
+Description of button functions 
+shows a description of the button functions 
+Show preview 
+shows a preview of the correlation selected. 
+@ First tap the button "Show preview", then select the desired correlation(s). 
+Otherwise, the correlation tapped first will be opened. 
+Delete 
+deletes the selected correlation(s) from the list. 
+@ First tap the button "Delete", then select the desired correlation(s). Otherwise, 
+the correlation tapped first will be opened. 
+Import 
+opens a window for importing correlations. 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+4.4.5 Tile “Reference curve" 
+Reference curve The tile "Reference curve” enables loading of a reference curve and adding it into a 
+diagram (see fig. below). The buttons in the action bar allow to delete reference 
+curves from the list or to import further reference curves. 
+Fig. 40: @ For creating a reference curve from a test, please refer to chapter 4.4.3 "Tile 
+Tile "Reference curve" "Load", description of the buttons "Add reference curve” and "Remove 
+reference curve”. 
+@ In the field "Search..." in the right top, you can search for a certain test. 
+son anne certo sec 18 AE » sao ote tt 
+Aericine 196 * seaman 6 ’ convteemrt + sonea mt me 
+Fig. 41: Window "Load reference curve" 
+Buttons in the action bar 
+Description of button functions 
+shows a description of the button functions 
+Delete 
+& deletes the selected reference curve(s) from the list. 
+@ First tap the button "Delete", then select the desired reference curve(s). 
+Otherwise, the reference curve tapped first will be opened. 
+import 
+opens a window for importing reference curve(s). =| 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® Mix MB for MixerMetaBridge software 
+Methods 
+Fig. 42: 
+Tile "Methods" 
+Boe) &@ eC 446 Tile "Methods" 
+A method combines all data that clearly define the test conditions. In order to avoid 
+the necessity of entering every individual value anew when frequently changing the 
+test conditions, these values can be saved as a method. 
+Certain methods may have been factory installed as default methods which cannot 
+be deleted. 
+Tapping the tile "Methods" opens the method window of the method currently active 
+(see fig. below as an example). 
+@ The buttons "Rename method” and "Delete method" on the right beside the 
+entry field of the method name turn active only after definition of at least one 
+user-specific method. 
+ia) 
+— . Ps peee Bl saps aon a me Pasion Gsloio a ste at fl veges 2 ra) 8 = ee Bos ‘Sened [1émin} = ‘Spee opie. bal 
+oe a = L] ‘werner et _ OPO RM ey pe e 7 E = stam oes hn an) a See te ee 
+av. 
+= 
+Fig. 43: Window "Methods" 
+Description of button functions 
+shows a description of the button functions 
+Method 
+opens the method window 
+Speed profiles 
+opens the "Speed profiles" window 
+Temperature profiles 
+opens the "Temperature profiles” window 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® MixMB for Mixerra 
+Button "Create new 
+method” 
+A 
+oe Button "Rename 
+Method” 
+w 
+Button "Delete 
+method” MetaBridge-somtwate 
+4.4.6.1 Create a new method 
+1. To create a method, tap the button "Create new method" behind the entry field 
+"Method". 
+> A window for entering a name for the new method is opened. 
+2. Enter a name and confirm with "Apply". 
+> The method window now shows the name of the new method, and the 
+entry fields are open. 
+3. Edit all entry fields as desired. 
+4. Confirm your entries with "Apply". 
+> The method is saved and can now be selected in the parameter window 
+when starting a new test. 
+4.4.6.2 Rename a method 
+Ct) The method to be renamed must be active in the method window. 
+1. To rename the method currently active, tap the button "Rename method" 
+behind the entry field "Method". 
+> A window for entering a new name for the current method is opened. 
+2. Enter a new name and confirm with "Apply". 
+> The method window is shown again, now showing the new name in the 
+field "Method". 
+4.4.6.3 Delete a method 
+@ The method to be deleted must be active in the method window. 
+1. To delete the method currently active, tap the button "Delete method" behind 
+the entry field "Method". 
+> The software asks whether you really want to delete this method. 
+2. To delete the current method, tap "Yes". 
+> The method window is shown again, now showing "-/-" in the field 
+"Method" 
+43MetaBridge software 
+O Button "Speed 
+profiles" 
+8 Button "Temperature 
+profiles" 
+44 4.46.4 Create, rename, delete speed profiles 
+@ The profile types available differ depending on the program. 
+1. For showing/editing profiles (speed, temperature), tap the corresponding 
+button in the action bar of the method window. 
+> The window of the corresponding profile appears. 
+e Depending on whether a corresponding profile is has been activated or 
+not, the profile will be shown or a corresponding message will appear. 
+Speed praie SAR 
+ie, Acton 
+Hale a 3 ~H 
+bem “f 5 L] 
+2 tats | Ro so Bo oossc0. Bos: 
+4 Meer Bx Bo oh:30 am : ed 
+era 
+Fig. 44: Window "Speed profiles” (example) 
+2. Tapping the arrow behind the field with the profile name opens a list of profiles 
+available. 
+Software MetaBridge® MixMB for Mixerrl 
+Button "Create new 
+profile" Create a new profile 
+1. For creating a new profile, tap the button "Create new profile" behind the entry 
+field of the profile name. 
+> A window for entering the name of the new profile opens. 
+Enter a name and confirm with "Apply". 
+> The profile window now shows the name of the new profile and the 
+message "The profile is empty’. 
+‘Speed profiles D 
+al tsi soeestt/ain} one ome mt 
+Sa 28 
+The profile is empty a] 
+femet 
+fe [Sey anis ee 
+Fig. 45: | Window of an empty profile (example) 
+The buttons on the right beside the profile have the following functions: 
+adds a line at the end of the profile 
+inserts a line above the line marked 
+deletes the marked line upon confirmation of the safety question 
+Edit the profile according to your needs. In the column “Action”, define whether 
+the value entered is to be held ("Hold") or reached as target value within the 
+time entered ("Ramp"). 
+Tap "Apply” in order to save the new profile. 
+> The new profile can now be used. 
+v MetaBridge® MixMB for Mixer 45MetaBridge software 
+A 
+ny Button "Rename 
+profile" 
+i i Button "Delete 
+profile” 
+E 
+46 Rename profile 
+@ The profile to be renamed must be active in the corresponding profile window. 
+1. For renaming the profile currently active, tap the button "Rename profile" 
+behind the entry field of the profile name. 
+> A window for entering a new name for the current profile is opened. 
+2. Enter a new name and confirm with "Apply". 
+> The profile window is shown again, now showing the new profile name. 
+Delete a profile 
+@ The profile to be deleted must be active in the corresponding profile window. 
+1. For deleting the profile currently active, tap the button "Delete profile" behind 
+the entry field of the profile name. 
+> The software asks whether you really want to delete this profile. 
+2. Tap "Yes" in order to delete the current profile. 
+> The profile window is shown again, now showing "-/-" in the field of the 
+profile name. 
+Software MetaBridge® MixMB for MixerFig. 46: 
+Tile "Alarm" 4.4.7 Tile "Alarm" 
+The tile "Alarm" enables setting of alarms for certain parameters. When the 
+measuring values fall below or exceed the range defined here, the corresponding 
+alarm is given. 
+Tapping the tile "Alarm" opens the alarm profile currently active (see fig. below as an 
+example). 
+@ The buttons "Rename alarm profile” and "Delete alarm profile’ on the right 
+beside the entry field of the profile name turn active only after definition of at 
+least one user-specific alarm profile. 
+@ To create, rename and delete alarm profiles, please follow the corresponding 
+instructions in chapter 4.4.6.4 "Create, rename, delete speed profiles" 
+o 
+a . raw #! 
+we es ws ove ot 
+2 em Foo Baa B “i 
+Torase EB ooo :} 008 i} go 
+2 bucket Bo 28t Heo ] 
+© Viousi: estoy 9 gupta log 8 Auciote: nea sind ® rine © ew: 
+Fig. 47: Window "Alarm profiles" (example) 
+Software MetaBridge® |ixMB for \Vixer 47MetaBridge software 
+46 
+Bok 
+oO 
+FAQ a 
+®© 
+X 4.5 General tiles 
+4.5.1 Buttons in the action bar of the general tiles 
+The buttons in the action bar of most of the general tiles are identical in order to 
+provide for quick access from any general tile to each other. 
+Description of button functions 
+shows a description of the button functions 
+About us 
+shows contact of the Brabender Customer Service and some important device data. 
+Our products 
+shows the Brabender product range of the Chemical sector. 
+Manual 
+link to the instruction manual of your Brabender device 
+Show FAQ 
+opens a list of frequently asked questions and the corresponding answers. 
+Feedback 
+direct contact with Brabender 
+Brabender in the web 
+link to the Brabender homepage (only visible on external terminals) 
+Brabender on YouTube 
+link to Brabender application and information clips on YouTube (only visible on 
+external terminals) 
+Software MetaBridge® MixiB for Mixer Service 
+r/ opens a selection window with options for a software update or for a remote service 
+meeting: 
+How do you want to get your update? 
+Please select an action... 
+|F| File update 
+[G3) web update j 
+[@D| Remote service | 
+[Ea[ Cowntoad tos J 
+[Bi | Aca sicense | 
+Fig. 48: Service selection window 
+Tap the corresponding button and follow the instructions. 
+t | file update 
+web update 
+&| remote service request 
+download log 
+add license 
+||] Back to start screen 
+EB returns to the start screen 
+Software MetaBridge® MixMB for Mixer 49software 
+Fig. 49: 
+Tile "Hardware" 
+Fig. 517: 
+Tile "Time/date" 4.5.2 Tile “Hardware” 
+The tile "Hardware" shows the current state of the individual hardware modules (e.g. 
+drive unit on/off, heating on/off). 
+G& In this window, you can start/stop the individual hardware modules manually. 
+You have always the manual control 
+over the hardware 
+Drive is ON 
+Temperature is ON 
+Close 
+Fig. 50: Hardware window 
+4.5.3 Tile "Time/date" 
+The tile "Time/date" shows the local time and date of the respective terminal. 
+@ This tile just displays the local time and date, you cannot make any settings 
+here. 
+® For time and date setting, please refer to chapter 4.5.6.1 "General settings” 
+Software MetaBridge® MixMB for Mixersoftware 
+4.5.4 Tile "MultiDevice" 
+The tile "MultiDevice" enables paralle! operation and control of up to four instruments 
+with the MetaBridge software. Tapping the tile "MultiDevice"” changes some of the 
+function tiles of the MetaBridge start screen as shown below as an example in order 
+to install and manage further instruments. 
+Fig. 52: 
+Tile "MultiDevice” 
+Ee 
+& 
+= 
+% 
+Fig. 53: — Start screen "MultiDevice" (example) 
+1 instrument tiles 4 Tile Feedback 
+2 Tile FAQ 5 Tile Network devices 
+3 Tite Device Management 6 Direct access to the devices 
+The four buttons "1" - "4" in the right bottom beside the start screen enable direct 
+access to the different devices. The top button opens an overview window of all 
+devices connected (see fig. below). 
+Fig. 54: Overview window of all devices connected (example)) 
+‘Software MetaBridge® MixMB for Mixer 54MetaBridge software 
+Button "Service" 
+Button "Add license” 
+52 4.5.4.1 Installation of a new device 
+@ If the MetaBridge controller is included in the scope of delivery, the license for 
+the corresponding device usually has been activated. In this case, you just 
+need to define the inverter and the COM ports (see instructions below). 
+2. If the software was ordered without MetaBridge controller, you got a license 
+number for the corresponding Brabender device which needs to be activated 
+first. Upon activation of the license, the device must be installed in the 
+MetaBridge software. 
+To activate the license number for your device, select the tile "About us" and 
+tap the button “Service” in the action bar. 
+> The selection window "Service" is opened: 
+Haw do you want to get your update? 
+Please select an action... 
+[F | hie voate 
+[@9| web wpndate 
+GDI Remote service 
+{| Download log 
+| | Aaa fcanse 
+Fig. 55: — Selection window "Service" 
+In the selection window "Service", tap the button "Add license”. 
+> A window for entering the serial number and the license number is 
+opened: 
+To activate features, please insert a valid key. 
+Serial number 1930486 _ 
+Fig. 56: —_ Entry of the licence number 
+In the field "Serial number", enter the serial number of the Brabender device 
+to be connected with the MetaBridge software. 
+@ The serial number is indicated on the name plate of the device. 
+In the field "License number", enter the license number you got from 
+Brabender. 
+Software MetaBridge® MixMB for Mixer10. 
+11. Confirm your entries with "OK". 
+2 A message window "License number activated" appears. 
+License number activated 
+9438-7815-9784-6770 
+Fig. 57: Message window “License number activated" 
+Close the message window. 
+> The window for entering the serial number and the license number 
+appears once more in order to activate further licenses, if any. 
+If no further licenses are to be activated, tap "Close" to close this window. 
+> The window “About us" appears again. 
+Tap the tile "MultiDevice" on the start screen. 
+> The “MultiDevice" start screen appears. 
+To connect the device with the MetaBridge software, tap the tile “Edit 
+Device 2" (or any other free tile "Edit Device x"). 
+> A window for entering the serial number and the device type opens. 
+Please enter the following data. 
+Fig. 58: — Entry of basic data for a new device 
+Enter the serial number and type of the Brabender device (mandatory fields). 
+In the line "Device name", you may enter a device name which will appear on 
+the tile "MetaBridge” on the start screen of this device. The default name is 
+"Brabender" 
+Software MetaBridge® MixMB for Mixer 52software 
+12. Tocontinue, tap the field “Continue”. 
+> The device initializes, then the startscreen of the new device appears 
+with the window “Hardware configuration" on top. 
+The hardware has not been configured yet. If you 
+cancel this action, a simulation wii be started. 
+Fig. 59: | Message “Hardware has not been configured yet" (Example) 
+@ The number and designation of the COM ports varies depending on the 
+device. 
+For device configuration, the device must be connected with the 
+MetaBridge controller and must have been switched on. 
+13. Inthe line "USB converter", select the USB converter connected. 
+> Allocation of the COM ports follows automatically. 
+14. To finish, tap the field "Apply". 
+> The MetaBridge start screen of the new device appears and the device 
+can now be operated with the MetaBridge software. 
+@ To change over to another device, tap the tile "MultiDevice", then tap the tile 
+of the corresponding device. 
+45.4.2 Tile "FAQ" 
+rAQ The tile "FAQ" lists both general and device-specific FAQs and the corresponding 
+answers. 
+@ This page can also be opened with the button "FAQ" in the action bar of the 
+Fig. 60: general tiles. 
+Tile "FAQ" 
+54 Software MetaBridge® MixMB for MixerFig. 61: 
+Tile "Device 
+Management" 
+Field 4.5.4.3 Tile "Device Management” 
+The tile "Device Management" enables management of the devices installed in the 
+MetaBridge software. Tapping this tile opens the following window (example). 
+The Device Management allows adding new 
+devices and managing them 
+Bracco MixMB x 
+Device 3 
+ais 
+Devica 4 
+4 
+Fig. 62: Window "Device management" (example) 
+The fields in this window have the following functions: 
+Function 
+Mina, The fields with device names allow switching over between the different devices 
+installed 
+@ The tile "MetaBridge” on the left top of the respective start screen indicates 
+the device currently active. 
+The fields "add devicw 1/2/3/4” allow installation of devices with an existing, free 
+license in the MetaBridge software. 
+@ License activation and installation of the device in the MetaBridge software 
+are done via the button "Service". 
+This button deletes the corresponding device from the MetaBridge software, e.g. if 
+all instrument fields are occupied but you want to install another device. 
+(@) The license for the deieted device will not be deleted. Tapping the field “add 
+Device ...", the device can be re-connected to the MetaBridge software 
+whenever needed. 
+Software MetaBridge® MixMB for Mixer 55software 
+Fig. 63: 
+Tile "Feedback" 
+Network devices 
+Fig. 65: 
+Tile "Network devices" 45.4.4 Tile "Feedback" 
+The tile "Feedback" opens a mask for directly contacting and sending a message to 
+Brabender. 
+so 
+HQ#OREB SE 
+a as 
+Fig. 64: Feedback mask 
+If known, select the Brabender department you want to contact. 
+Completely fill in all other entry fields. 
+3. Upon entry of your message, tap the field "Send" in order to send your 
+message to Brabender. 
+> The responsible employee will contact you as soon as possible. 
+45.4.5 Tile “Network devices" 
+The tile "Network devices" lists all devices connected in a separate window (see fig. 
+below). Tapping one of the devices opens the corresponding start screen. 
+Network Devices 
+MixMB 
+2 See 
+Mix¥B 
+PrEstrs) 
+Fig. 66: | Window "Network devices" 4 
+Software MetaBridge® MixMB for MixerMotaBridge SOIWware 
+45.5 Tile "Manual" 
+The tile "Manual" opens the instruction manual (PDF) of your Brabender device. 
+Fig. 67: 
+Tile "Manual" 
+Fig. 68: PDF instruction manual (example) 
+4.5.6 Tile “Options” 
+On the tile "Options", you can make some general settings (time, language), general 
+device settings (device name, alarms, etc.), network settings and several diagram 
+settings. 
+Fig. 69: 
+Tile "Options" 
+¥! 
+B 
+L 
+L 
+asin ph aera rae Ceca ee ao& “erga tensed | EB fej L] 
+“Tevogertorn aegy 4} bates art fet [vet . In fas g =a 
+‘sap dear cation * (2) 200 mor 
+‘ar ha df set s 
+rit eit a et at 
+Gown 
+sieueton note 
+‘Send paraety Yo tnpaature contro 
+‘Print euatomar ep 
+ete and ine Flgeday MAPLOME wATIED AE 
+Fig. 70: Tile "Options", window "General settings" 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+38 OT @adx¥o 
+‘% Ie Buttons in the action bar 
+Description of button functions 
+shows a description of the button functions 
+General settings 
+opens the window "General settings". 
+Network settings 
+opens the window "Network settings”. 
+Diagram settings 
+opens the window "Diagram settings” 
+Axis settings 
+opens the window "Axis settings”. 
+Series settings 
+opens the window "Series settings". 
+Correlation settings 
+opens the window "Correlation settings” 
+eb This button only appears if the corresponding correlation module has been 
+activated. 
+Measuring view 
+opens the window "Measuring view" 
+Lims 
+opens the window "Lims settings” serving as an access to the measuring data for a 
+Lims program. 
+Service settings 
+opens the window "Service settings” 
+@ This button is only visible for administrators. 
+Back to start screen 
+returns to the start screen 
+Software MetaBridge® MixMB for Mixer4.5.6.1 software 
+General settings 
+Tapping the tile "Options" (or tapping the button "General settings’ in any other 
+window) opens the window "General settings" (see previous fig.). 
+Entry fields of the window “General settings" 
+e Device 
+Field Entry 
+SS re —e—e0 ees 
+Device name 
+(mandatory field) The entry has been set in factory and will appear above 
+the model name on the tile "MetaBridge". The device 
+name can be edited by the administrator. This field is a 
+mandatory field. 
+Device description Here, you can enter any description of your device. 
+Loading peak search 
+interval Set the time range in which a maximum is recognized as 
+loading peak. 
+Torque threshold 
+‘Temperature range (+) 
+before start of test Set the torque value which must be reached for 
+automatic test start. 
+Before test start, the software verifies whether the 
+setpoint temperature has been reached. Enter the 
+tolerance range for starting the test. 
+Stop drive after 
+calibration When enabled, the drive motor stops automatically after 
+torque calibration and the test needs to be started 
+manually with the "Start" button. 
+Stop motor at test end When enabled, the drive motor stops automatically at the 
+end of the test. 
+Alarm at the end of the 
+test When enabled, an alarm/a message is given at the end 
+of the test. 
+Print at the end of the 
+test When enabled, the test is printed automatically when 
+completed. 
+Sound When enabled, an acoustic signal is given e.g. when 
+another user logs in or in case of an error (wrong entry, 
+missing entry in a mandatory field). 
+Simulation mode Enables simulation of tests without a device connected. 
+@ For running real tests, this function must have 
+been disabled. 
+Send parameters to 
+temperature 
+controller 
+Print customer logo 
+Software MetaBridge® MixMB for Mixer When activated, the parameter set of the connected 
+measuring mixer is transmitted automatically to the 
+temperature controller before heating starts. 
+cB If this option is disabled, wrong parameters can 
+cause faulty measurements. 
+Enable this function for including a customer logo on your 
+printouts. 
+> A window for loading the logo opens. 
+59MetaBridge software 
+e General settings 
+Field Entry 
+————— a 
+Language Selection of the language 
+Date and time Here, you can set the local date and time. These data 
+may differ from the data shown on the tile "Time/date” if 
+the measuring device and the terminal are located in 
+different time zones. 
+1. Tap the line "Date and time”. 
+> The following windows appear one after another. 
+Please select the current date 
+< dune 2016 > 
+Su Mo Tu We Th Fr Sa 
+1 2 3 #4 Please select the current time 
+eee 
+5 6 7 @ $ 0 1 - 
+12 13 14 «159 17 18 0 7 
+19 20 21 22 23 24 26 v7 
+26 27 28 2 30 
+Next Cance 
+Fig. 71: Setting of date Fig. 72: Setting of time 
+2. Set the correct values, then close the window with 
+"Next". 
+> Date and time are taken over. 
+Export file name Here you can define the composition of the file name of 
+your export files. By means of the arrows, you can move 
+the variables in this window. 
+Tapping the entry field opens the following window: 
+‘ARA Sample :D_OF 
+Export file name Fig. 73: 
+1 Manual entry fields 3 Variables currently used 
+2 Available variable presently not 4 Representation of the current 
+used composition of the file name 
+e Units 
+Here, you can set the units and calibration values, if applicable, required for your device. 
+Software MetaBridge® MixMB for Mixersoftware 
+4.5.6.2 Network setting, printer setup 
+— Tapping the button "Network settings” opens the window "Network settings" (see fig. 
+fom) xt below). 
+Re quer rrr ga x | 
+Fig. 74: Tile "Options", window “Network settings” 
+@ Settings in this window can only be made by an administrator. 
+e Network settings 
+In_ case of an existing cable network and DHCP 
+1, Connect the Brabender device via a LAN cable with the LAN wail socket. 
+@ There are no further settings required, the fields under "Network 
+settings" will be filled in automatically. This is the default setting. 
+> The device can be accessed via the IP address, e.g. 
+http://192.168.0.100 
+or, with a DNS server, via 
+http://[device name (entry on the tile "Options")] 
+factory setting: http://Brabender 
+Software MetaBridge® MixMB for Mixersoftware 
+Assignment of a fixed |P address 
+1. Connect the Brabender device via a LAN cable with the LAN wall socket. 
+2. Disable the option "DHCP enabled. 
+3. Fill in all entry fields as desired. 
+@ Entries in these fields imply sound IT and network knowledge! 
+> The device can be accessed via the IP address, e.g. 
+http://192.168.0.100 
+or, with a DNS server, via 
+http://[device name (entry on the tile "Options")] 
+factory setting: http://Brabender 
+Working without network 
+1. Disable the option "Cable network enabled” 
+* Wi-Fi settings 
+1. To establish a Wi-Fi connection, activate the box "Activate Wi-Fi". 
+> The software shows a list of all Wi-Fi networks available. 
+2. To activate a hotspot, activate the box "Activate hotspot". 
+=> A window for entering a name and a password for the hotspot is 
+opened. 
+Software MetaBridge® MixMB for Mixersoftware 
+e Printer setup 
+Setup of a network printer 
+@ Both the Brabender device and the printer must have been connected to the 
+network. 
+@ The quality of the printout may vary depending on the internet browser used. 
+1. Tap the tile "Load" and load a saved test. 
+2. Tap the button "Print” in the action bar of the test diagram. 
+> The print preview appears (see fig. below). 
+@ If no printer has been set up yet, the default printer set in this window 
+shows "Save as PDF" (see fig. below, detail on the left). 
+Fig. 75: Print preview 
+3. Tap the button "Change..." on the left below the line “Save as PDF" 
+> The window "Select a destination" appears: 
+© Select a destination 
+Qos 
+Recent Destinations 
+Save as POF 
+Fig. 76: Window "Select a destination" 
+Software |ietaBridge® MixMB for Mixer 63software 
+4. In the window "Select a destination” in the line "Local destinations", tap 
+"Manage". 
+> The window "Print Settings - localhost” appears: 
+ice Poet sevings bestest 
+nani Fesne Men ee 
+= a ecg Contig yt 
+Corot 
+Fig. 77: Window “Print Settings - localhost" 
+5. in the window “Print Settings - localhost", tap “Add” 
+> The window “New Printer" appears: 
+the Peieer * 
+| Select Davice 
+Entar dedice 1 
+‘Geneve CUPS POF 
+Fig. 78: | Opening the list of network printers 
+6. In the window "New Printer’, tap “Network Printer” 
+> A list of network printers appears: 
+Regs Prictor . 
+i Setect Dewice 
+Enter device URI 
+Gener CUPE-PDF 
+HP Color Loserfet CP3525 ( 
+HP Lserset soso cere OF mpdornicrep RICON Aen 9 251.073.2 
+Find Network Printer 
+endows Printer SAMBA 
+LPOVLER Host or Prntet 
+AppSockeuHP JesDirect 
+Ansesnet Printing Pretacat iNt 
+smemnet Pmting Protocol fp 
+letemet Parting Femtorol 4p 
+cms 
+Fig. 79: List of network printers 
+Software MetaBridge® MixMB for Mixersoftware 
+7 Tap the desired printer in this list, then tap "Forward". 
+> If the printer is found automatically, the following window with the 
+printer address appears: 
+How Printer x 
+» elect Dewice 
+Location of the network primer 
+Genere GUPS-POF Bee 17224179205 
+Ete: (mL bo a 7 Heuaier 
+Brotrer OL. 720NVe (Brother 
+HE Coke faves Jer CP S92 
+HP Lasenfet 4950 Seees i: 
+RICOH ation MP RoE ALT2? 
+Fing Beetwark Per 
+Sines Porter M9 SAMBA 
+SPOMLPR Hoss or Peaster 
+ApS oCkrEHP terre 
+internet Foming Fatal fe 
+ee ‘ysernct Penny Proto fy 
+Fig. 80: | Window with printer address 
+> In this window, tap "Forward" in order to open the window "Installable 
+Options" (see fig. below). 
+> If the printer is not found automatically, the following window with a 
+list of printer drivers appears: 
++ Choose Drives 
+Agatts 
+Om 
+Fey 
+ines 
+trtetsects 
+Fig. 81: List of printer drivers 
+Software MetaBridge® MixMB for Iixer 6566 NetaBridge software 
+> In this window, tap "Generic (recommended)", then tap "Forward" in 
+order to open a list for selecting a printer driver. 
+Peer Feinter * 
+Choose Driver 
+ate ences CUPS PLE 
+APP Gverywhere 
+PCL Laser 
+POF 
+Tax Oveve { 
+Kexteoaly { 
+Fig. 82: Selection of printer driver 
+> Tap the desired driver ("PostScript"), then tap "Forward" in order to 
+open the window "installable Options” 
+Neus Printee a“ 
+inctatteble Options 
+“ine seems soperts seibtonat Marcha Bhat fey be nate aon Re grote 
+F Bepieser 
+Fig. 83: Window "Installable Options" 
+Software MetaBridge® MixMB for MixerMetaBridge software 
+8. In the window "Installable Options”, tap "Forward". 
+> A window with the printer name and a description of the printer appears: 
+Mew Printer ® 
+dud we ws 
+Fig. 84: Window with printer name and description 
+9. In this window, tap “Apply”. 
+> The program asks whether you want to print a test page: 
+a sous Yess Page 
+Fig. 85: Frage: Testseite drucken 
+10. For printing a test page, tap "Print Test Page". 
+> The test page is printed on the selected printer. 
+@ On a generic printer, the printout frequently appears in black and white only. 
+For getting color printouts on the selected printer, proceed as follows: 
+1. Search for the homepage of the printer producer. 
+2. Search for Linux drivers for the selected printer. 
+3. Download the Linux printer driver on a memory stick. 
+4. Plug the memory stick into your Brabender device and copy the driver. 
+5. For printer setup, please ask your network administrator. 
+Software MetaBridge® MixMB for Mixer 67MetaBridge software 
+@ IMPORTANT 
+Upon completion of the printer setup, tap the button "Back to start screen” in 
+order to return to the start screen. 
+Now, when you tap the button "Print" in the action bar of a loaded test, the 
+printer will be shown as destination printer and can be used. 
+Setup of an independent printer 
+a Setup of an independent printer connected via USB is done the same way as 
+described above. The printer must have been connected via USB to the 
+Brabender device and both printer and device must have been switched on. 
+The printer name will then be shown in the list of printers. 
+68 Software MetaBridge® MixMB for Mixeri) 1 
+Software let MetaBridge software 
+45.6.3 Diagram settings 
+Tapping the button "Diagram settings" opens the window “Diagram settings". 
+@ For details, please see explanations concerning the button "Diagram settings" 
+in chapter 4.4.2.2 "Measuring window" 
+4.5.64 Axis settings 
+Tapping the button "Axis settings" opens the window "Axis settings". 
+@ For details, please see explanations concerning the button "Axis settings" in 
+chapter 4.4.2.2 "Measuring window” 
+4.5.6.5 Series settings 
+Tapping the button "Series settings" opens the window “Series settings". 
+@ For details, please see explanations concerning the button "Series settings" 
+in chapter 4.4.2.2 "Measuring window" 
+4.5.6.6 Correlation settings 
+Tapping the button "Correlation settings" opens the window “Correlation settings 
+(see fig. below). Here, the settings for up to 10 tests can be made. 
+@ The window "Correlation settings" always lists 10 tests, independent of the 
+number of tests in the correlation currently loaded. This is because up to 10 
+tests can be loaded and represented in a correlation. 
+i) For details, please see explanations concerning the button "Correlation 
+settings” in chapter 4.4.4.2 "Create new correlation”70 software 
+4.5.6.7 Measuring view 
+Tapping the button "Measuring view" allows to select various diagram views. 
+@ This function is relevant only when a new test has been started. 
+The program always first shows the measuring view set before. For selecting another 
+view during a running test, tap the button "Diagram settings” in the action bar of the 
+test diagram, then tap the button "Measuring view" 
+interval covering the last few 
+This view shows the current state of | minutes. 
+the measurement within the frame 
+‘of the preset measuring time. ‘The observation window moves Plotiar view Stretch view i) 
+aS a 
+Move Grow ad 
+gb 
+Classical Brabender view with a ‘The plotter view enables the The stretch view represents the gE 
+fixed time interval. observation of a dynamic time data already measured. The 2x18 jg” 
+bd 
+= c automatically with the time passed. 1s adjusted automatically and grows 
+with the measuring time passed, 
+This view is recommended for 
+expercenced users only because the 
+xcaxis ticks change continuously. 
+Fig. 86: Tile "Options", window "Measuring view” 
+Software MetaBridge® MixMB for Mixersoftware 
+4.5.6.8 Service settings 
+=f @ The button "Service settings" is only visible for administrators. 
+Tapping the button "Service settings" opens the window "Service settings" 
+eg rr rr aaa 
+Fig. 87: Tile "Options", window “Service settings” 
+4.5.6.9 Hardware settings 
+@ The button "Hardware settings" is only visible for administrators. 
+Tapping the button "Hardware settings" opens the window “Hardware settings" 
+Begrrrraaxe 
+Fig. 88: Tile "Options", window “Hardware settings”Fig. 89: 
+Tile "User" 
+72 software 
+4.5.7 Tile "User" 
+Tthe tile "User" opens a selection window with several user functions. 
+Please select an action... 
+| f& | Log out 
+al Change password 
+{$3 | User administration 
+[©] shut down the device 
+Close dialog 
+Fig. 90: Selection of user functions 
+Log out 
+logs out the current user and opens the log-in window. 
+HivietaBridge 
+niger 
+Vc lad, 
+L _ Fig. 91: Log-in window 
+@ If the option "Keep me logged in” has been enabled, the current user is not 
+logged out when the device is switched off. When the device is switched on 
+again, the MetaBridge start screen appears immediately. The user will remain 
+logged in until he logs out using the button "Log out" 
+Change passwort 
+opens a window where the user currently logged in can change his password. 
+Please enter current password and new 
+password and confirm with "OK". 
+Fig. 92: | Changing the password 
+@ After having changed his password, the current user is logged out 
+automatically and must log in anew, if desired. 
+Software MetaBridge® MixMB for Mixersoftware 
+i ll User administration 
+a@ The user administration is visible for administrators only. 
+Tapping this button opens a list of all users with their respective user type 
+(administrator/operator) and their last log-in (see fig. below). 
+SSS) (i) 
+stow uses porseae 18 Bf 
+nares 
+Ten oem ~~ marsgecion 
+ne someoeis te 
+Buttons in the action bar 
+User settings 
+opens the window "User settings” where the different user settings and 
+authorities are explained and some general user settings can be made 
+Fig. 94: Window "User settings" 
+Software MetaBridge® MixMB for Mixer 73a User administration 
+opens the window "User administration" 
+Fig. 95: Window "User administration" 
+Tapping a user in this list opens a window with the log-in data of this user 
+(see fig. below). 
+@ The administrator can change all these data. Ratna 
+oS 
+a 
+Fig. 96: Window "Edit user" 
+Delete user 
+opens the window “Delete user" with the list of users. Tapping a user in 
+this list opens a safety question and, upon confirmation of this question, 
+deletes the user. 
+Fig. 97: Window "Delete user" 
+Software MetaBridge® MixMB for MixerMotePridgs sortwie 
+eee Add user 
+it opens a window for adding a new user. 
+| =|) 
+= & 
+= a fever ces @ 
+— a} = C] 
+EE 
+Fig. 98: | Window “Add user” 
+1. Fill in all entry fields. 
+2. In the field "Type of user", set the desired user type for the new 
+user: 
+@ If the open user registration has been activated in the user 
+settings, each new user is registered automatically with the 
+“default rights on registration” of the preset user type. These 
+authorities can, however, be extended or limited individually 
+by the administrator. 
+Locked user the user has no authorities, he is just 
+added in the system 
+Observer can view tests 
+Operator can view and edit (run) tests 
+Advanced user can view, edit and delete tests and 
+methods 
+Admin can view, edit and delete tests and 
+methods and can manage users 
+3. Finally, tap "Create". 
+> The window “User administration" is opened with the new 
+user being included in the list. 
+Shut down the device 
+With this button, the internal PC can be run down and the touchscreen can be 
+switched off (only in local operation, in remote operation for administrators only, see 
+chapter 4.2.2 "Running down the internal PC"). 
+© fo; MixerMetaBridge software 
+4.5.8 Tile "Our Products” 
+our 
+Products The tile “Our Products" shows a survey of the Brabender Food or Chemical 
+instruments (depending on the section your Brabender device belongs to). 
+Fig. 99: 
+Tile "Our Products" 
+Oe OH EZ @ 
+Fig. 100: Window “Our Products” 
+Tapping a device opens a PDF file with a detailed description of the respective device 
+and its applications: 
+Brabender® Plasti-Corder® Lab-Station / Lab-Station EC 
+Torque Rneometers for applicational investigations CONNECTING ©! 
+and simulation in laboratories PERFORMANCE. HOQeOHZSSSIEO 
+bere qnity ia measured. | 
+Fig. 101: PDF file of a Brabender device (example) 
+76 Software MetaBridge® MixMB for MixerFig. 102: 
+Tile “About us" 4.5.9 Tile "About us" McteBrises Somwar=) 
+The tile "About us" lists the contact data of the Brabender Customer Service as well 
+as some basic data of your Brabender device which may be needed when contacting 
+the Brabender Customer Service. 
+The button “Brabender in the web" opens the Brabender Homepage (only from 
+external terminals). 
+Tapping the button "Brabender on YouTube" opens a list of clips about Brabender 
+and the application of many Brabender instruments (only from external terminals). 
+SOeSODHRIBGES Brabender? GmbH & Co KG 
+Kudhursts. 49-55, 47055 Duisburg, Germany 
+445 203 780-131 Servica hotline Sa: cervice@ombendercom Se ‘ab ween brabendercom +49 203 7788-131 
+OMB: LAT 
+‘ype: 7900060 
+su: 4900070 
+Mix#t8 Cervelatian (7902060) 
+‘Mixer: W SO EHT ‘Max. Torque: 200.9 [Kor] Max. Temperature: $00.0 [°C] ‘Min, Teenperature: -$0.0 °C} Volume: 55 Zanes: 3 
+tive: Simulation drive Max. Torque: 999 [em] Max. Speed 998 [L/min] 
+Fig. 1 03: Window "About us" 
+Software MetaBridge® MixMB for Mixer 77MetaBridge software 
+78 Software MetaBridge® MixMB for Mixerof software 
+5 Configuration of the MetaBridge software 
+5.1 Presettings in the MetaBridge software at initial start-up 
+When the internal PC is started for the first time, some basic presettings need to be 
+made once before the measuring program as such can be started. 
+1. If not yet done, switch the Brabender device on. 
+(O} 2. Press the key "PC ON/OFF" on the Brabender device or on the MetaBridge 
+@ controller in order to start the internal PC and the touchscreen, if any. 
+Key "PC ON/OFF" => ~~ The key "PC ON/OFF" lights up in white. 
+> The internal PC boots. On the touchscreen or on the external terminal, 
+the following windows appear one after the other: 
+FeNVPRUE Kohsic HiAgare 
+i leone: ibaa Kau. arr SF ailke a fat Wullkgaeh 2 
+ake 
+Fig. 104: Welcome screen 
+¥ 
+ivietaBridge 
+Fig. 105: Title screen 
+v 
+Software MetaBridge® MixMB for Mixer 79of the a oe software 
+Please select a language... 
+SE asi 
+Site 
+Yt 
+— Fig. 106: Language selection 
+3. Tap the desired language. 
+@ The language can be changed at any time in the program. 
+> The following window appears. 
+Data protection declaration fA 
+Scope fi ‘cn ataco cacao rats wer he fae, sen an the eslecton ang use of personal data by the responsible provider Erabencer© Grab B Co. Key fuicasty 1-85, 47085 Ducburg, brabencer ‘com, +49{0}203 7788-6 on this website (hereinafter referred to 82 Provder) ‘Fre lage! baci fr cata protection can be found in the German Federal Data rotecion Act (ESC) and the German Telemedia Act (TMG). 
+Access Data / Server Log Files 
+‘The Frevider (ar fs webspace provider) collects data (In the form of server fog than ech 3 ea wabate Is acessed. Te wrcessed data include: ‘The agit ef the requested web page, datafile, date and time of the access request, amcont of data vansferred, notification of successful access, bepeeet tye and version, the usar's operating system, referrer URL (the pewizusiy wisited eee), IP address and the requesting provider. 
+neti 
+Fig. 107: Privacy statement 
+4. Read the privacy statement completely, then tap "Accept" 
+> The following window appears: 
+Please select the current date 
+June 2016 
+Mo Tu We Th 
+1 2 
+: 10 8 9 
+6M 17 
+22 23 24 
+29 30 
+Fig. 108: Setting the date 
+Software MetaBridge® MixMB for Mixer5. Set the current date, then tap "Next". 
+> The following window appears: 
+Please select the current time 
+nouns bwnaes. secon 
+03 C2 i) 
+04 C3 46 AM 
+og 4 a PM 
+06 05 48 
+o7 06 19 
+Fig. 109: Setting the time 
+Set the current time, then tap "Next". 
+> The following window appears: 
+Create an administrator account 
+ear 
+Password 
+Fig. 110: Creating an administrator account 
+Fill in this window completely, then tap "Finish". 
+@ The secret question and answer are needed in case you forgot your 
+password for logging in again in your account and setting a new 
+password. a The presettings for initial startup are now completed. The start screen 
+of the Brabender MetaBridge appears. 
+If a software was purchased without a MetaBridge controller, you still need to 
+activate the license number and to install the corresponding device in the 
+software. 
+5 Upon license activation, installation of the device and log-in, the start 
+screen of the respective device appears. 
+If applicable, make further presettings (language, units, etc.) on the tile 
+“Options”. 
+Software MetaBridge® MixMB for Mixer 84of the MetaBridge software 
+“oftware MetaBridge® Mix for Mixer 6 Running a test 
+6.1 Safety notes, general notes 
+Danger of severe burns (iue to hot surfaces, risk of property damage! 
+The surfaces of parts of the machine system can reach extremely high temperatures 
+during operation and remain very hot even a long time after shutdown! 
+Danger of severe burns, danger of damage to the contact surfaces due to hot 
+machine parts! 
+> 
+> Vv Always wear suitable protective gloves when working on the machine system! 
+Always ensure there is a sufficient distance for unprotected parts of your body 
+and cables, pipelines and hose lines. Keep them away from hot surfaces! 
+Do not use the machine as a storage surface! 
+Deposit hot machine parts on a suitable, heat-resistant base only! 
+Set up clear warning signs beside the hot machine parts in order to avoid 
+unintentional touching by third persons! 
+Guide/dispose hot product only in appropriate, heat-resistant containers! 
+Danger of injury, risk of property damage! 
+The software offers the possibility of programming speed profiles. In this context, 
+the machine system, controlled by the software, may start automatically from 
+standstill position. 
+Danger of injuriy, danger of damage to or destruction of the machine system! 
+> 
+> Never put your hands into the open measuring mixer or insert any tools 
+when the drive unit is live! 
+Always pull the power plug of the drive unit before undertaking any 
+manipulations on the open measuring mixer! 
+Software MetaBridge® MixMB for |ixer 8384 a test 
+Risk of injury, risk of property damage! 
+When the feed opening is open, the rotating mixer blades are accessible! 
+Danger of most serious injuries, entanglement hazard by the rotating mixer blades 
+when the drive motor is running! 
+> Never put your hands into the open measuring mixer when the drive unit is 
+on! 
+> Never work on the measuring mixer with open long hair or with loose 
+garments (tie, scarf, shawl or the like) or jewelry! 
+Danger of injury, risk of property damage! 
+Operation of the machine system in "Local" mode may cause operating troubles 
+due to wrong operating parameters. 
+Danger of injury, risk of damage to the machine system! 
+> In normal operation, always control the Brabender drive unit through the 
+software, that means in "Remote" mode! 
+> Measurements must not be run in "Local" mode! 
+> Use "Local" mode only for short terms and only for cleaning purposes! 
+@ As many settings in the software depend on the material to be processed and 
+on the entire system configuration, only some general instructions concerning 
+the test procedure are given in the following. If you have any questions, please 
+do not hesitate to ask the experts of the Brabender laboratory. 
+6.2 System preparation prior to each test 
+® Concerning preparation of the instrument system and of the sample, please 
+refer to the corresponding chapter in the instruction manual of the instrument. 
+Software MetaBridge® MixMB for Mixertest 
+6.3 Test procedure 
+@ Concerning the test procedure, please also refer to the corresponding chapter 
+in the instruction manual of the instrument. 
+1. Tap the tile "New" in the MetaBridge software. 
+> The parameter window for entering the test parameters appears (see 
+fig. below). 
+2. Fill in the parameter window completely. 
+@ For entering the test parameters, please refer to chapter 4.4.2.1 
+"Parameter window". 
+@ In order to prevent switching-off of the drive unit due to excessive 
+torque, start with a low speed (20 - 30 min’). 
+\n order to make sure that the measuring curve is recorded completely, 
+first set a large measuring range. 
+New measurement 
+« 
+& Milter 
+%e d 
++ Re) 
+Loading chute 
+Enter the feeding chute you will use. 
+Fig. 111: Parameter window 
+Software MetaBridge® MixMB for MixerRunning a 
+8&6 3. Make sure that the drive unit and the docking station (if applicable) have been 
+switched on. 
+& Otherwise, the system cannot be calibrated. 
+4. To start the measurement, tap the field "Start measurement" 
+> The device initializes. 
+> The measuring mixer is heated up. 
+190.0 
+Re 113.1 Etock temperature 250 
+Sensor Current Value Set Value 
+Start temperature not yet reached, Heating is 
+still running. 
+Fig. 112: Heating up Fig. 113: Start temperature reached 
+5. Wait until all current values have reached the setpoint values and all 
+temperatures are constant, then tap “OK". 
+> The speed now rises to the setpoint value automatically and the system 
+is calibrated. 
+Calibration is running, please wait... 
+Fig. 114: Calibration 4 Upon calibration, you are requested to fill the mixer or to press "Start". 
+@ Upon tapping "Start", recording of the measuring values starts 
+immediately, otherwise, recording of the measuring values starts 
+automatically when the torque threshold shown in this window is 
+exceeded (in the fig. below: 1 Nm). 
+10 
+0.8 
+Please fill the mixer or press "Start" to start 
+the measurement. 
+Fig. 115: Request to fill the mixer 
+Software MetaBridge® MixMB for MixerRunning a fest 
+Risk of injury, risk of property damage when filling the sample material into 
+the mixer without or with an unsuited or wrongly mounted loading device! 
+When loading the sample material into the mixer through a wrongly mounted or 
+unsuited loading device or without any loading device at all, the rotating mixer 
+blades may be partly or fully open. When loading the sample material with the 
+pressure ram, the feed opening of the measuring mixer needs to be opened and 
+closed several times so that the rotating mixer blades are open. 
+Danger of most serious injuries, entanglement hazard! 
+> Always use an original Brabender loading device for loading the sample 
+material into the measuring mixer! 
+> Never load any sample material directly into the the measuring mixer with 
+your hands without a properly mounted original Brabender loading device! 
+> Always ensure there is a sufficient distance for your hands. Keep them 
+away from the feed opening! 
+> Never work on the measuring mixer with open long hair or with loose 
+garments (tie, scarf, shawl or the like) or jewelry! 
+6. Mount the loading device or the chute of the loading device or open the 
+pressure lever of the pressure ram. 
+@ See separate instruction manual of the measuring mixer. 
+7 Fill the sample material into the measuring mixer. 
+ri) See separate instruction manual of the measuring mixer. 
+> As soon as the starting torque is exceeded (or when the field "Start" is 
+tapped), the measuring window with the on-line diagram appears. 
+@ Concerning the buttons in the action bar of the measuring window, 
+please refer to chapter 4.4.2.2 "Measuring window" 
+7 = 
+~ IL (: Q 
+*| jw [Y  g »| ps 
+7 ele, >| Joo§iane 8 
+“ jn bio? @& 
+. jn i, & sebeve 3 @ ob —— ine}, fy cd 18 re ey s:00 s 
+Bees aed 8 oct torgere Biotiee Saris Tammie 
+00:31 18.7 45.0 167.3 ‘Brock’ tompersture 
+Fig. 116: Measuring window 
+Software MetaBridge® MixMB for Mixer 87Running a test 
+88 6.4 Test end 
+6.4.1 Test end upon expiry of the test time 
+Upon expiry of the test time preset, data transmission from the device to the 
+MetaBridge is stopped automatically and the evaluation is shown. 
+@ The test is saved automatically in the list of tests and. Separate saving of the 
+test is not required. 
+i) Concerning the buttons in the action bar and the possibilities for editing the 
+evaluation, please refer to chapter 4.4.2.3 "Evaluation”. 
+yo ytd 
+| 
+tas | 
+ase 
+a8 a | 
+g} 2002 | es i | 7 
+faut yatiyy ssi pe usitilinp IS Ua i din erent) ‘ it 
+so fap 
+25 oie 
+oh se __ a ALPE » 
+9:00 4:00 2:09 3:00 4:00 5:00 
+Torque 3 Spesd ‘= Stock temperature we Min. Torque Max. Torque eating zone 
+‘Stack temperature | bhai iphow 
+n res Leeding Peck 
+a mane [xn 
+i imerc | Inflection Point 
+x sere | mpamure End 
+Energy Description 
+ry 47 ile oeding Muah tr Pheu 
+lex 123 ktm nova js ama = = ee (37.4 ktm Maximum te End 
+ax eT [Loading Pesk to Maximum i 
+ke 149.3 ktm Lending Penk to End (WW) 
+eT B22,2kNmvkg |Specite Energy (W/Sampie Moss) 
+lex a4 im —~=S™S*« lation Area obove B 
+Result 
+1:94 rome 
+_ TeaoNm/min 
+Fig. 117: Evaluation window (here: with reference curve) 
+Software MetaBridge® MixMB for MixerRunning 2 
+6.4.2 Early test end (test abortion) 
+The test can be stopped manually any time before expiry of the preset test time. 
+stor] 1. Tap the button "STOP" in the action bar beside the measuring window. 
+> A window appears asking you whether you really want to stop the test: 
+Button "Stop" 
+Do you want to cancel the measurement? 
+. Fig. 118: Safety question 
+2. If you want to stop the test, tap "Yes". 
+> Data transmission is stopped. 
+> The evaluation with the evaluation points calculated up to the point of 
+abortion of the test is shown. 
+90 — 
+ea 
+\ 20 
+gq 604 
+FE all 
+1B soll \ / 
+ted || of 
+| apt ] S| 
+ee J03 sis |e i Es + wae s100 200 200 4:00 “ve foes 
+‘ © Torque @ Speed 4 Stock temperatura 
+tin. Torque Max. Torque eating zone 1 
+Leading Peak 
+178.4 °C Minimums 
+47.3 °¢ Inflection Paint 
+io 100.5 "¢ Mexiroum 
+t 300.5 °¢ End 
+cohen , _ 
+lat <3 hyn Londiog Penk bo Miniewim 
+lee ape ‘Minimum te Maximum 
+jes BD awn | Maximum tm End 
+a 1a thm |Leoding Peak to Meximum 
+[ac ‘na wn Lending Peak to End (Wi) 
+| (416.1 RNa ___|Spacite Energy (W/Semple Mass) 
+lex 1.2 ktirs Goletion Aree above B 
+Result 
+foatan Tet €1-¥) 01:05 mmiss 
+Gautin Speee = 48.6 m/min 
+Fig. 119: Evaluation window of a cancelled test 
+Software MetaBridge® MixMB for Mixer 89Running a 
+90 Software MetaBridge® MixMB for Mixer 7 Annex 
+7.1 List of buttons in the MetaBridge software 
+Description of button functions 
+Back to start screen 
+Methods 
+Speed profiles 
+Temperature profiles 
+* or GH O 
+Options 
+Li tle User parameters 
+Tag editor 
+Diagram settings 
+New measurement 
+Enable/disable zoom 
+Show/hide numerical details Or 
+OOMs 
+Enter/edit comments 
+Show parameter window 
+Change parameter 
+Axis settings 
+vr Series settings 
+Software MetaBridge® MixMB for MixerAnnex 
+Correlation settings 
+Back to previous page 
+Stop measurement 
+Change evaluation 
+Edit/create reference curve 
+Remove reference curve & 
+oo 
+Ev 
+bs 
+bs 
+Jo, Measuring view 
+& 
+[3 exoos 
+[3 Show preview 
+tate 
+Fin 
+fat Load/edit correlation 
+A Change correlation mode 
+oa 
+ht Network settings 
+=0 Service settings 
+' Hardware settings 
+aGe 
+i } User administration 
+o0e 
+beat ings User settin 
+Software MetaBridge® MixMB for MixerAdd user 
+Delete user 
+About us 
+Qur products Beak & 
+Manual 
+FAQ Show FAQ 
+Feedback ®@ 
+x 
+Brabender in the web 
+You 
+Brabender on YouTube 
+cm 
+RA Service 
+Software MetaBridge® MixMB for Mixer An 
+93Annex 
+94 Software MetaBridge® MixMB for Mixer‘Software MetaBridge® MxM 8 Index 
+A 
+Alarm oo. ceceee rere receseeeteeeeneneate 47 
+Axis SettingS...0.0... cece 24 
+c 
+Change parameter............ ee 23 
+COMMENE ue cert tener certs 22 
+Correlation 
+Change correlation mode... 
+Create new.... 
+Settings... ee 
+Customer logo «00... 59 
+D 
+Date and time setting... 60 
+Diagram settings........0.00 ee 24 
+Diagram ViOWS ....0... ccc 70 
+E 
+Edit testo... eres 33 
+Evaluation... eee eee 26 
+Change |... 27, 38 
+Export 
+Dateiname 00.0... ee eects 60 
+L 
+Language setting .......... cece 60 
+M 
+Measuring view 
+Measuring window... 
+Live-Ticker 
+MetaBridge 
+Creating an administrator account 
+ceevecueeeceseeeeeteeseneeesereaenneaeeteneaeoneae 81 
+Language selection oe 80 
+PresettingS.............0.0::::ceeeeee 79 
+Running down the PC................ 14 
+Setting the date .... 
+Setting the time 
+Start screen oe 15 
+Method oo... eee 42 
+Create oe eee 43 
+Delete oo... cece eee 43 
+Mixer REMAMEC..0. eee cece cee teeneteeeees 43 
+N 
+Numerical view... cere eee 21 
+P 
+Parameter window 
+SHOW oo. reece eter rteeeeeee 22 
+Preview............2 ccc cette cerns 31 
+Printer Setup 0.0... cece 63 
+R 
+Reference CUIVG 0... eee 41 
+7X (oe 
+Edit tolerances... 
+Remove 
+Remove from diagram................ 28 
+Ss 
+Serial label... ee 22 
+Series 
+Select by axis... eee 24 
+Select by legend... 24 
+Series SetingS 0.0.0... eee 24 
+Setting 
+Date and time.. 
+Correlation 39 
+Diagram . 
+SOTICS oe eee eeee eee eitees 24 
+USEF ore rererees 
+Simulation mode. 
+Speed profile .. 
+Delete neers 46 
+RENAME... eee een eeteneee reer eees 46 
+T 
+Tag editor .... 
+Temperature profile 
+Crate... eects rteeetenrenere 45 
+Delete oo... eee 46 
+95Index 
+96 ReNAME oo. eee teeter rete 46 
+Test 
+Edit... eee cee cee etter ete tenne nena 33 
+IMPOTth ec eee ec cceecetseeeeeeeeeeneee 32 
+Test end 
+Abortion oct teeereeeeaes 89 
+Expiry of the test time................. 88 
+Text 
+Show preview .... 
+U 
+Units 
+Setting... eee eeeeeeeee 60 USEF ooo. eee eee eens 72 
+AG oer teneeeeneertesereneaes 75 
+Change password .............0004 72 
+Delete... 
+Log out .. 
+TYPO ooo. eee teeter ce neers 75 
+User settings ... 
+User parameters.. 
+Zz 
+ZOOM FUNCTION... eee rere renee 21 
+Software MetaBridge® MixiiB for MixerBrabender® Gmbh &.Co. KS, 
+Kulturste. 49-54 
+47055 Duisburg 
+Germany ~ 
+@ Phene +49-203-7788-0 
+= E-mail:- brabender@brabender.com 
+www.brabender.com Brabender i 
+... Where quality is measured: 
+C.W. Brabender® Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+G@ Phone +201-343-8425 
+Fax +201-343-0608 
+fl E-mail: service@cwbrabender.com 
+www.cwbrabender.com 000 «BpaGengep» 
+yn. ArogmucKaa, A. 25 
+420032 KasaHb 
+Pocena 
+@ Ten. +7843 23346 66 
+ea E-Mail: oo0.brabender@brabender.ru 
+www.brabender.com

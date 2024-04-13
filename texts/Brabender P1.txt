@@ -1,0 +1,2703 @@
+Brabender'’ 
+... where quality is measured. 
+UY scl £ 
+4 : 
+. . iq 4 - £ 2 . Ps , 5} pt 3s . . ie cs 
+, Instruction Manuat —~ . * : ~ ~>*s ; 
+: ee "Pe . A. s < . 
+rr Be ‘> “" ie ot Ss 7 
+eet tae 7 ‘ > = fy P ; 7 
+45 4 > Pees ‘ 
+MetaStation 4E 
+ID no. 8 156 70.xxx 
+3 x 400 V, 50/60 Hz Copyright 
+All content, pictures, texts and graphics are protected by copyright. All kind of 
+translation, forwarding to third persons, reproduction and distribution - even of 
+extracts - is prohibited without our prior express written consent. 
+Brabender® and other brands not specially marked are registered trademarks of 
+Brabender GmbH & Co. KG. 
+© Copyright by 
+Brabender GmbH & Co. KG 
+KulturstraRe 49-51 
+47055 Duisburg 
+Germany 
+Proprietary rights, brands and trademarks of third parties 
+Any products registered as trademarks are not particularly marked in the present 
+documentation. Existing property rights (patents, trademarks, registered or industrial 
+designs) must be observed by all means. 
+Original Instruction Manual 
+815670-xxx_MetaStation-4E_BAdg-00-e 
+Edition 0820Use of 30-mA RCDs 
+If local regulations prescribe the application of 30-mA RCDs in order to protect the socket circuits, the following points 
+are to be considered concerning selection of the RCDs. 
+Three-phase drive controls with variable speed: 
+e For operation of three-phase instruments with a three-phase frequency inverter, all-current sensitive RCDs 
+type B must be used. 
+Brabender recommends the RCD type DFS4 B SK made by Doepke (SK = special characteristic for increased 
+tripping threshold up to 2 A in the pulse frequency range). A structurally identical RCD with the type designation 
+RCCB2 is available from Messrs. EPA. 
+® Do not connect more than one instrument to each RCD. Otherwise, the respective leakage currents of 
+combined instruments may sum up and trigger the RCD. 
+e Each Brabender device is tested as an individual consumer with the recommended RCDs and the real 
+leakage current is documented. 
+Single-phase instruments with variable speed drive units: 
+e For the operation of single-phase instruments with frequency inverters, at least variable-current sensitive RCDs 
+(type F) must be used, although all-current sensitive RCDs of type B should be preferred. The 
+recommendations given above apply here as well. 
+e Each Brabender device is tested as an individual consumer with the recommended RCDs and the real 
+leakage current is documented. 
+@ If the recommendations concerning the type and model of the RCD and/or concerning operation of the device 
+as an individual consumer cannot be met, please contact Brabender. The Brabender program comprises 
+leakage current compensation devices and isolating transformers which can be installed in the power supply 
+line. 
+DGUV3 tests for electrical safety in compliance 
+with the German Workplace Ordinance 
+Note that electrical safety tests in compliance with VDE 0701-0702 with a leakage current threshold value of 
+3.5 mA is not admitted for Brabender instruments. 
+Brabender instruments are subject to the EG machinery directive 2006/42/EG which requires conformity to 
+EN 60204-1 (VDE 0113) for electric layout, equipment, and tests. 
+Chapter 18 (Tests) of the EN 60204-1 does not prescribe leakage current tests. However, chapter 8.2.8 of the 
+machinery directive makes additional requirements on protective equipotential bonding for electric equipment with 
+ground leakage currents of more than 10 mA AC or DC.MetaStation 4E Contents 
+Contents 
+1 General Information 
+1.1 Use of the instruction manual. 
+1.2. Disclaimer of liability. es 
+1.3 SOPRWAPE eles ceeeeeteeeseeeeecseressusasaeeaesssievseseeasaeresseareesienaesesnentensneats 10 
+1:4 Scope OPUS eres pea pereemeccnen ee 
+1.5 Acquisition of components from external suppliers .... 
+2 Contact... 
+3 Stylistic features 
+3.1 General stylistic features... ccecceeeseseeeereceeeesseretsesssesesereeaneresiesees 
+32 Mandatoly SighSevectscmsr enn macnernma eerie 
+3.3 Design of safety messages. 
+4 Safety .. 
+4.1 Intended use ... 
+4.2 Target Group... cceceeecscssesensessnenserecassecsssarausaecesseverssseesarsenserseeserraraee 16 
+AIS ‘OWNEM'S:GULICS iosscsccrceessssccscceeseveseeeeencveeme eS 17 
+4.3.1 General owner's duties .... 
+44 Protective devices 
+4.4.4 Emergency motor-stop button.... 
+4.4.14 Position and function of the emergency motor stop button.18 
+4.4.1.2 Procedure after emergency motor StOp..........0ccceeeee 19 
+44.2 Emergency: shut-off Switch ..0c0ccciscnneniannacsnmannnicesinsencnae 20 
+4.4.2.1 Position and function of the emergency shut-off switch ...... 20 
+4.4.2.2 Procedure after actuation of the emergency shut-off 
+switch... 
+4.4.3 Safety device .. 
+444 Automatic torque limitation . 
+4.4.5 Two-hand control GeViCE.... cee ccc cee ee eects ceceeceeseeeeseetesneneeeeeeeees 22 
+446 BOC Pel scsccsmerencmnpienn ner 
+4.5 Residual dangers 
+4.5.1 Risk of injury when handling the measuring head 
+4.5.2 Unexpected start after switch-off triggered by the inverter... 
+4.5.3 Danger by electricity 20.0.0... cece ceeeeceee eens eens rene teceteeecanneeeseeeeeeen 24 
+5 "Transportiand Storag@ a sescrscscessew serene nnmerreaemnmersraavaten 25 
+5.1. Packaging... 
+5.2 Unpacking ... 
+5.3. Checking the scope of delivery .. : 
+5.4 Checking for and notification Of daMage........ccceeeseeseeeeseeerseeeeseeerenes 27 
+5.5 TRANS POP eee eee cece ceeeee eens neenenesesceeeeceeaceereceesesessaeseeeseaeaeieaeeesevenanecaeetes 28 
+5.6 Storage 
+6 Components and functional features . 
+6.1 General description 
+6.2 Designation of the sides of the instrument............0.cccsseseseeeeeeenees 31Contents 
+6.3 Product labels 00.2.0... cececeeeeeeeeesseeseeeeeeeesccecseeeeseesnenercneceseenneetiereeentcaee 32 
+6.3.1 Name plate. 
+6.3.2 Further product labels. 
+6.4 Main components 
+6.4.1 Front side, terminal Side@.................:c.0ccccceeeeteeseeneereeceetaeeaeenennnreeee 33 
+6.4.2 Right side, rear Sid@.............ccsseseeeeeeeterereate renee retseseeraaaneneserensens 34 
+6.5 Drive motor 
+6.6 Mounting surface 
+6.7 Spiral tooth gear clutch .. 
+6.8 Conmection panel ...........ccsseccssessessssssceresesssseaeneenenesencresneteeneeaeneeee’ 
+6.9 Mobile frame (option) 
+7 MetaBridge software 
+7.1. Starting/running down the internal PC... 
+tAA Starting the internal PC 
+mAs Running down the internal PC .............- cece tenees eee teeeeatees see 
+7.2 Start screen of the Brabender MetaBridge 
+8 Technical Data 
+8.1 Noise measurement... 
+9 MONG sicnesecccrcevicnccrsescvencecenanimnsccernneneerenennerenuanmoimamuaynennsnanennennenenntad 
+9.1 Safety notes concerning MOUNTING.............ccc cee terete ee tet tete ences 43 
+9.2 Requirements to the place of mounting ... 
+93 Setup and assembly. 
+9.3.1 Leveling the instrument. 
+9.3.2 Removing the shipping fixture ............cccceee cette terete cette reeaee rene 45 
+9.4 Power supply connection 
+9.5 Mounting of measuring heads 
+9.5.1 Mounting of measuring heads up to YoM 08/2008... 
+9.5.2 Preparations for mounting a measuring MIXEN.........e eee 
+9.5.2.1 Mounting the mixer supporting fOrk ........:.ccceeeeereeeeeteene 
+9.5.2.2 Mounting the mixer support (additional equipment) .... 
+9.5.3 CAN connection 
+9.5.3.1 CAN connection of measuring mixers .. 
+9.5.3.2 CAN connection of measuring extruders ......... ccc 51 
+10 SAUD. ee seeseececeseeecsesteneessseseeenensereseseesereeneaueneneenconsneraessersecayeeseisesaneaseasans 
+10.1 Safety notes concerning start-up .. 
+10.2 Preparations, switching on.. 
+10.3 Presettings in the MetaBridge software at initial start-up 
+10.4 Functional check of the safety GEVICES ..........-cccseteeestseseeeeetneretenrnereeseaee 
+10.4.1 Safety switch and two-hand control device..........eeecen eens 
+10.4.2 Emergency motor stop button.... 
+10.4.3. Emergency shut-off switch... 
+11 Setup and operation 
+11.1 Daily work before start Of Operation 0.0.0.2... steer este ten eeneeeeetitaens 59 
+6 : MetaStation 4EMetaStation 4E Contents 
+PALA «= Me ta Brid Q@ OQ 21 wscoiecrcscrsacsxesexnanmeanevemennrararcmnemnnccertosnievnsesee 59 
+11.2 Daily work before start of operation ............ ce cece cece cee ee ceeeteeeeeeteees 60 
+11.3. Running a measurement. 
+11.3.1 General remarks 
+12 Cleaning 
+13 9  MaiNtON ANC ws cssescccsisiesvesccesenarsnensescanavemameniermaueresrsomimeetenareeaeistn 65 
+13.1 Safety notes concerning maintenance... reeset ee tees eeneneenes 65 
+13.2 Bearings... 
+13.3 Fan(s)... 
+13.3.1. Position, function 
+ABVS2 Checking therfiller Mab nccscccssccsceresciemersereccmmnrnenncmmavincend 67 
+14 Trouble-Shooting oo... csceceeeecsceeceeserteeersceeneeceeseneeaeceeeeeeeeeeeenaerereeeneeeecseneses 69 
+15 Repair 
+16 Disposal... 
+17s Annex..... 
+17.1 Accessories, spare parts, additional equipment .............. cece 81 
+17.2 Electrical documents, wiring diagrams... cece rene tereteteeetseeeneaes 81 
+17.3 Electric interferences. 
+18 = index... Contents 
+a 7 ~ MetaStation aRead the manual 
+thoroughly! 
+Strictly observe 
+instructions and 
+safety instructions! 
+Keep and hand over 
+with the instrument! 
+Keep instruction 
+manual accessible at 
+any time! 
+MetaStation 4E General 
+1 General Information 
+1.1. Use of the instruction manual 
+Brabender instruments/software are developed/designed and built according to the 
+state-of-the-art and comply with the demand for simple and safe handling. In order 
+to become familiar with the applications and to use the Brabender 
+instrument/software in an optimum way, it is imperative to read this instruction 
+manual very carefully before putting the Brabender instrument into operation. 
+The instructions, safety instructions and precautions given in the present instruction 
+manual have to be observed strictly. 
+This instruction manual manual is delivered with the Brabender instrument/software 
+and is intended for operation in practice. It is to make the operating personnel familiar 
+with the Brabender instrument/software and to inform them about details concerning 
+transport, storage, mounting, start-up, operation, maintenance, trouble-shooting, 
+and disposal. 
+Maintenance and service instructions must be observed for reasons of effective 
+operational safety and a long lifetime of the Brabender instrument. 
+This instruction manuai is, therefore, to be considered part of the Brabender 
+instrument/software and must be kept and handed over with the instrument/software. 
+The operating personnel as well as the personnel in charge of maintenance and 
+repair must always have free access to this instruction manual. 
+1.2 Disclaimer of liability 
+Within the scope of legal regulations, Brabender GmbH & Co. KG refuses any liability 
+- for whatever legal argument - for direct or indirect damage caused in connection 
+with the delivery or use of the Brabender instrument/software. This is in particular 
+true for - but not limited to - improper use and/or improper operation and handling of 
+the Brabender instrument/software. 
+In this context, Brabender explicitly excludes any warranty for wear parts, in 
+particular for those with product contact. 
+Under no circumstances, Brabender GmbH & Co. KG can be made liable for any 
+damage or injuries caused by non-observance of the safety regulations included in 
+the data sheets of the producer of substances to be tested or processed with the 
+Brabender instrument. This is also valid if a recommendation was made concerning 
+the application of certain substances and/or if the provision of test material is part of 
+the scope of delivery and service. 
+The Brabender instrument is subject to modifications of color and design as well as 
+to technical modification without prior notice.General Information 
+1.3 Software 
+The Brabender software is developed with care and is tested internally - within the 
+frame of general safety standards also for computer virus. This does, however, not 
+involve any warranty whatsoever that the data carriers provided by Brabender and/or 
+data transmitted electronically by Brabender are virus free. 
+It is within the exclusive responsibility of the user to test the Brabender software by 
+means of state-of-the-art virus searching programs and to make sure that only 
+Brabender software is applied which has been duly tested for computer virus by the 
+user and has been found virus free. 
+Any claims arising from liability for defects concerning the functionality, 
+faultlessness, and usability of Brabender software and/or concerning Brabender 
+software being virus free are therefore excluded. 
+Our liability for any other damage arisen by the use of the Brabender software is 
+limited to intent or gross negligence. Any further liability - for whatever legal 
+argument, in particular for direct or indirect consequential damage - is excluded. 
+The software is subject to modification serving functional improvement and technical 
+progress without prior notice. 
+Due to continuous progress and development of the software, the screenshots, if 
+included in the present instruction manual, may slightly differ from the software 
+version delivered. 
+1.4 Scope of delivery 
+The scope of delivery is given in the shipping documents. 
+1.5 Acquisition of components from external suppliers 
+Brabender cannot guarantee that any components bought by the carrier/user from 
+external suppliers and incorporated into the system without prior consultation of 
+Brabender will be recognized correctly by the Brabender software and will work 
+properly within the system. 
+@ Brabender recommends contacting the Brabender Service dept. before 
+installing such foreign components. 
+10 ~ MetaStation 4EMetaStation 4E 2 Contact 
+Data to be stated in case of inquiries 
+If there are any inquiries to Brabender - e.g. relating to handling of the Brabender 
+instrument/software, ordering of spare parts, accessories, additional equipment or to 
+sending back Brabender instruments or parts of the instrument/spare parts for 
+maintenance or repair - all data given on the name plate must be stated. 
+For questions concerning the Brabender software, besides the ID no. of the software 
+the version no. must be stated as well. 
+Contact 
+For any questions, further information, or in case of problems with the Brabender 
+instrument/software, please do not hesitate to contact the Brabender Service 
+department. 
+Brabender GmbH & Co. KG 
+KulturstraBe 49 - 51 
+47055 Duisburg 
+Germany 
+@ Phone +49-203-7788-131 
+ce E-mail: service@brabender.com 
+North American Regions 
+C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+62 E-mail: service@cwbrabender.comContact 
+aa : - “ MeteStation 4Efeatures 
+3 Stylistic features 
+3.1. General stylistic features 
+The following stylistic features are used in the instruction manual: 
+1. marks operating instructions in their serial order 
+> [indented] marks individual steps of a preceding general instruction 
+> [indented] marks the consequences of a preceding action 
+> {in safety messages] marks operating instructions 
+C) marks lists or (in instructions) alternatives 
+- [indented] marks subordinated lists 
+3.2. Mandatory signs 
+The following mandatory signs are used in the instruction manual: 
+@ General mandatory sign, additional information 
+& Read the instructions before, cross reference 
+MetaStation 4E 13features 
+3.3. Design of safety messages 
+The safety messages given in the instruction manual are marked by a hazard 
+warning sign and a signal word. 
+The signal word and the associated signal color indicate the relative severity of the 
+hazard: 
+DANGER 
+Describes an imminently hazardous situation which will result in death or 
+serious injury if not avoided. 
+, Describes a potentially hazardous situation which is likely to result in death or 
+serious injury if not avoided. 
+| Describes a potentially hazardous situation which may result in minor or 
+moderate injury if not avoided. 
+Describes a situation which may result in property damage if not avoided. 
+~ MetaStation 4EMetaStation 4E Safety 
+4 Safety 
+4.1 Intended use 
+Intended use 
+The Brabender instrument may only be used in non-hazardous locations after having 
+been completely assembled. 
+The instrument may only be used within the limits stated in chapter 8 "Technical 
+Data" and only as a drive unit for Brabender measuring heads designed for this drive 
+unit. 
+Brabender measuring instruments are high-precision instruments with a highly 
+sensitive measuring system. Always handle the instrument with care in order to avoid 
+damage to the instrument and to the measuring system. 
+Improper application 
+The Brabender instrument must NEVER be used for testing of or in connection with 
+explosives - explosion hazard! 
+Unauthorized modifications of the Brabender instrument may cause danger to the 
+personnel or property damage and, moreover, result in loss of guarantee and are, 
+therefore, forbidden. 
+Sudden and rigid speed changes from low to high values on the drive unit can cause 
+damage to or even destruction of the measuring head and are, therefore, forbidden. 
+1516 4.2 Target group 
+Mounting, modification, disposal 
+Mounting, modification, and disposal of the Brabender instrument may only be 
+carried out by technically skilled personnel with the corresponding qualifications. 
+Electric work is only allowed to be carried out by qualified and skilled electricians in 
+compliance with the rules for electrical engineering. 
+Operation, cleaning, maintenance 
+Routine operation, cleaning during routine operation, and maintenance of the 
+Brabender instrument may only be carried out by skilled personnel. 
+The personnel in charge of operation, cleaning, and maintenance of the Brabender 
+instrument must have been instructed by a skilled person. 
+The persons in charge of operation, cleaning, and maintenance of the Brabender 
+instrument must have the technical and computer skills enabling them to carry out 
+the work described in chapter 11 "Setup and operation", chapter 12 "Cleaning", and 
+chapter 13 "Maintenance" safely and without any risk to themselves or others. 
+Repair 
+Repair work on the Brabender instrument is only allowed to be executed by 
+Brabender service technicians or by skilled personnel authorized for this work by 
+Brabender. 
+~~ WMetaStation 4EMetaStation 4E Safety 
+4.3. Owner's duties 
+4.3.1 General owner's duties 
+The owner of the Brabender instrument must ensure that mounting, operation, 
+maintenance of the instrument as well as repair and disposal, if applicable, are 
+carried out exclusively by the personnel defined in chapter 4.2 "Target group". 
+The owner of the Brabender instrument has to furnish proof of training of the 
+personnel in charge of operation, cleaning, and maintenance of the Brabender 
+instrument. 
+Prior to instrument set-up, the owner of the Brabender instrument has to make sure 
+of the proper condition, assembly, and mounting of the instrument according to the 
+instructions given in chapter 9 “Mounting”. 
+The owner of the Brabender instrument must ensure that the operating personnel 
+read and understood the instruction manual of the Brabender instrument as weil as 
+the test material safety data sheets of the respective producer prior to testing and 
+processing any test material with the Brabender instrument and that they will observe 
+them. 
+The measures listed in the respective test material safety data sheets of the producer 
+in order to avoid any possible danger when handling the corresponding material 
+must strictly be observed. 
+1718 4.4 Protective devices 
+4.4.1. Emergency motor stop button 
+4.4.1.1 Position and function of the emergency motor stop button 
+The instrument is equipped with an emergency motor stop button (see fig. below). 
+Pressing the emergency motor stop button immediately stops the motor of the 
+instrument. 
+@ Upon activation, the emergency motor stop button lights red. 
+Fig. 1: Emergency motor stop button 
+CO a ee Risk of burns! 
+The emergency motor stop button does not switch off the heating/cooling system. 
+The measuring head still remains hot even after actuation of the emergency motor 
+stop button. 
+> Strictly observe the safety messages concerning hot surfaces in the 
+corresponding chapters of the separate instruction manual of the measuring 
+head! 
+as Risk of severe injury! 
+The emergency motor stop button helps to avoid potentially hazardous situations. 
+> Never bridge the emergency motor stop button! 
+> Never lock the emergency motor stop button mechanically! 
+> Always keep the emergency motor stop button visible and easily accessible! 
+MetaStation 4ESafety 
+4.41.2 Procedure after emergency motor stop 
+(ae Risk of severe injury, risk of property damage! 
+Before restarting the system upon actuation of the emergency motor stop button 
+> Make sure that the cause for the actuation of the emergency motor stop 
+button has been eliminated! 
+> Make sure that there is no risk to the personnel or to the machine when 
+restarting the system! 
+1: Slightly turn the emergency motor stop button until it pops out. 
+2. Press the "Start" button on the drive unit in order to switch on the drive again. 
+=> The "Start" button lights up. 
+= The drive unit immediately starts rotating with the speed set last in the 
+operating mode currently active. 
+MetaStation 4E 1944.2 Emergency shut-off switch 
+4.4.2.1 Position and function of the emergency shut-off switch 
+The instrument is equipped with an emergency shut-off switch (isolator switch, see 
+fig. below). Turning the emergency shut-off switch to position "O" immediately cuts 
+off power supply to the instrument. 
+Fig. 2: Emergency shut-off switch 
+1 Position "1" ON 2 Position "0" OFF 
+4.4.2.2 Procedure after actuation of the emergency shut-off switch 
+CO Eee Risk of injury, risk of property damage! 
+Before restarting the system upon actuation of the emergency shut-off switch 
+> Make sure that the cause for the actuation of the emergency shut-off switch 
+has been eliminated! 
+> Make sure that the system cannot be started before having reached full 
+operating temperature! 
+> Make sure that there is no risk to the personnel or to the machine when 
+restarting the system! 
+1. Turn the emergency shut-off switch to position "I" again. 
+2. Wait until the system has reached full operating temperature again. 
+3. Press the "Start" button in order to restart the drive unit. 
+> The "Start" button lights up. 
+MetaStation 4E4.4.3 Safety device 
+Brabender measuring heads are equipped with a non-contact magnetic safety 
+device which triggers the control unit of the drive unit via a safety relay and prevents 
+unintentional operation of the system when the measuring head has been drawn off 
+or, with measuring mixers, is open. 
+The drive unit can only be started in normal operation (that means through the 
+software) if the measuring head has been mounted properly, the plug of the safety 
+device has been connected to the connection "Safety Device" and, with measuring 
+mixers, the mixer has been closed so that the safety switch gets a response from its 
+counterpart. 
+Koa) Risk of injury, risk of property damage! 
+Danger of most serious injury by rotating parts when the measuring head is open 
+or has been drawn off or not been mounted properly. 
+In such cases, the safety device prevents operation of the instrument system. 
+> Never bridge the safety device or put it out of function in any other way! 
+Fig. 3: Safety connections 
+1 Connection "2-hand control 3 Connection "Safety Device" for 
+device” for measuring mixers safety device of the measuring 
+2 Connection "Torque limit key” heads 
+MetaStation 4E 2122 4.4.4 Automatic torque limitation 
+Brabender measuring heads are equipped with an automatic torque limitation. For this 
+purpose, the 8-pole cable coming out from under the gear cover hood of the measuring 
+head must be connected to the connection "Torque limit key” on the front side of the 
+drive unit. 
+The drive unit now automatically recognizes the maximum admitted torque for the 
+measuring head mounted. When this torque value is exceeded, the motor of the 
+drive unit is turned off automatically (with measuring mixers) or the speed is reduced 
+until the torque is within the admitted range again (with measuring extruders). 
+®@ Concerning the connections for the automatic torque limitation and the two-hand 
+control device, please refer to the figure in chapter 4.4.3 "Safety device" 
+4.4.5 Two-hand control device 
+Brabender measuring mixers are equipped with a two-hand control device allowing to 
+run the measuring mixer at low speed (approx. 10 min“) when it is open (e.g. for cleaning 
+purposes). 
+For this purpose, the keys in the handles of the measuring mixer must be connected 
+via the corresponding connection cables with the connections "2-Hand Safety 
+Device" on the drive unit or, in case of operation of the measuring mixer on a docking 
+station with the Plastograph or Lab-Station, on the drive unit and on the docking 
+station. 
+@ Concerning connection of the two-hand control device, please also refer to the 
+separate instruction manual of the measuring mixer. 
+4.4.6 Beeper 
+The instrument is equipped with two acoustic alarms (beepers) indicating the 
+following alarm situations: 
+e Temperature controller alarm: intermittent sound 
+e Software alarm: continuous sound 
+Apart from that, the device is equipped with an internal beeper for announcing 
+software alarms acoustically. 
+MetaStation 4EMetaStation 4E 4.5 Residual dangers 
+4.5.1 Risk of injury when handling the measuring head 
+Risk of injury, risk of property damage by a falling measuring head! 
+When handling the measuring head, it may possibly fall down! 
+Risk of serious injury, risk of property damage when the measuring head falls 
+down! 
+> Ensure to always wear work shoes with protective caps when working on 
+the instrument system! 
+> Grip the measuring head firmly or ensure safe handling otherwise as long 
+as it has not been fixed firmly on the drive unit! 
+4.5.2 Unexpected start after switch-off triggered by the inverter 
+In case of continuous operation with high torque load, the motor may tend to 
+overheat, causing automatic machine stop triggered by the inverter. 
+After such machine stop, cooling down, and restart of the drive unit, the measuring 
+head may start immediately when the "Start" key is pressed. 
+ele Risk of injury, risk of property damage! 
+Risk of serious injury, entanglement hazard by a sudden start of the drive unit! 
+Risk of damage to or destruction of the measuring head by objects or tools within 
+the measuring head when the drive unit suddenly starts! 
+Before pressing the "Start" key 
+> Make sure that there is no risk to the personnel or to the machine when 
+restarting the device! 
+> Make sure that there are no objects/tools within the measuring head which 
+might damage the measuring head! 
+2324 4.5.3 Danger by electricity 
+Danger to life, risk of injury due to voltage leading parts! 
+In case of improper use of electric components, there is the risk of serious injuries 
+or death by direct or indirect contact with live parts or connections! 
+> 
+> Work on electrical equipment is only to be carried out by authorized 
+electricians! 
+Do not run the machine with faulty electric connections or connections that 
+are not ready for operation! 
+Before connecting the instrument to the power supply, make sure that the 
+line is equipped with a fault current circuit breaker (RCD), minimum type B 
+[30 mA], and that the line voltage and frequency match the data given on 
+the name plate! 
+Only connect the power plug to a correctly installed power outlet with 
+protection contact (PE)! 
+Avoid a tripping hazard when laying the power cable! Highlight any tripping 
+positions! 
+Keep access to the electric modules closed always. Access only by 
+authorized personnel with the appropriate training and security briefing! 
+Always pull the power plug before opening any access to the electric 
+modules of the Brabender instrument! 
+Always pull the power cable on the piug, never pull on the cable! 
+Do not expose the power cable and the plug to humidity! 
+MetaStation 4ESmall parts, 
+accessories, and 
+additional equipment 
+may be packed in 
+separate boxes or 
+crates 
+MetaStation 4E and 
+5 Transport and Storage 
+5.1. Packaging 
+Packaging of the instrument, accessories, and additional equipment 
+Brabender instruments are packed properly and professionally into wooden crates. 
+Small parts and accessories are packed separately into cardboard boxes or bags 
+contained in the crates. 
+Additional equipment is packed either in the same crate as the instrument or in a 
+separate crate, depending on the scope of the order. 
+Shipping labels on the crate 
+It is essential to observe the following labels on the outside of the crate(s): 
+[tt | This side up! 
+Y| Fragile, handle with care! 
+ine Keep dry! Transport and Storage 
+5.2 
+1. 
+3. Unpacking 
+Upon arrival of the Brabender instrument, the owner of the Brabender 
+instrument must inspect the shipping crate for any outside damage. 
+If any damage is detected, notify the transport guide immediately. 
+® Please also refer to chapter 5.4 "Checking for and notification of 
+damage". 
+Remove the cover of the crate(s). 
+C—O Parts of the instrument may be damaged! 
+> 
+> When removing the lateral walls of the crate, take care of braces and 
+supports within the crate as well as of bolt connections at the bottom of the 
+crate, etc.! 
+Carefully remove the lateral walls of the crate. 
+Unpack the Brabender instrument with care. Take particular care for small 
+parts or accessories within the packing material. 
+@ Leave cover hoods and protective films on the Brabender instrument 
+until mounting and commissioning, respectively. 
+Inspect the packing material very carefully. 
+@ Depending on the way of shipping and on circumstances which are 
+beyond Brabender's influence, parts of the Brabender instrument may 
+have loosened during transport despite proper and professional 
+packing and may be hidden within the packing material. 
+Dispose the packing material in an ecologically friendly way in compliance with 
+the local regulations concerning disposal only after the owner of the 
+Brabender instrument has found the scope of delivery to be complete. 
+& For checking the scope of delivery, please refer to chapter 5.3 
+"Checking the scope of delivery" 
+MetaStation 4EIf damage is found, 
+notify immediately: 
+@ the transport 
+guide 
+@ Brabender 
+GmbH & Co. KG 
+or in North 
+America, C.W. 
+Brabender 
+instruments, Inc. 
+MetaStation 4E 5.3 
+5.4 and 
+Checking the scope of delivery 
+The owner of the Brabender instrument must compare the scope of delivery 
+with the shipping documents in a timely manner to the arrival of the Brabender 
+instrument at the place of destination. 
+If there is any discrepancy, notify Brabender GmbH & Co. KG or in North 
+America, C.W. Brabender Instruments, Inc. immediately in writing. 
+@ Any delayed claims made by the owner regarding missing equipment 
+or spare parts will not be provided replacements free of charge. 
+Checking for and notification of damage 
+Upon arrival of the Brabender instrument, inspect the shipping crate(s) for 
+outside damage. 
+Immediately upon unpacking and checking of the scope of delivery, check the 
+Brabender instrument as such for any signs of damage. 
+If damage is found, notify the transport guide immediately. 
+Provide a copy of the transport damage report to Brabender GmbH & Co. KG 
+or in North America, C.W. Brabender Instruments, Inc. immediately. Also 
+provide the place and time of the damage. 
+@ If the ownership of the equipment was transferred to the buyer at the 
+same time of or prior to transportation, the buyer is liable for all 
+damages incurred during transportation. The buyer or the receiver must 
+observe the regulations of the insurance policy. 
+ge If necessary, the average adjuster appointed by the claim opponent 
+must be given the opportunity to inspect the shipment/the Brabender 
+instrument. 
+Cee Risk of injury, risk of property damage by a defective instrument! 
+A defective instrument can result in unknown hazards for humans and instrument! 
+> Never mount or use a defective instrument! 
+27Transport and Storage 
+28 5.5 Transport 
+PADANGER DANGER 
+Danger of serious injury or death, risk of property damage by overhead load 
+and/or by the use of lifting devices with insufficient carrying capacity! 
+> 
+> Always dismantle any mounted measuring head or parts that may come off 
+and put them on a suitable base before transporting the Brabender 
+instrument. 
+Before lifting the Brabender instrument, ensure sufficient carrying capacity 
+of the lifting equipment! 
+When moving the instrument with an overhead crane by means of ropes, chains, 
+or belts: 
+> 
+yo 
+> 
+> Do not stand underneath suspended loads! 
+Only use ropes, chains, or belts with sufficient carrying capacity! 
+Only use ropes, chains, or belts in safe operating condition! 
+Fix the ropes, chains, or belts as near as possible to the gravity center of 
+the instrument! 
+When moving the instrument with a fork lift truck: 
+> 
+a 
+ae Put on or mount the lifting device as near as possible to the gravity center 
+of the instrument! 
+Do not stand underneath suspended loads! 
+Risk of injury, risk of property damage by a dropping instrument or by wrong 
+posture when persons carry or move the instrument! 
+> 
+> Always wear work shoes with protective caps when moving the Brabender 
+instrument! 
+Whern lifting and carrying the Brabender instrument, take care for a straight 
+and upright posture! 
+Lift the instrument with two persons (one on every side) onto a suitable 
+carriage in order to carry it to the desired place of mounting! 
+Do not carry the Brabender instrument over long distances! 
+MetaStation 4ETransport and Storage 
+NOTICE 
+Parts of the instrument may be damaged! 
+When mounting lifting devices, ropes, chains or belts, parts of the instrument can 
+be damaged. 
+Take care of > Fix lifting devices, ropes, chains, or belts so that no sensitive parts of the 
+sensitive parts! instrument such as switches, levers, etc. are damaged! 
+1: Move the unpacked instrument with extreme caution to the intended 
+installation site. 
+a If included in the scope of delivery, the device can be moved on the 
+mobile frame to the intended instatllation site. 
+NOTICE 
+Risk of damage to the instrument! 
+Avoid slamming on The instrument or parts of it may be damaged by slamming it on a surface. 
+surfaces! > Put down the instrument carefully! 
+MetaStation 4E 295.6 Storage 
+Ci Risk of property damage due to improper storage! 
+Storage in humid or aggressive environment may cause corrosion and, in extreme 
+cases, pitting corrosion. 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> Dismantle the measuring head before storage. 
+Clean and dry all surfaces of the machine thoroughly before storage. 
+Put the cover hood from the accessory kit onto the motor shaft in the clutch. 
+Cover the instrument with a cover hood or protective film in order to protect 
+it against dust and humidity. 
+Store the Brabender instrument and all parts thereof in dry and safe 
+environment only. 
+Put the Brabender instrument on a support which is at least 200 mm high, 
+in order to protect the instrument from soil moisture. 
+Arrange storage areas in a way that moisture can escape and periodical 
+inspections are possible. 
+Ensure that the device stands firmly and safely and is protected against 
+rolling or slipping away and tipping (if equipped, lock the break). 
+Extreme temperature fluctuations or long exposure to direct sun may cause 
+damage to the instrument or machine! 
+> Do not expose the Brabender instrument or parts thereof to extreme 
+temperature fluctuations or direct sun! 
+®@ For details concerning the admissible limit values of environment temperature 
+30 and humidity, please refer to chapter 8 "Technical Data”. 
+MetaStation 4E"Front side" 
+"Terminal side" 
+“Right side" 
+“Rear side" 
+MetaStation 4E functional 
+6 Components and functional features 
+6.1 General description 
+The device is a table-top drive unit for various Brabender measuring mixers, internal 
+mixers and measuring extruders for recipe development, material testing and quality 
+assurance in laboratories and goods incoming inspection. 
+The scope of delivery of the device comprises: 
+e Basic software MetaBridge MixMB or ExtMB for measuring mixers and measuring 
+extruders, respectively 
+The following components need to be ordered separately: 
+e Measuring heads 
+e Mobile frame (for operation with measuring heads mounted on a docking 
+station) 
+e further MetaBridge program modules (e.g. data correlation, user-specific 
+evaluation methods, etc.) 
+6.2 Designation of the sides of the instrument 
+The side of the device with the mounting surface for the measuring heads and with 
+the emergency motor stop button is referred to as "front side" in the following. 
+The side of the device with the connection panel is referred to as "terminal side" in 
+the following. 
+The side opposite to the terminal side with the emergency shut-off switch is referred 
+to as "right side" in the following. 
+The side with the communication ports (HDMI, USB, LAN) is referred to as "rear 
+side" in the following. 
+31= and functional features 
+6.3 Product labels 
+6.3.1. Name plate 
+The name plate of the Brabender instrument contains the following information: 
+Brabender® GmbH & Co. KG 6 Kulturstr. 49-51 D-47055 Duisburg Germany 
+1 EE Phone:-49-203-7788-0 — f brabender@brabender.com 7 
+2 Product 8 
+3 loModet [____] SiN 9 
+4 —————e kw . 10 
+5 ————piagram[_____}. [___s+ —-C & 1 
+Fig. 4: Name plate (example) 
+1 Instrument name A Serial number 
+2 ID no. 8 Year of mounting 
+3 Admissible line frequency 9 Rated power 
+4 Admissible voltage 10 ~—Rated current 
+5 Electric drawing no. 11. CE sign 
+6 Manufacturer's name and address 12 Speed 
+6.3.2 Further product labels 
+Signification: Instrument was checked in the 
+checked Brabender workshop 
+Brabender| Signification: Instrument was checked for electrical 
+pene hig lord safety in the Brabender workshop 
+Et 60204-1 2006/A1:2009 
+bye 
+bate. 
+Signification: Read instruction manual before starting 
+the Brabender instrument! 
+Signification: Pull the power cord before opening the 
+device! 
+Signification: Danger electricity behind the door/under 
+the cover hood! 
+Signification: Danger, machine may start 
+automatically! 6.4 Main components 
+6.4.1 Front side, terminal side nponents and functional features 
+The following control elements and connections are located on the front side and on 
+the terminal side of the instrument: 
+Fig. 5: 
+1 
+2 
+3 
+4 
+MetaStation 4E Control elements and connections on the front side and terminal side 
+Connection panel 
+Locking wheel for mounting 
+surface 
+Touchscreen with integrated 
+MetaBridge software 
+Emergency motor stop button 5 
+6 
+7 
+8 
+9 "Start" key 
+"Stop" key 
+Spiral tooth gear clutch 
+Mounting surface for measuring 
+head 
+Mobile frame 
+33g! 6.4.2 Right side, rear side 
+The following control elements and ports are located on the right and rear side of the 
+device: 
+Fig. 6: Control elements and ports on the right and rear side 
+1 Emergency shut-off switch 5 USB 2.0 (1x) 
+(isolator switch) 6 USB 2.0 (2 x) 
+2 Equipotential bonding screw 7 LAN 1 
+3 Power cord 8 LAN 2 
+4 HDMI 
+6.5 Drive motor 
+The drive motor is a maintenance-free servomotor carried in a pendulum bearing. 
+Due to digital control, speed variations are almost excluded. 
+6.6 Mounting surface 
+The measuring heads can be mounted either directly on the mounting surface of the 
+drive unit or on a mobile docking station. 
+Ct) For measuring heads mounted on a docking station, the drive unit must be 
+mounted on the mobile frame. 
+Measuring heads mounted on the mounting surface of the drive unit are connected 
+directly to the drive unit through the spiral tooth gear clutch. 
+To connect measuring heads mounted on a docking station, the mounting surface 
+of the drive unit can be unlocked with the locking wheel on the connection panel and 
+drawn out. The docking station is then approached to the drive unit so that the 
+mounting surface of the docking station fits into the corresponding recess and can 
+be locked with the locking wheel.6.7 Spiral tooth gear clutch 
+Brabender measuring heads built 08/2008 or later are connected to the drive unit 
+through a spiral tooth gear clutch. 
+6.8 Connection panel 
+On the terminal side of the instrument, there is the connection panel with the 
+following connections: 
+e Control temperature connections zones no. 1 - 6 
+Heater cable connections zones no. 1 - 6 
+Central compressed air input (max. 1.5 bars) 
+Cooling air connections of the individual zones 
+CAN-OUT connection with terminal resistor 
+Melt temperature 1 - 4 
+Locking wheel for mounting surface 
+MetaStation 4E Fig. 7: Connection panel 
+1 Connections for contro! 
+thermocouples and heater cables 
+of zones no. 1-6 Melt temperature 7 - 4 
+A Thermocouple connection Locking wheel for mounting 
+B_ Heater cable connection surface 
+2 Central cooling air input Cooling air to zones 
+CAN-OUT connection Don A 
+6.9 Mobile frame (option) 
+The Brabender device can be mounted on a mobile light metal frame which is 
+equipped with castors for easy transport of the device to the intended instailation site 
+and for locking it there. 
+@ To level and secure the mobile frame in its final position, the adjustable feet 
+should be screwed out.‘MetaStation 4E,Fig. 8: 
+MetaStation 4E 7 MetaBridge software 
+The Brabender MetaBridge has been factory installed on the internal PC of the 
+Brabender instrument. The software is web-based, that means several authorized 
+users can log in at the same time and monitor the readings live on their PC, tablet or 
+smartphone from anywhere around the world via internet or network. The results can 
+be evaluated, printed, and exported using the software. 
+7.1 Starting/running down the internal PC 
+7.1.1 Starting the internal PC 
+1, For starting the internal PC, switch on the device on the main power switch 
+on/off. 
+= After afew seconds, the log-in window shows up (see fig. below) where 
+you can log in or create a new user account. 
+@ Concerning log-in and log-in window, please also refer to chapter 11.1.1 
+"MetaBridge log-in" 
+iMetaBridge 
+mee 
+feed Hain me gsinset? 
+Kone ae ge 
+Log-in window 
+{standard log-in) or 
+Fig. 9: IMetabriage 
+Log-in window (creating a 
+new user account) 
+37eis@ridue software 
+Button "Shut down 
+the device" 
+38 7.1.2 Running down the internal PC 
+@ Running down the internal PC is only possible on site, that means directly on 
+the device. 
+Risk of loss of data by running down the PC improperly! 
+Switching off the internal PC with the main power switch on the Brabender 
+instrument, data may be damaged or get lost. 
+> Always run down the internal PC properly before switching off the 
+Brabender instrument. 
+> Do not switch off the Brabender instrument as long as the internal PC is still 
+running! 
+1. For running down the internal PC and the touchscreen, if any, tap the "User" 
+tile: 
+> The following selection window pops up: 
+Please select an action... 
+[ER | og ot 
+Pd T Change password 
+[@)| shut down the device | 
+| 
+| @ | User administration | 
+| W)| Restart the device 
+4 
+Fig. 10: Selection of user functions 
+@ The buttons "Shut down the device" and "Restart the device” are only 
+visible in focal operation. In remote mode, i.e. on external terminals, 
+these two functions are not available N Tap the Button "Shut down the device". 
+> A message window "The device is shutting down” pops up. 
+sity, 
+4s 
+The device is shutting down 
+Fig. 11: | Message "The device is shutting down" 
+> After a few seconds, the internal PC is shut down and the touchscreen 
+turns off. 
+~ MetaStation 4EMetaStation 4E cacaesd SORES 
+7.2. Start screen of the Brabender MetaBridge 
+Upon log-in, the start screen of the Brabender MetaBridge appears (see fig. below 
+as an example). 
+G Generally, the start screen contains some device-specific tiles in the upper 
+part and some general tiles in the lower part. 
+The arrangement of the tiles may vary depending on the terminal (PC, tablet, 
+smartphone) and monitor size. 
+i) Concerning the menus and functions of the individual tiles, please refer to the 
+separate instruction manual of the corresponding software. 
+@ If both the extruder software ExtMB and the mixer software MixMB have been 
+installed and released, the start screen of the last active application will appear 
+after a restart of the device. Tapping the tile "MultiDevice" allows switching 
+from ExtMB to MixMB and vice versa. 
+abpugeryy (sepusqeig 
+Fig. 12: Start screen MixMB 
+4 Device-specific tiles 2 General tiles 
+Select your device 
+“ Poe * 18 i er, * es SP ot tS 
+Fig. 13: Selection between ExtMB and MixMB 
+38VetaBndge software 
+‘ amen ne . hietaSiation @ Drive unit 8 Technical Data 
+Motor: 
+Speed range: 4.2-kW servomotor 
+0.2 - 185 min’, infinitely variable 
+Speed deviation: Max. + 1 % of full range through digital 
+feedback 
+Dynamometer unit Torque measuring range: 0-200 Nm 
+Automatic recognition of the max. torque 
+for the connected measuring head 
+Automatic stop or speed reduction when 
+the max. admitted torque is exceeded 
+Ports e HDMI: 
+e USB 2.0 (3 x): 
+e LAN 1/LAN 2: For large monitor 
+For connection of a USB stick, printer, 
+mouse, keyboard, etc. 
+Internet connection and/or connection of 
+further devices via LAN (feeder, blown 
+film take-off unit, winder, etc.) 
+Temperature control | 6 zones Inputs/outputs: 
+| ® 4x Melt temperature 
+e 6 x Control temperature 
+e 6 x Heating 
+* 4 x Central cooling air input 
+6 4 x Cooling air output to the control 
+| zones 
+|e CAN-OUT 
+Current supply Electricity 3x 400 V, 50/60 Hz +N+PE, 32A 
+Power consumption: 
+e Drive unit with measuring head 
+without heating power: 10A 
+e Drive unit with measuring head 
+with heating power: up to 32 A, dep. on measuring head 
+MetaStation 4E 41Dimensions and Dimensions (W x H x D) 
+weight e without mobile frame: 700mmx 870mm x950mm 
+\@ with mobile frame: 700 mmx 1652mm x 950mm 
+| Weight: - 
+e without mobile frame: 154 kg 
+e with mobile frame: 174 kg 
+Environmental \@ Storage: : 7 
+conditions | Temperature -20°C-+55°C 
+Relative humidity 5...95% 
+without condensation 
+The above-named maximal values for 
+| temperature and relative humidity must 
+: not occur simultaneously. 
+e Operation: 
+Temperature \+5°C-+40°C 
+| Relative humidity 5... 85% 
+without condensation 
+The above-named maximal values for 
+temperature and relative humidity must 
+not occur simultaneously. 
+@ The dimensions stated above usually include necessary equipment such as 
+power cord, heating/cooling hoses etc. in addition to the pure instrument 
+dimensions. 
+8.1 Noise measurement 
+The noise measurement was run under normal operating conditions over the entire 
+speed range of the instrument. The measurement was carried out at a distance of 
+41 meter and a height of 1.6 meters. 
+The measured equivalent continuous sound pressure level is 
+Leq < 70 dB(A) 
+42- — — - ~~ MetaStation 4EMetaStation 4E __Mopaling 
+9 Mounting 
+9.1 Safety notes concerning mounting 
+Risk of injury, risk of property damage! 
+Improper mounting may cause danger of injury to the personnel and risk of 
+damage to the instrument. 
+> All mounting work on the Brabender instrument may only be carried out with 
+care by technically skilled personnel! 
+9.2 Requirements to the place of mounting 
+Mount the Brabender instrument in a closed room where it is protected from 
+weather factors. 
+© Do not mount the Brabender instrument near heat sources (heating, presses, 
+etc.). 
+6 The intended base for mounting the instrument must be 
+- even and plane 
+= clean 
+- strong enough to carry the instrument 
+e Make sure that the Brabender instrument is protected against vibration (make 
+sure the instrument is stable!). 
+e The connection and adaptation points for power supply to the instrument must 
+be as near as possible to the mounting place of the instrument. 
+@ Concerning power supply data, please refer to chapter 8 "Technical 
+Data” 
+439.3 Setup and assembly 
+9.3.1 Leveling the instrument 
+i #3} a Risk of injury, risk of property damage! 
+The instrument is heavy! Danger of injury and risk of damage to the instrument 
+when lifting or moving the instrument. 
+> Always lift or move the instrument with a suitable lifting device or with two 
+or more persons! 
+1. Make sure to remove all covering hoods and protective films. 
+ee By means of a suitable lifting device or with two or more persons, place the 
+instrument onto a sturdy, vibration-free working surface. 
+3. Put a bubble level onto the instrument in order to check whether it is leveled 
+exactly horizontally. 
+4. If this is not the case, slightly move the device or the mobile frame, if equipped, 
+or compensate for depressions in the mounting surface by placing e.g. thin 
+metal shims under the feet until the device is exactly horizontal. 
+5. Make sure that the device stands firmly and safely. 
+MetaStation 4E_Mounting 
+MetaStation 4E 9.3.2 Removing the shipping fixture - SP oe Loosen the locknuts on the shipping fixture. 
+Unscrew the threaded rod from the clutch. 
+Unscrew the two knurled nuts on the shipping fixture. 
+Remove the shipping fixture. 
+@ Keep all parts of the shipping fixture for a possible future shipment of 
+the device (for example for repair purposes). 
+Instead of the threaded rod, turn the screw from the accessory kit into the 
+central bore of the clutch in order to fix the clutch half on the driving shaft. 
+Screw the knurled nuts onto the stud bolts on the mounting surface again. 
+If you do not want to mount a measuring head to the drive unit immediately, 
+put the black cover hood from the accessory kit onto the motor shaft of the 
+clutch. 
+Fig. 14: Shipping fixture 
+1 Clutch of the drive unit 4 Shipping fixture 
+2 Threaded rod § Knurled nuts 
+3 Lock nuts 
+4546 9.4 Power supply connection 
+Danger to life, danger of serious injuries due to electrocution! 
+Improper grid connection may lead to overvoltage and cable fire and can cause 
+damage to the instrument! In case of a damaged cable and/or power plug, live 
+parts may be exposed! 
+Danger of serious injury or death due to direct or indirect contact with live parts or 
+connections! 
+> 
+1. Before connecting the instrument to the power supply, make sure that the 
+line is equipped with a fault current circuit breaker (RCD), minimum type B 
+[30 mA], and that the line voltage and frequency match data given on the 
+name plate! 
+Switch off the instrument before connecting it to the power supply! 
+Make sure that the power cable and plug are in a perfect and technically 
+safe condition and are not damaged! 
+Only connect the Brabender instrument to a socket with a protective earth 
+contact (PE)! 
+Avoid a tripping hazard when laying the power cable! Highlight any tripping 
+positions! 
+Do not expose the power cable and the plug to humidity! 
+Make sure that the instrument has been switched off. 
+Connect the power cable of the instrument to a socket with a protective earth 
+contact (PE). 
+MetaStation 4E9.5 Mounting of measuring heads 
+PO Risk of injury, risk of property damage! 
+Danger of serious injuries and entanglement hazard by a measuring head 
+suddenly starting when mounting the measuring head while the drive unit is on. 
+Danger of burns and of damage to the heaters due to uncontrolled heating of the 
+measuring head when mounting the measuring head to a live drive unit. 
+> Switch off the drive unit before mounting or dismantling the measuring 
+head! 
+> Never mount or dismantle the measuring head when the drive unit is on! 
+Risk of injury, risk of property damage! 
+The measuring head may overturn. Danger of injury, risk of damage to the 
+measuring head when it overturns or falls down. 
+> Secure the measuring head with your hands as long as it has not yet been 
+fixed tightly to the drive unit! 
+v4 Ensure to always wear work shoes with protective caps when working on 
+the instrument system! 
+© Concerning mounting of the different measuring heads, please refer to the 
+corresponding separate instruction manual of the measuring head and of the 
+docking station, if equipped, and to the mounting instructions of the adapters, 
+if required. 
+9.5.1 Mounting of measuring heads up to YoM 08/2008 
+For mounting Brabender measuring heads up to model 08/2008, various adapters 
+may be required, depending on the measuring head and the year of mounting (e.g. 
+clutch adapter, encoder box for instrument recognition and torque limitation, adapter 
+for safety device). 
+@ Please contact the Brabender Service in such case. 
+etaStation 4E 479.5.2 Preparations for mounting a measuring mixer 
+9.5.2.1 Mounting the mixer supporting fork 
+& The mixer supporting fork (ID no. 6 90 199) serves for safe deposition of the 
+mixer bowl of series 30/50 measuring mixers. 
+fl; Unscrew the two hexagon nuts M10 of the stud bolts on the underside of the 
+mounting surface of the drive unit and remove them with their washers. 
+2: Mount the mixer supporting fork from below onto the stud bolts and screw 
+them from below to the underside of the mounting surface using the two 
+hexagon nuts M10 and the washers. 
+Fig. 15: | Mounting the mixer supporting fork 
+1 Hexagon nuts M10 
+MetaStation 4E‘MetaStation 4E 9.5.2.2 Mounting the mixer support {additional equipment) 
+@ The mixer support (additional equipment, ID no. 6 19 150) serves for safe 
+deposition of both the mixer front plate and the bowl of series 30/50 measuring 
+mixers. It is equipped with a drawer for the disposal of product from the 
+measuring mixer. 
+If screwed in, unscrew the four M5 Allen screws on the underside of the 
+mounting surface of the drive unit. 
+Fig. 16: Underside of the mounting surface 
+1 M65 Alfen screws 
+Use the four Allen screws to fix the mixer support to the underside of the 
+mounting surface of the drive unit. 
+!) The nut of the left stud bolt must fit into the corresponding recess of the 
+mixer support (see fig. below, green arrow). 
+Fig. 17: | Mounting the mixer support 
+1 Allen screws for fixing the 
+mixer support 
+499.5.3 CAN connection 
+OC — Risk of property damage! 
+Live connection or disconnection of CAN bus cables may cause short-circuit and, 
+as a consequence, cause damage or destruction of CAN bus modules. 
+> Before connecting the CAN bus cable, make sure that the CAN bus cable and 
+plug are in an operationally safe condition (visual check)! 
+> Before connecting or disconnecting the CAN bus cable, make sure that the 
+isolator or power switches of all instruments in the system are position "0" 
+(OFF)! 
+9.5.3.1 CAN connection of measuring mixers 
+@ Measuring mixers are no CAN modules and do not have any CAN connection 
+of their own. 
+1. If the drive unit is the only CAN module (this is the standard case with 
+measuring mixers without docking station): 
+Plug the terminal resistor onto the connection CAN-OUT on the connection 
+panel of the drive unit and fix it with the two lateral screws. 
+2. In case of downstream CAN modules (e.g. docking station or a conductivity meter): 
+> Use the CAN connection cable to connect the connection CAN-OUT of 
+the drive unit to the connection CAN-IN of the subsequent CAN module. 
+> Plug the terminal resistor onto the connection CAN-OUT of the last CAN 
+module in the system and fix it with the two lateral screws. 
+: = teins = 1 
+HOHOE® 22% 
+Fig. 18: Connection panel 
+1 Connection CAN-OUT 
+MetaStation 4EExamples of a CAN connection of measuring mixers: 
+Fig. 19: | Connection of CAN modules (examples) 
+1 Terminal resistor 
+9.5.3.2 CAN connection of measuring extruders 
+MetaStation 4E Measuring extruders are no CAN modules and do not have any CAN 
+connection of their own. The CAN connection is effected through the pressure 
+transducers mounted in the measuring extruder and through the controller of 
+a feeder, if equipped. 
+Concerning the CAN connection of measuring extruders, please also refer to 
+the separate instruction manual of the respective measuring extruder. 
+If the terminal resistor has been plugged onto the connection CAN-OUT on 
+the connection panel of the drive unit, unlock and disconnect it. 
+Operation without docking station: 
+> Use the CAN connection cable to connect the connection CAN-OUT of 
+the drive unit to the connection CAN-IN of the subsequent CAN module 
+(feeder or the first pressure transducer in the measuring extruder). 
+Operation with docking station: 
+> Use the CAN connection cable to connect the connection CAN-OUT of 
+the drive unit to the connection CAN-IN of the docking station. 
+> Connect the connection CAN-OUT of the docking station to the 
+connection CAN-IN of the subsequent CAN module (feeder or the first 
+pressure transducer in the measuring extruder). 
+Connect any further CAN modules (further pressure transducers and/or 
+downstream modules) likewise via the CAN connection cable. 
+Plug the terminal resistor onto the connection CAN-OUT of the last CAN 
+module in the system and fix it with the two lateral screws.Examples of a CAN connection of measuring extruders: 
+Fig. 20: | Connection of CAN modules (examples) 
+1 Terminal resistor 
+52 MetaStation 4E10 Start-up 
+10.1 Safety notes concerning start-up 
+Risk of injury, risk of property damage! 
+Improper start-up of the instrument involves the danger of injury to the personnel 
+and the risk of damage to the instrument. 
+> Commissioning of the Brabender instrument may only be performed by 
+qualified operating personnel! 
+& For starting up the measuring system, please also refer to the separate 
+instruction manuals of all other system components and of the software! 
+10.2 Preparations, switching on 
+13 Check all connections and fittings for proper seat and tightness. 
+2: Make sure that the device stands firmly and safely. 
+Make sure for correct CAN connection. Ensure that the terminal resistor has 
+been plugged onto the CAN-OUT connection of the last CAN module in the 
+CAN bus. 
+4. Make sure that the 12-pole plug of the safety device of the measuring head 
+has been connected properly to the connection "Safety Device" on the drive 
+unit. 
+5. Make sure that the 8-pole plug of the automatic torque limitation of the 
+measuring head has been connected properly to the connection “Torque limit 
+key" of the drive unit. 
+6. For operation with a measuring mixer: 
+Make sure that the two cables of the 2-hand control device of the measuring mixer 
+have been connected properly to the connections "2-Hand Safety Device". 
+ts Make sure that all emergency motor stop buttons and emergency shut-off 
+switches are free and easily accessible. 
+8. If not yet done, connect the power cord of the instrument to the power supply. 
+9. If not yet done, switch on the instrument. 
+‘MetaStation 4E 5354 10.3. Presettings in the MetaBridge software at initial start-up 
+When the internal PC is started for the first time, some basic presettings need to be 
+made once before the measuring program as such can be started. 
+1. If not yet done, switch the Brabender device on. 
+> The internal PC boots. On the touchscreen or on the external terminal, 
+the following windows appear one after the other: 
+Fig. 21: Welcome screen 
+v 
+Tietabrdge 
+Fig. 22: - Title screen 
+Vv 
+MetaStation 4EPlease setect a lenguage... 
+me = Si iio —— = —- | Fig. 23: Language selection 
+2: Tap the desired language. 
+@ The language can be changed at any time in the program. 
+> The following window appears. 
+Data protection declaration 
+rabender@braberdercom, +49(0}203 7788-0 on this website (hereinstter (charred to 25 “Provic ‘The legal basis for dete protection con be found in the Germnan Federal Qata Pravection Act (BDSG) and the German Telemedia Act (TMG). 
+Access Data / Server Log Files 
+Fig. 24: Privacy statement 
+3. Read the privacy statement completely, then tap "Accept" 
+> The following window appears: 
+Please select the current date 
+< June 2016 > 
+Su Mo Tu We Th Fr Sa 
+1 2 38 @ 
+5 6 7 8 9 0 11 
+12 13 14 «15 
+19 20 21 22 
+26 27 28 29 30 
+ES Ea 
+Fig. 25: — Setting the date Start-up 
+4. Set the current date, then tap "Next". 
+> The following window appears: 
+Please select the current time 
+wouRS powasTes secon. 
+03 
+Fig. 26: Setting the time 
+5. Set the current time, then tap "Next" 
+> The following window appears: 
+Create an administrator account 
+User, 
+Enter a user name 
+Repeat password __ 
+eat password. 
+Fig. 27: Creating an administrator account 
+6. Fill in this window completely, then tap "Finish". 
+@ The secret question and answer are needed in case you forgot your 
+password for logging in again in your account and setting a new 
+password. 
+> The presettings for initial startup are now completed. The start screen 
+of the Brabender MetaBridge appears. 
+7 If a software was purchased separately, you still need to activate the license 
+number and to install the MetaStation in the software. 
+> Upon license activation, installation of the device and log-in, the start 
+screen of the respective device appears. 
+8. If applicable, make further ‘presettings (language, units, etc.) on the tile 
+"Options" 
+56 ~ MetaStation 4ECheck function of all 
+safety devices every 
+day before starting 
+work! 
+MetaStation 4E crn 
+10.4 Functional check of the safety devices 
+@ Make a functional check of all safety devices every day before starting work! 
+10.4.1 Safety switch and two-hand control device 
+& For checking the safety device and the two-hand control device of the 
+measuring head (two-hand control device only with measuring mixers), please 
+refer to the separate instruction manual of the measuring head. 
+10.4.2 Emergency motor stop button 
+4. If not yet done, turn on the device. 
+> The internal PC initiates and, after a few seconds, the start screen 
+appears. 
+2. Press the "Start" key. 
+> The "Start" key lights up. 
+3. Press down the emergency motor stop button with your hand. 
+> The emergency motor stop button lights up. 
+> The "Start" key must go off. 
+4. Press the "Start” key. 
+> The "Start" key must not light up again, that means that the instrument 
+must not start. 
+@ If the "Start" key does not go off, the emergency motor stop button may be 
+defective. 
+as Risk of injury in case of a defective emergency motor stop button! 
+If the emergency motor stop button is defective, the drive motor cannot be stopped 
+quickly in case of emergency - risk of injury. 
+If the emergency motor stop button is defective: 
+> Immediately switch off the instrument! 
+> Inform the Brabender-Service dept. (see chapter 2 “Contact")! 
+> Do not start-up the instrument! 
+5. To restart the device, slightly turn the emergency motor stop button until it 
+pops out. 
+6. Wait at least 3 s in order to reactivate the safety relay. 
+Press the "Start" key in order to reactivate the drive unit. 
+> The "Start" key lights up again. 
+5710.4.3 Emergency shut-off switch 
+f. When the device is on, turn the emergency shut-off switch counter-clockwise 
+from position "I" to position "0" 
+Fig. 28: | Emergency shut-off switch (isolator switch) 
+> Turning the emergency shut-off switch to position "0" must immediately 
+cut off power supply to the machine system, that means all displays 
+must go off and the motor, if running, must stop immediately. 
+@ If the machine system is not separated immediately and completely 
+from power supply upon actuation of the emergency shut-off switch, the 
+emergency shut-off switch may be defective. 
+Risk of injury in case of a defective emergency shut-off switch! 
+If the emergency shut-off switch is defective, the drive motor cannot be stopped 
+quickly in case of emergency - risk of injury. 
+If the emergency shut-off switch is defective: 
+> 
+> 
+> Immediately cut off power supply to the instrument! 
+Inform the Brabender Service dept. (see chapter 2 "Contact")! 
+Do not start up the instrument! 
+To restart the device upon activation of the emergency shut-off switch, turn 
+the emergency shut-off switch back to position "I". 
+> The MetaBridge software restarts. 
+Press the "Start" key in order to reactivate the drive unit. 
+> The "Start" key lights up again. 
+> The system can now be taken into operation. 
+© For starting, see chapter 11 "Setup and operation”. 
+MetaStation 4E_ Setup and operation 
+11 Setup and operation 
+@ For running and setting up the entire measuring system it is imperative to read 
+the instruction manuals of all other system components and of the software! 
+11.1. Daily work before start of operation 
+11.1.1 MetaBridge fog-in 
+AL, Switch on the device. 
+> The internal computer starts automatically. 
+> After a few seconds, the log-in window appears on the touchscreen or 
+terminal: 
+iiietaByis dge 
+Mile 
+rasmre fem yer mens 
+Kane me togged in 
+Fig. 29: Log-in window 
+2. Log in as follows: 
+If you already have an account, enter your user name and password and tap 
+“Log in". 
+> The start screen appears. 
+You do not have an account yet haben, tap the text “No account? Sign up 
+now.” under the field "Log in" 
+> The log-in window appears: 
+ivietaBriage 
+Fig. 30: Log-in window 
+Fill in all entry fields of this window, then tap "Create". 
+> The log-in window appears. 
+Enter your user name and password and tap “Log in”. 
+> The start screen appears. 
+MetaStation 4E 5960 11.2 Daily work before start of operation 
+10. If not yet done, turn on the Brabender device. 
+Check the function of the safety devices acc. to chapter 10.4 “Functional 
+check of the safety devices”. 
+Make sure that the interior of the measuring head is perfectly clean. 
+Make sure that the mixer blades and extruder screw(s), respectively, have 
+been locked properly. 
+Make sure that all control thermocouples have been mounted properly in the 
+respective heating zones. 
+gli The springs of the control thermocouples must have a slight tension 
+when locked. 
+Make sure that all contro! thermocouples have been connected properly to the 
+temperature controller of the respective zone. 
+Make sure that all heater cables and heating/cooling hoses, respectively, have 
+been connected properly and that the hoses, if equipped, are tight. 
+Prepare the loading chute/feeder of the measuring head. 
+i) See chapter "Setup and operation" of the separate instruction manual 
+of the measuring head. 
+For measuring extruders (if mounted): 
+Open cooling water supply to the feed zone. 
+Start the Brabender measuring program. 
+MetaStation 4E11.3 Running a measurement 
+11.3.1 General remarks 
+Risk of injury, risk of property damage! 
+Depending on the measuring head connected, there may be further dangerous 
+situations to the personnel and to the machine system in addition to those 
+mentioned in the present instruction manual! 
+> It is imperative to read, understand and observe the safety instructions in 
+the separate instruction manual of the measuring head as well! 
+Risk of injury, risk of property damage due to automatic start triggered by 
+the program! 
+Some software programs offer the possibility of programming speed profiles. In 
+this context, the machine system, controlled by the software, may start 
+automatically from standstill position. 
+Risk of injuriy, risk of damage to or destruction of the machine system! 
+> Never put your hands into the open measuring head or insert any tools 
+when the drive unit is live! 
+> Always pull the power plug of the drive unit before undertaking any 
+manipulations on the open measuring head! 
+ESE Risk of injury, risk of property damage! 
+When the feed opening of the measuring head is open, rotating parts may be open! 
+When several persons work simultaneously on the device, the drive unit may be 
+started unintentionally while another person is still working on the measuring head 
+and rotating parts are.open! 
+Danger of most serious injuries, entanglement hazard! Risk of damage to or 
+destruction of the measuring head by tools! 
+> Never have two or more persons work simultaneously on the device! 
+> Never put your hands into the feed opening when the drive unit is on! 
+> Never work on the device with open long hair or with loose garments (tie, 
+scarf, shawl or the like) or jewelry! 
+VietaStation 4E 6162 i Danger of severe burns due to hot surfaces, risk of property damage! 
+The surfaces of parts of the machine system can reach extremely high temperatures 
+during operation and remain very hot even a long time after shutdown! 
+Danger of severe burns, danger of damage to the contact surfaces due to hot 
+machine parts! 
+> Always wear suitable protective gloves when working on the machine system! 
+> Always ensure there is a sufficient distance for unprotected parts of your body 
+and cables, pipelines and hose lines. Keep them away from hot surfaces! 
+> Do not use the machine as a storage surface! 
+> Deposit hot machine parts on a suitable, heat-resistant base only! 
+> Set up clear warning signs beside the hot machine parts in order to avoid 
+unintentional touching by third persons! 
+> Guide/dispose hot product only in appropriate, heat-resistant containers! 
+@ Before starting a test with the machine system, familiarize yourself with the 
+functions and menus of the software! 
+@ For running a measurement, please follow the instructions in the 
+corresponding chapters of the separate instruction manuals of the measuring 
+head, of the Brabender measuring program and of the additional equipment, 
+if equipped.12 Cleaning 
+@ The instrument does not need any special cleaning. In order to provide for 
+proper operation of the entire system, it must, however, always be kept clean 
+and dry. 
+a) For cleaning the measuring head, please refer to the separate instruction 
+manual of the measuring head. 
+MetaStation 4E 63Cleaning 
+64 WMetaStation 4EMetaStation 4E 13 Maintenance 
+13.1 Safety notes concerning maintenance 
+Cee Risk of property damage due to improper maintenance! 
+> Maintenance work on the Brabender instrument is only to be carried out by 
+instructed personnel! 
+@ To ensure a correct maintenance of the Brabender instrument, the Brabender 
+Service offers a maintenance contract to be purchased. 
+Please contact the Brabender Service department to do so (see chapter 2 
+“Contact"). 
+13.2 Bearings 
+The instrument has got a lifetime lubrication. It is not necessary to exchange any 
+lubricants. 
+am Nevertheless, even bearings with lifetime lubrication are subject to aging. The 
+service life of the motor and gear bearings under normal operating conditions 
+is about 15,000 operating hours. 
+NOTICE 
+Risk of property damage due to leakage or wear! 
+Leaks on the bearings may cause damage to the bearings! Wear on the bearings 
+causes damage to the machine! 
+> If any leakage is detected, switch off the device immediately and do not 
+start it again! 
+> Immediately inform the Brabender Service dept. (see chapter 2 "Contact')! 
+> Have the bearings checked every 15,000 operating hours at the latest by a 
+Brabender service technician! 
+65Maintenance 
+Fig. 31: 13.3 Fan(s) 
+13.3.1 Position, function 
+On the terminal side of the device, two fans are mounted behind the ventilation grille 
+for aeration of the motor and the electronics. Fresh air from outside is taken in 
+through the ventilation grille on the right side which is blown out again by the fans 
+through the ventilation grille on the terminal side (see fig. below). 
+The filter mats behind the two ventilation grilles need to be checked for contamination 
+in regular time intervals in order to provide for sufficient aeration of the motor and 
+the electronics. 
+[NOTICE Risk of property damage due to insufficient motor ventilation! 
+A contaminated filter mat may affect ventilation of the electrics and of the motor! 
+Insufficient ventilation of the electrics and of the motor may cause overheating 
+and, as a consequence, damage to the electrics and motor shut-off! 
+> Depending on the ambient conditions, check function of the fan(s) in regular 
+time intervals, but not later than once per month! 
+> Clean the filter mat of the air supply ventilation grille at least once per month 
+and replace it, if necessary! 
+> In case of a defective fan, immediately shut off the device and do not start 
+it again! 
+= 
+Position of filter fan and ventilation grilles 
+1 Ventilation grille with 2 air 2 Air supply ventilation grille 
+exhaust filter fans 
+MetaStation 4EMaintenance 
+13.3.2 Checking the filter mat 
+1. Press onto the pressure point(s) of the ventilation grille in order to release it. 
+2. Dismanitle the ventilation grille laterally. : il HULA Hn HNN AN 
+Fig. 32: Dismantling the ventilation grille (example) 
+1 Ventilation grille 3 Filter mat 
+2 Pressure point 
+Remove the filter mat from the ventilation grille. 
+In case of normal contamination: 
+> Carefully rinse the filter mat with clear water. If necessary, add some 
+mild detergent. 
+> Have the filter mat dry completely. 
+In case of strong contamination: 
+> Replace the filter mat. 
+5. Visually check the fan(s) behind the ventilation grille on the terminal side for 
+contamination. 
+6. In case of visible contamination, clean the fan(s) with a vacuum cleaner and 
+a paintbrush. 
+re Put the cleaned or new filter mat onto the ventilation grille. 
+8. Remount the ventilation grille and press to lock it. 
+9: Check the function of the fan(s) by means of a thin sheet of paper: 
+> Hold the paper close to the air supply grille - the paper must be sucked 
+towards the grille and must not fall down. 
+@ If there is no air current, the respective fan may be defective. In this 
+case, please contact the Brabender Service department (see chapter 2 
+"Contact"). 
+MetaStation 4E 67Maintenance 
+se " MetaStation 4£MetaStation 4E Trouble-shooting 
+14 Trouble-shooting 
+This chapter lists some possible troubles which may occur during operation of the 
+Brabender instrument and measures to be taken to eliminate these troubles. 
+Danger to life from electric shock, risk of damage to the instrument! 
+Improper maintenance may damage or destruct the instrument. Improper handling 
+of electric components implies danger to life or the risk of most serious injuries by 
+direct or indirect contact to live parts or contacts! 
+> Work on electrical equipment is only to be carried out by authorized 
+electricians! 
+> Maintenance work exceeding the work described in the present instruction 
+manual or requiring opening of the instrument is only to be carried out by a 
+Brabender service technician! 
+> Before opening the instrument or doing any other electric work, always 
+disconnect the power plug! 
+a Danger of severe burns due to hot surfaces, risk of property damage! 
+The surfaces of parts of the machine system can reach extremely high temperatures 
+during operation and remain very hot even a long time after shutdown! 
+Danger of severe burns, danger of damage to the contact surfaces due to hot 
+machine parts! 
+> Always wear suitable protective gloves when working on the machine system! 
+> Always ensure there is a sufficient distance for unprotected paris of your body 
+and cables, pipelines and hose lines. Keep them away from hot surfaces! 
+> Do not use the machine as a storage surface! Vv Deposit hot machine parts on a suitable, heat-resistant base only! 
+> Set up clear warning signs beside the hot machine parts in order to avoid 
+unintentional touching by third persons! 
+> Guide/dispose hot product only in appropriate, heat-resistant containers! 
+69No. | Error Cause/measure 
+1 Device cannot 
+be started Cause: 
+@ Wrong supply voltage 
+C7 No power supply 
+e Emergency motor stop button activated (lights) 
+e Emergency shut-off switch (isolator switch) in position "0" 
+° CAN cable not properly connected (CAN-IN and CAN-OUT and/or no terminal 
+resistor plugged onto CAN-OUT connection) 
+e Safety switch of the measuring head not connected 
+e Motor overheated 
+e Fuse released or defective 
+e Inverter error 
+Measures: 
+T Check whether the supply voltage matches the data on the name plate. 
+2. Check whether the power plug of the machine has been connected properly 
+to a power supply outlet with protection contact. 
+3. Ensure that the isolator switch is in position "I". 
+4. Check whether the emergency motor stop button has been actuated (pressed 
+down) by drawing the emergency motor stop button upwards. 
+@ The emergency motor stop button lights when actuated (pressed down). 
+5. Check whether the CAN connection cables have been connected properly to 
+the connections CAN-IN and CAN-OUT of all CAN modules or, if the device 
+MetaStation-4E is the last CAN module in the system, check whether the 
+terminal resistance has been plugged onto the connection CAN-OUT of the 
+device (see also chapter 9.5.3 “CAN connection”). 
+6. Check whether the cable of the safety device of the measuring head has been 
+connected properly to the connection "Safety Device” on the front side of the 
+instrument. 
+hes Check whether the cable of the automatic torque limitation of the measuring 
+head has been connected properly to the connection “Torque limit key”. 
+8. In case of operation with a measuring mixer: 
+Make sure that the two plugs of the two-hand contro! device have been 
+connected properly to the corresponding connections "2-Hand Safety Device”. 
+MetaStation 4ENo. | Error Cause/measure 
+Danger to life, risk of injury due to voltage leading parts! 
+When access to the electric modules is open and the isolator switch is on, live 
+parts are open! {1] [continued] 
+MetaSiation 4E > 
+> 
+> 
+10. Work on electrical equipment is only to be carried out by authorized electricians! 
+Never touch any modules inside the instrument as long as the instrument 
+is switched on! 
+As long as power supply to the instrument is on, functional checks of electric 
+or electronic modules inside the instrument are only to be carried out 
+visually and only by authorized electricians! 
+Dismantle the ventilation grille and the filter mat on the right side in order to 
+check the electric components inside. 
+e& See chapter 13.3.2 “Checking the filter mat”. 
+Unscrew the fixing screws of the protective grille and remove it. 
+> The HBM load cell, the safety relay, the power pack ant the overload 
+release are now visible. 
+Fig. 33: Electric modules behind the ventilation grille 
+1 HBM load cell 4 Power pack 
+2 LED onthe HBM loadceli 5 LED "DC ok" on the power pack 
+3 Safety relay 6 Overload release 
+Check the HBM load cell: The LED in the left top must light in yellow. 
+Check the power pack: The LED "DC ok" must light in green (see fig. above). 
+Check the overload release: The switches must show to the top. 
+Check the safety relay: Depending on the instrument state, the LEDs on the 
+safety relay must light as shown in the following schematics. 
+® =on B= of 
+@ If the LEDs on the safety relay do not light as shown in the following 
+schematics, please contact the Brabender Service (see chapter 2 
+"Contact"). 
+71No. | Error Cause/measure 
+[1] [continued] 
+Status with measuring mixer type 50 EHT: 
+e Power plug of the drive unit connected 
+e lsolator switch in position "I" 
+* Emergency motor stop button NOT pressed (button does not light) 
+C) “Start" key pressed (the "Start" key lights) 
+e Connection "Safety Device" plugged in 
+e Connection "Torque limit key" plugged in 
+e Connection "2-Hand Safety Device" plugged in 
+1 tase 7 
+2 COCK OC ICO OK Fr 8 
+‘@e@eleeee: 
+9 
+3 10 
+4 11 
+12 
+5 13 
+6 14 
+Fig. 34: Correct status display on the safety relay with meas. mixer type 50 EHT 
+1 X11 7 X13 
+2 X12 8 X14 
+3 (X12) IN 13 14 P1 P2 9 RUN (must flash in yellow) 
+4 OUT K1 K2 07 02 10 INO1 02 03 04 (X14) 
+(X22) (X21) 11. INO5 06 07 08 (X23) 
+5 X21 12 INO9 10 11 12 (X24) 
+6 X22 13. X23 
+14. X24 
+72 MetaStation 4ENo. | Error 
+{1] [continued] Cause/measure 
+Status with measuring extruder 19/25 D: 
+e Power plug of the drive unit connected 
+e Isolator switch in position “I" 
+€ Emergency motor stop button NOT pressed (button does not light) 
+° "Start" key pressed (the "Start" key lights) 
+o Connection "Safety Device" plugged in 
+e Connection “Torque limit key" plugged in 
+i 
+2 8 
+9 
+3 10 
+Fl is 
+= 
+s 
+4 11 
+12 
+5 13 
+6 14 
+Fig. 35: Correct status display on the safety relay with meas. extruder 19/25 D 
+1 Xt 7 x13 2 x12 8 X14 3 (X12)IN13 14 Pt P2 9 RUN (must flash in yellow) 
+4 OUTK1 K2 01 02 10 INO1 02 03 04 (X14) (X22) (X21) 11 INOS 06 07 08 (x23) 5 x24 12 INO9 10 11 12 (X24) 6 X22 13. X23 14. X24 
+AS.No. | Error Cause/measure 
+{1] [continued] 
+15. Check the over-/undervoltage relay: The green one of the three status LEDs 
+must light. 
+G@ Glowing of the left one of the two red LEDs ("<U'") indicates low voltage, 
+glowing of the right one of the two red LEDs (">U") indicates high 
+voltage. 
+Fig. 36: | Over-/undervoitage relay 
+1 Over-/undervoitage relay 2 Status LEDs 
+16. If all of these checks were positive, remount the protective grille and fix it with 
+the four screws. 
+17. _Remount the ventilation grille with the filter mat and press to lock it. 
+18. Unscrew and remove the four screws fixing the cover of the device on the rear 
+side in order to get access to further electric and electronic modules. 
+————— EE Danger of injury by falling cover! 
+The cover is just clamped on the front side and cannot be secured when open. 
+Danger of injury, risk of property damage by a falling cover! 
+> Use both of your hands to open the cover! 
+> Do not open the cover too far in order to prevent it from tipping over and 
+falling down! 
+> Grip the cover with both of your hands when opening it and holding it open 
+in order to prevent it | from slipping off and failing down!No. | Error Cause/measure 
+[1] [continued] 
+19. Grip the cover with both of your hands and tilt it open with care. 
+@ There is a recess on the rear side of the cover to facilitate opening. 
+> The inverter and other electric and electronic modules are now visible 
+(see fig. below). 
+1 
+§ 
+2 
+3 
+6 
+4 ——— ,' = 
+Fug. 37: Electronic modules under the cover 
+1 CAN-Bus power pack (24 V) 4 Inverter 
+2 Power pack internal PC (5V) 5 USB hub 
+3 Temperature controller - 6 Melt temperature module 
+20. Check the inverter: In case of an error, the inverter display shows a clear text 
+error message and an error code. 
+@ In case of an error, please contact the Brabender Service department 
+and state this error code. 
+ct] Please also refer to the separate instruction manual of the inverter. 
+21. Check the two power packs of the CAN bus (left, 24 V) and of the internal PC 
+(right, 5 V): The LEDs "DC ok" must light in green on both power packs. 
+22. Check the temperature controller module: The LED "Power" must light in 
+yellow, the LEDs “Run” and "Bus" must flash in yellow. 
+23. Check the melt temperature module: The LED “ON CAN" must light in green. 
+24. Check the USB hub priifen: The LED "PWR" must light in green. 
+MetaStation 4E 75Troubleshooting 
+76 : ee Hieta Station 415 Repair 
+Su Risk of injury, risk of property damage! 
+Improper repair work may lead to the danger of injury to the personnel and the risk 
+of damage to the instrument! 
+> Repair work on the Brabender instrument is only to be carried out by 
+Brabender service technicians or by skilled personnel authorized for this 
+work by Brabender! 
+If the Brabender instrument needs to be repaired, please contact the Brabender 
+Service department. 
+Brabender GmbH & Co. KG 
+KulturstraBe 49 - 51 
+47055 Duisburg 
+Germany 
+# Phone +49-203-7788-131 
+c= E-mail: service@brabender.com 
+North American Regions 
+C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+& E-mail: service@cwbrabender.com 
+\VietaStation 4E 77Repair 
+es 7 pee ENS ssn : ear CTMetaStation 4E 16 Disposal 
+The owner of the instrument is responsible for ecologically sound disposal of the 
+Brabender instrument or of parts thereof. 
+@ In case of a necessary disposal of the Brabender instrument or of parts 
+thereof, we recommend entrusting an authorized disposal company with the 
+disposal of the machine/machine parts to make sure that the local regulations 
+concerning collection, recycling, and disposal as well as those concerning 
+documentation are observed. 
+79Aispeesl 
+80 a ~ MetaStation 4BAnnex 
+17 Annex 
+17.1 Accessories, spare parts, additional equipment 
+For accessories, spare parts and additional equipment, please contact the 
+Brabender Service in case of need. 
+Brabender GmbH & Co. KG 
+KulturstraBe 49 - 51 
+47055 Duisburg 
+Germany 
+@ Phone +49-203-7788-131 
+ca E-mail: service@brabender.com 
+North American Regions 
+C.W. Brabender Instruments, Inc. 
+50 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone 201-343-8425 
+G2 E-mail: service@cwbrabender.com 
+17.2 Electrical documents, wiring diagrams 
+The electrical documents and wiring diagrams of the Brabender instrument are 
+included separately in the scope of delivery. 
+‘MetaStation 4E 81Annex 
+17.3 Electric interferences 
+The close arrangement of electric instruments in an electrically disturbed 
+environment may cause electric interferences on the power supply connection which 
+require potential equalization. 
+Example no. 1: Potential equalization with separate ground cables (for separate 
+wall outlets or separate distribution boxes) 
+net n=2 _n=x ney 
+Farinograpt? Viscograph-E Amylograph-E MT-C 
+x | 
+1 1 
+2 Z 
+Fig. 38: Potential equalization with separate ground cables 
+1 Power cord 3 Connect ground cable for 
+2 Wall outlet potential equalization 
+Example no. 2: Potential equalization without separate ground cable (with a 
+single, common power outlet extension) 
+ast n=2 Rex ney 
+| Ferinograpt? | Viscograph= | | Amylogreph | MTC | 
+oi | = ¥ a | 
+we 10 
+w= 11 9 
+Fig. 39: Potential equalization with common power outlet extension 
+1 Power cord 6 Internal static bypass 
+2 Wall outlet 7 AC to DC rectifier 
+3 Potential equalization with 8 DC to AC inverter 
+power outlet extension 9 Battery 
+4 UPS: if required, for weak power 10 Normal operation 
+supply grid 11 ~—~—~-Battery power 
+5 IMPORTANT: Use double- 
+conversion UPS! 
+82 MetaStation 4EMetaStation 4E Example no. 3: Potential equalization with separate ground cables (for different 
+voltages and separate wall outlets) 
+nat n=2 nex ney a LES a + ca) Fa 7 
+< om | 
+CEE CEE CEE CEE 
+3x400V 230V t 230V 230V 
+3 
+Fig. 40: Potential equalization with separate ground cables 
+i Power cord 6 Internal static bypass 
+2 Wall outlet 7 AC to DC rectifier 
+3 Connect ground cable for 8 DC to AC inverter 
+potential equalization 9 Battery 
+4 UPS: if required, for weak power 10 Normal operation 
+supply grid 11 ~—~—Battery power 
+5 IMPORTANT: Use double- 
+conversion UPS! 
+83Annex 
+a * MetaStation 4&‘etaStation 4E 18 Index 
+c 
+CUMENE SUPP Ycseerccnssecenmmnencnescares 41 
+D 
+DIMENSIONS iexcccesesccsecescavesessrcecces 42 
+E 
+PIGGIOORY cncncmmonmnnmamanscme 41 
+Emergency motor stop button 
+Functional check..........0cceeee 57 
+Position, function ......0..:ccceee 18 
+Emergency shut-off switch 
+Position, function «0.0.0... cee 20 
+F 
+Fan 
+Checking the filter mat................ 67 
+Position and function 
+Filter mat 
+CHECKING vccsenvererecnesemmrncconeaie 67 
+Front side... ees 31, 33 
+M 
+Measuring mixer 
+MOUNTING xcs socexseeereerceeeererecee 48 
+MetaBridge 
+Creating an administrator account 
+Sr Cr rT ere 56 
+Language selection «0.0.0... 55 Index 
+PresettingS -.....0.0.....cceceeeeeee 54 
+Running down the PC ......... 38 
+Setting the date 
+Setting the time... 
+Start screen 
+Mounting surface.............. cee 
+R 
+Rear side 
+Right side 
+s 
+Safety device oo... eee 21 
+Safety devices 
+Automatic torque limitation......... 22 
+Emergency motor stop button... 18, 
+57 
+Emergency shut-off switch ... 20, 58 
+Magnetic safety device............... 21 
+T 
+Terminal side... 31, 33 
+Torque limitation... 22 
+Two-hand control device ............... 22 
+w 
+WIGN ssccccctsesnacnasescensrescecees 42 
+85index 
+‘86 “"MetaStation 4ESS [ i ——— I 5 TI 6 i a og Device 815670 MetaStation 4E 
+| 
+B | ® Order: 
+fe 
+ay fg@ 
+B26 
+ig Brabender’ GmbH & Co. KG 
+ul : Kulturstr. 49-51 47055 Duisburg Germany 
+He ‘'&@ Phone:+49 -203 -7788-0 [1 brabender@.brabender.com 
+ail Product(MetaStatin4E 
+= Model xf] _vom[_] ie v[Sx40ovaNePE] v2 [50160] xw[65 | a[_%0 ] 
+; Diagram | 815670E000-04 185 1/min 
+§ x 
+i ial, Ef BF 
+| == tem | Brabender| —_[Deckbiet _ —— 
+| Fatwd | Jove Dam | oe | Nam Tum. [ent = Tee Hi f | Bi-Aneohi20 
+— I 2 ——j 3 I 4 I 5 t 6 I 7 ] ai I 2. 
+version date user document type 
+4_Deckblatt 
+| _ List of Contents 
+3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+|__3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+__3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+6_Betriebsmittelliste 
+6_Betriebsmittelliste 
+a ———— 
+—————— List of Contents i i 
+sheet description 
+| | 1 | _Deckblatt Cover sheet 
+| 2 Inhaltsverzeichnis List of contents 
+3 | Power supply ____ Wiring Diagramm 
+8 4 Power supply — Wiring Diagram — 
+5 \__ Safety circuit Wiring Diagramm 
+6 Safety circuit Wiring Diagram 
+7 Speed controller Wiring Diagramm 
+| || 8 Speed controller Wiring Diagramm 
+| 9 Temperature controller Wiring Diagramm 
+10 | Temperature controller Wiring Diagramm 
+A fe 11 Stocktemperature measurement Wiring Diagramm 
+| ile 12 CAN-Bus and Torque measurement Wiring Diagramm 
+F} iz : 13 CAN-Bus and Torque measurement Wiring Diagramm 
+u a 3 14 PC-Device Wiring Diagramm 
+Had 3 15 __PC-Device Wiring Diagram 
+leg = 3||_ 16 Betriebsmittelliste Components list 
+eet Hl 17 Betriebsmittelliste Components list 
+m Pe ag | 18 | Betriebsmittelliste Components list 
+at £25 19 Betriebsmittelliste Components list 
+4 20 Betriebsmittelliste _____ Components list 6_Betriebsmittelliste 
+6_Betriebsmittelliste _ m 
+Far dieses Dokument und den darin dargesteltten Gegen- stand dehalten wir uns alle Rechte vor. Vervietfattigung, 
+‘Bekanntgabe an Dritte oder Verwertung seines inhaltes 
+sind ohne unsere ausdrilckliche Zustimmung verboten. 
+© BRABENDER GmbH&COXG Duisburg 
+ae = | Beat. i —| oat 
+| 2usiand | 22.08.2020 
+P.Hommes 
+Sep. 3.0_Stromlaufplan 
+| 3.0_Stromlaufplan 
+3.0_Stromlaufplan 
+6_Betriebsmittelliste 
+Inhaltsverzeichnis 
+List of contents 
+Name | Norm npr Tent I Bat 
+nmr 815670 
+—— =" 15670E000-04 Bet 2 
+Aman 20 | Brabender’ 
+a I 5_l | 7 | 8 =" 5" 3a‘We 
+reserve 
+all 
+rights 
+in this 
+document 
+and 
+in the 
+informa~ tion 
+contained 
+therein. 
+Reproduction, 
+use 
+of disclosure to third 
+parties 
+without 
+express 
+authority 
+is strictly forbidden. © BRABENDER 
+GmbH&CO.KG 
+Oubsburg Far 
+dieses 
+Dokument 
+und 
+den 
+dasin 
+dargesteliten 
+Gegen- 1 | I 3 L 4 5 | 6 i 8 
+MMe ___ ea gag 
+wre ee at 
+oo 
+se Neem AM 
+Bit! 10 X12 fou X72. $30 T2140 X12 14a XT2 $40 X72 508 X72, 150 X12 1640 XT2. 470 Tetsu PE At 
+an al un all =e 
+Motor Kneader panel connection panel Pc Ventilation Heating zones panel 
+| | 
+MTZ a = = - = ol 
+Ground panel Motor pane! Pot screw Ventilation air | Heating zones panel cover front 
+6mm2 
+ul ig 
+01 bak SS ies We ky la 
+1214 
+Fil zie |, 
+| XTH Al 
+Ta 
+“ 1,5mm? orange 
+ATL 
+um la | 
+meee aol 
+4 B® ieprneo0.t2 Adjustment 1214 2M 
+PU ies juliziosly || | 
+iC ae 08 a ae | 
+tis 4 | | 
+a cil 
+over-fundervoltage 
+protectionrelay 
+0380 4 BK BN 
+x1 & 217482 5 
+ti 4 T GEE/32A 
+A an! 
+| a ‘Power supply SY 815670 } : 
+| Brabender’ ‘Wiring Diagramm lsat s serocooo oe tnt — I 815670E000-04 fra 20 
+3 I 4 T rami 6 7 [ 8 Ps gp BS OO a hl hhCE4 2 3 ] 4 im sj 8 7 8 
+nae SN gy 
+Age 203___Men ay 
+A Rage ea 305 __Ben ay 
+rps coe 2128 XT? au XT4 30 XT4 piu wat M ay 
+(9,48 poet PE i | 12.450 ape se ie UMW, _P io 44 
+X12 u_XT2 yo Xm ATA Hin X14 gs ai 
+jt \" Pe i$. itd Lt _|fe \N t 
+F HN n| ae | a | -F2 2 221647 221830 221680 218935, Power pack power supply power supply 
+240W —_— — — 
+100A | | = > 
+“Tew Taw | ao | oo Tw [ow lo lw w tx lw lw 
+Wa} Mo 
+XZ sou XT 20 pe naat 
+T y MOON NOTE Ga 44 94 
+f g 89, A BAL 
+c Hl i 
+2283 CAN-GHD BAT 
+33 i : H F XR ju XT jou tte X12 2 x1 pe 4200 _@ = 5.04 
+22 3 z a a X72 U2 jou XT fis ie “X12 20 X14 jo Te BV ig ay 
+S48 5 Bb 8 coe & 983 . 
+= 8 
+i] bef o/bee8s g355° KIB 3 X28 4 X08 X28 \ 
+— | Pa woo Paremetersal 
+in i Kad Law wy res Temp.-Controler 
+it hy ‘iat i hy] WA ya (ns HOM 
+hi els) ale PAN med pignia ; H 222693 \/ pe | 222693 \) oc | 222683 \/ oc | -F12) T2av Ty 44 TSN ‘yo Te "68 76 
+325! = ‘ae: Sef wmis\, yp <sMc E i g | \\Param.815011-000-0 
+5 : : ~~} 
+Be 2} y ag 21@580 | 
+388 |- |e 
+a — i  — M3 M4 
+i iy 2693 222693 222693 * 
+ay ade a <7 on | Oauertoneinstellung 
+Ma PIN - mit PIN CP gebrickt 
+F 
+= j Datum 22.08.2020 Brab er) Power supply Seugruppe 818670 | 
+ai i en Wiring Diagram Zeichnunge Nt 815670E000-04 4 
+ustand Andorng Oclum t En, =" _Bi-foasht_20 
+4 3 4 | 5 ll | 6 1 8 -e = Bs1 2 = 3 4 oy 3 | 6 7 8 
+Cg eT — ATM Dg gy 
+14.03 b= *14204 GND XT4_ atte GND AL 
+A = XT, au a X16 20 XTS_4y xia PUB ig ay 
+-F12 ; 1 
+241920 j ; -XT5 i -XT5 7 -XT6 i XT5 | 
+4 tas lea : i F gz 
+X15 Iw | _ ! X16 tw X18 tu | oXT5, aru X12 _ PASH ig By 
+ae au | | | I 
+TT te ae ; i ; 
+ATS | -XT5 -XT6 -XT6 
+8 2 3 E) 3 
+KTS fa X15 140 
+-XT5 -XT5 
+| 
+i i 
+of ve pe Wea oS ou 3H Wa YE oh wm wnt YE cane) YE WS WH 
+— | 
+é Hl DRIVE DRIVE ' ‘ ‘ 4 
+Ah Energeny START STOP ak nih 
+ile ls #90 s1 J" st i" sz | | | age 2 -S0 , 7 No ad Sr Y 4 _|y = . abo + 
+zee 2 oe) i 222174 SJ), 222834 Sy zeesesh— 2aszgb M F —} b 
+Ae : min” Ol, Wn zg ee ees mer \ 
+eee 8 : ) x3 
+Bid ziss | nist | ] 283 & Fa z = Fa 
+age 9 
+ol fetes 22 BN We | at a2 | RO WO RO WBN aa GN wl BN ¥et GN aS GN wes GN 
+S323 
+25350 
+— i : 3 i i , i / ; F 
+; 5 4 i -XT5 -XT5 1 -XT5 -XT5 ! -XT5 -XT5 -XT6 -XT6 ' -XT5 1 “XT5 ' 
+é | 6 ; 
+if 2 X15) ou XT 10 X15 tin X15 180 2x78) fu xt) x16) 30 x8! X75 50 X75 ev 
+; —n {133. $34, 243 141, [44 —{14a 
+E HH g | F ' ' ' | ' r | ' ¥ 
+aay 8 oes X24 SMC-input X24 SMC-Input j 3 X24 SMC-Input| | X24 SMC-Input X14 SMC-Input| X14 SMC-Input | X14 SMC-Input X14 SMC-input 
+i ; D109 Nol Stop. UL DI TONt Stop J 13 413 ‘Dit Drive Start ‘DI12 Deve Stop D1 c2 Te Hed MO, ‘DIO Two Hand NC | (DY04 wo Hand NO l 108 Two Hod NO | 
+figs _ - = 
+ja i 3 i 
+ae baad @} 
+F 
+= Brabender| Sey aie ee = Wiring Diagramm Zeihnungs Nt ‘oat 5 
+Zed | Arey re ae Eat Tee ——1 815670E000-04 pans 20 
+{ T 2 T 3 4 l 5 | 6 7 8 1 2. l_ 3 4 I 5 || 6 8 —— 
+5.ng niet 20 X14 tt 72200 is 
+15.A8 = 2AM. GNO . Bm BA 
+A Jg.Ag AEE PUL X15 pan I sida _Rlstes poy A 
+x16 
+J 
+15.39 (>t Pus! X52 PULSt 
+ATG X15 tau Ltt 
+. 2 Mixer safetyswitch -XT5 \ B 
+nanan nae 
+Fr] OF { LED ON if 
+say oie “BA doris closed in 
+Ls wi Ab i 
+22008 por) | coma | 
+| BK | WH pe sm jen oR BL - 
+‘, Connector | 
+cla 221996 1 | c 
+ui ' i ete X21 i 1 7 | | | Eat 221378 |, Mite le le aie Fl wp. 8 oF & & e is 
+S82 3 push/pull fomeed HT 8 g| 8 
+233 2 Oe BN WH OYE GN RO | 
+iE — Pit § 12 | x22! 
+ee g . i Ki \ 
+ol Fag? D g5580 a 
+|__| 5 4 
+X15 XT : 
+stay | | —r | i xnsy ton X15" 2 F12 | x22! 
+: He rv sy 4 i 1 $ a oft X28 SMC-Input| x23 SMC-Inut 
+; 32 d ciestivercw | DlOBMier cose AIM14 OPO yoo 
+ye ge - = 
+BEL Speed controlter K3 
+a F ENPO i es 3 
+Bnig3 
+F F 
+- — [tees | zeae | Safety circuit em 545670 
+[ SS | Brabender’ Wiring Diagram faeeN a Ae: = 
+‘stra |For atm | Nave | Nom mm “Text [ema —— i 815670E000-04 sivas 20 
+1 | 2 | 3 I 4 I 5 6 I ai- = + |1 2 Z 4 I. 5 |] 6 7 8 
+Mag Te xT X22 XT xtase Ue gay 
+Mate 2 X12 x24 KT maar a AL 
+is Hag 228 Bats Xo X48 1 Be gay 
+1h. fom Ei N X12. -XT4 a1 21286, Ne pat 
+Mango TOU PE Tau AI je HTH HT te X14, $20 X74 YT yours Py 
+jongti>- Buber | XT enw PULSR 
+ic Cover Ki cover monitor 
+cover behind control unit | pools pele J 270s | xove _ { 
+A oe ne X2 nvertornodu Motor | 4 invertermodul A earn Temp-sensor ENCODER ASP 5004 X10 Power = 
+Typ SDS 5075 = |Paremetersate 614589-000-00 -Ki | iC | \, | i | 
+206243 | IP: 192.1083 266243 Fa apien| V | 
+é ¢ _ X20Molor gE fF tspolo-sua_ | -F12 peal | = fe 
+C a oh hoe on | 241920 eral 4 
+232 Traou aay | x20 HDPE Var lye i 1 * xed xia | xta3 X24 
+uid wis) uli ae L133 g 
+reee g sel ais ¢ \ 
+2e2 2 e349 
+i ag wig 
+0) eb ea8 Wi7 va 618558.001 38 38 ® < ) 
+e FS “be (2 R38 g § ‘| 
+i | Gehause M1 ja pats, 
+i] uly lw tt Pe ' ' 
+-| X23 SMC-Input | i i mth, | P Pa m3 | | 
+3 235306 235306 : LOT Kt Seely Sop x21 
+f 3 i E u B) 0 ee res men Bigg emo tine na 
+Hig g €202G0176EZ508U bf Ps 4,24KW a6 55 17,517 
+| 15 410,004 ns 3241mint 
+j g M = 43,60Nm 
+3 $e 
+F 
+— i NE | Datum 22,08.2020 Br, b er’ Speed controller ‘Baugruppe 815670 
+— ca _ [Pm ender’ Saeed cooreller ee 
+Zuctend | Andarong Seton | Name | Hoon Usp. = Eat, mit! [bi Anuahl_ 20 
+4 2 I 4 | 5 I 6 Z T ‘8 iE “al a a >4 2 : T 3 4 | 5] é 8 
+BABE X12 Mo 24V = até BV HOA 
+AB sp * Ml gat 
+A Al 
+Xi Invertermodul 24VDC) X1 Invertermodul ENPO X100 Invertermodut WO X01 invertermodul YO 
+SAE 5001 SAE 5001 | 
+Ki | § 256243 a a , é H bees WEE fee eeard bisparegail a oe | om" aoe t iat i at toe sok 
+B Tan lite xt at. min {xe | xia lia yaaa 002 == Tins ato x07 | ions Ty | etad Korat koi miONS KntAe ROL! WoL KOT? Xtal RO B 
+| 
+. 
++ X12) 210 | TZ atu X72 20 
+XT2. 2a 
+i 5 (> EPO Fema JOGSPEED 
+cle C 
+aoe Ed [is a2 
+| a 1807 2) +a 
+sue og. Filer PNR 2 |g 222182 at] 
+py eke 3 241920. dud H 
+| |f2F 2 D108 Kt vende 
+eee 3 
+BIE g 
+Bag 
+D bigs D get ENABLE JOGSPEED (10min-1) rere 
+WW XTS Su fu tu ayo -F12 Fi = 
+! Y 4 " 'Y 241920 5 
+| i ‘i ! i ‘ |__°xa1 
+| -XT6 | ; | | i PERS 3 xs 
+| i 13 aa 
+g j ak on pre ym pe pw aoe 222 
+Vilas Sele e 
+= 3 i 8 -X20 ‘ | & ‘ | 222152 
+al 8pol.push/pull r 
+FI 
+i aul | Torquerange 
+i u selector 
+Bunks 
+F iF 
+———_}——_- c aie Brabender' [Speed controller orm 915870 — 
+Ge, | Wiring Diagramm Teichnungs-N, Bo 8 
+Zustand Radorong [oun | Name Tom | Un. Tent fen — [ i 815670E000-04 sewn 20 
+1 I a) [ 3 | 4 I 5 | 6 I | 8 te os BEWe 
+reserve 
+all 
+rights 
+in this 
+document 
+and 
+in the 
+informa- @ BRABSENDER 
+GmbH&CO.KG 
+Duisburg on 
+contained 
+therein. 
+Reproduction, 
+use 
+or disclosure to third 
+parties 
+without 
+express 
+authority 
+is strictly forbidden. m 
+| Far dieses Dokument und den darin dargestatiten Gegen- stand 
+behalten 
+wir 
+uns 
+alle 
+Rechte 
+vor. 
+Vesvielfaltgura, Bekanntgabe 
+an 
+Dritte 
+oder 
+Verwertung 
+seines 
+inhaltes sind 
+ohne 
+unsere 
+ausdrickliche 
+Zustimmung 
+verboten. © BRABENDER 
+GmbH&CO 
+KG 
+Duisburg, IL age Xt 
+7.08 88 
+Tag i= 
+TRB 
+FAB) u 
+B 
+B 
+” 
+HTH tu PE | 2 3 4 5 7 8 S- 
+TG The. Tao Oo HOA 
+x Xe i HOA 
+whe x14 fr 88 Be oat 
+12 to 72g» X12 X12 100 X72. 300 X72 tt HT2AMl0 Sis sani 
+xa 272.190 cae X72. 160 X72 shu 172.1% HN PEL gay 
+x73 | x73 | x73 | x73 | -xT3 | x73 
+ih z {2 2 2 2 
+3 [| 4 || 6 | £6 [/ FT| £2 | aoare + rower) wou conre |S tower 4} 20NFF 
+221889 221389 221389 221389 221389 221389 
+| | 
+‘ l K276 TE 
+i— ' oe 1.84 
+oe = ae 407|_TAe— 44.84 
+! r | 1278 Tay, 
+— ¢ =e “toe 111.81 
+pis ‘ oud + ate ree 11.84 
+2 2 
+1 1 
+¢ ; HO TB ay, 
+c. lit on mete 2 2 
+io ., {e . fe = 
+3, ft Ka, {i 45 \w {4 6) -K7 \ 8 || 
+rans |) 27038 fae | zaags | z22098 {ar zanes || ae | SSR SSR SGR SSR SSR 
+oi 4 Fo 7 ‘ aids 4 | ‘ 4 4 ih ‘ ‘ 1 ait | i eS 4 1 = 
+Zone 1 Zone 2 Zone 3 Zone 4 Zone 5 Zone 6 
+Temperature controller maw 815670 i 
+| | Brabender’ Wiring Diagramm ZelehnungesN, ay ia a 
+ze = har i _ a ——I 815670E000-04 — jiscar 20 
+i 4 5 il 6 | 7 8 4 | 2 L 5 4 ll é 7 8 
+fake to 2t_Ut xt — Bon 
+Bag t @ ies 
+A 1ea8 pa kde 18 XT. Ls A 
+AB Ee ATR 2th Nie 
+ag 2M PE X72 {Tro oT4sidio PEL nant 
+XT4.1 a 2 
+#9 {I * +19 I 
+y aro |"zets |" 8 | | 
+—By Bj -— 
+¥ ' Rano BASS 
+one Comat ONS Ro aROS BALTS TempContaler Output heating 
+si oil ‘Temp, Controller Output Heating ! Cooling ik 
+i. es bs ie | 
+ifr erri? ak ae ee rr re sw) el el ele 
+old} ‘ age 
+te L 
+2a3 3 ‘7 \2 j2 i 
+aee0 ey & A2- BQ Ad 
+ol feegs -K10.K1 ye -K10.K2 | ¥—  -K10.K3 -K10.K4 7} a y eal Kare | KO) Teal al 9 
+egees ! way yan : ? 220088) paanas || 2op098 wage oakil wal 
+8 673307.003 673307.003 873307.003 673307.008 SR [aw SSR law SSR [ar SSR [aw SSR at el late 
+1} ih " 1" " an aoe 803 808 805 08 
+| i 3 F X74 | som KT4_ 010 oXT4 sim -XT4 110 i 
+ii X04, sa X14, 12 XT XT 430 
+é ul i pe Pe [Pe rr E 
+4 g X445 8 FRRE -K10.K1 -K10.K2 -K10.K3 -K10.K4 
+Hi cal a) a eG e7s307 | 673307 _|_ 673307 | 673907 _| if | AA AAA, 7 = a = 
+AH - Hy B Zone Zone2 Zone3 Zone4 
+BhdES 
+F F 
+Z Jd a | Ez — : bicLue Temperature controller mars 815670 i = — — ee amt Wiring Diagramm Zekanengs aot 10 
+ustand [baum | Nemo | Hem | Lent I 815670E000-04 \anaohl 20 
+1 2 l 3 = I 5 | é 7 ] 8Vie 
+reserve 
+all 
+rights 
+in this 
+document 
+and 
+in the 
+informa- 7 1 2 3 4 5 | 6 7 8 
+A 
+] Ramon 84.06.9437 | R2200-834.0-5-BA3-7-5 | 
+R2200-834-0-5-BA3-7-5, ‘Temp.-Controfier Input TC /PT100 Zone 1-4 ‘Temp.-Controlier Input TC #PT100 Zone 5-8 | 
+Ko Temp,-Controller Setting } current transformer ei “e = me - - - - | 
+241885 ‘ ; -k2 ( (J ¥ t t t r ik i i t i i i “ al | u re] a ray zs Lt] rai zB | 
+a tee ete te ee = a | a —— wm iT mw a ™ rid % n ® ” wo a ae LJ 
+teaeeai 6 & bt bh a CS a es ee ee Se 
+te te te tee we te fe 7 i te ta te ta tae 
+8 
+| 7m 
+= tl | was no UE wi | Ro ait WA RO Pid WH RO 28 WH RD aaa RO | 
+aT 
+in | 
+npet—21 8 
+808 p72 —18 
+i | 
+3 Pil g Boy eo9 soy 3 9 Boy c 
+uy ee LAT X10) | xt] XW | | ts | X40 XI se | |e 2igso1 | 218301 246301 ||. 2ieset | 248301 | afgsot 
+3 2 Fy ey SF 4a ope +, a | a 
+ay ie EP 38 Fe Intervaliton | 
+ae a Helzstromaberwachung 218285 218285 218285 218285 218285 218285 
+es 2 
+ee @ 
+Bae 
+BESe p 
+Ht 
+fi 
+Bl 
+; E 
+ile Bigee 
+al a 
+Ht esake 
+# 
+| | ven | 22082000 | | Stocktemperature measurement "818670 7 ——————— + Hommes | Brabender’ Wiring Diagramm | certnange, jawt 14 — —— ] 815670E000-04 fasacer 20°" Zustand | Andenng. ee ee ir ~ [ewe 
+1 I 2 3 | 4 T 5 | ] 6 | 8rr ae = aNADI p-can 12 
+it express authority is strictly 
+© BRABENDER GmbH&CO.KG Duisburg to third parties wil forbidden. stand 
+behalten 
+wir 
+uns 
+alle 
+Rechte 
+vor. 
+VervielRalligung, Bekannigabe 
+an 
+Dritte 
+oder 
+Verwertung 
+seines 
+Inkalles sind 
+ohne 
+unsere 
+ausdriickiche 
+Zustrnrmung 
+verboten. © 
+BRABENDER 
+GmbH&CO.KG 
+Duisburg F , 4 [ss I 8 u 3 
+CAN-IN 
+12 -X22 241907.001 218244 : _ i“ es wal ve oil ve HRS ON ay 
+z GND. = CAN-GNO oat ow oN Pic) HOM _CANGND A 143 94 
+= 5 5} aie CANH vo] i ral 1088 __ Ata 43.34 
+30 | 2 fae Ley CAN wa ort Lt} ac) Foe 13.81 
+i 
+iHK—c> - ‘ 
+love [recast aw amt 
+-X23 221582 
+a 8 ‘ ‘ TORQUE-AMPLIFIERE | | 712 MP55-X1-CANBUS 
+i 241682 Modul-ID 40 
+fof fntntstintns 500KB 
+tt —— 
+2 2 Es 2 —————— oo car [ren eho 
+TORQUE-AMPLIFIERE 
+| | oid MPSS {5poLD-SUB TORQUE-AMPLIFIERE sista Fe LOADCELL -T2 | MPS5-x3-DIGINANAOUT 
+9pol.D-SUB } 241692 
+200 Invertermodul CANopen Tyla lis Tea 
+X24 4 | | | = 210616 |, e elev 35 e B55 
+it > 
+a4o€ aya 4 h | 
+a HS SSL: 241362" ' 
+Load cell: 
+Sele 'CAN-Bus and Torque measurement jor es5670 —— 
++ ie | = ef = ‘Wiring Diagramm Traian lee 
+Zuvend —__Aorng Datum Nowa [Bet I = 815670E000-04 a ana 20 
+1 I 5] | 8 2 i 3 5 | I 8 1 8 
+14,08 SA T62N 
+| 1,08 C= SAND TSO 
+X27 
+218191 
+Ne - 
+TAY CANDY (O36 YE call oe ot ve tj CAM TV 
+288 CAN-OUT 
+12.Be s—_T2 _CN-GNO 3) o wn | aH. ey 
+pe _TRCANHCANH ®N BN BN | | CANAL Skee xe 
+112.86 Ee RCNA an | wa | cin, <1 221332 
+> R120 
+Simms <I ) \ —! 
+Lo 1 
+silat ae Ae 22tse2 ld 
+4 + = pele [aie re i) 
+=== FT? hp <a re | 
+“= iced a = -——_—_——— OFF on 
+te eg at te -B2 rs 241689 ‘Bavei$0Q) ModulID 37 
+eee loan" h 
+Fee BF | 1 6s a 
+238 2 A+ - Gt mt @ me PH Gt 
+s2 a re ee je-_|ot_. 5 oo O90 OF o o9 @€0 O88 GO 
+S83 0 ; t 
+goa 8 | a See 9 NC NC ONC OCAMH CANL NC CAN 
+zee 2 -K2)—270050405-88375 Wi RO Wi RD WH RO WH oe 
+ses, 3 261895 _Temp-Conttoller R2200 CAN-Bus 
+£33 5 an a ModutiD 33 
+223 ont 
+aie @ i a ie ants wid wis wis 
+28o3e Psi 1 X17 X18 | 4 -X194 4 18301, 2801 “218304 218301 pa 
+h U LU im i 248285 218285 218285 218285 
+Hi 24838 
+33a i 
+H eo 
+Hl i 
+HE | e838 
+i Datur } ‘Peugrur 
+{ —— fe 208 'CAN-Bus and Torque measurement Pe sisa70 
+{tea fe 4 | nal “Wiring Diagramm - ore ven Ta Zustand Ardonng Daf nome | Nome Te [eet l 815670E000-04 Lanzahl 20 
+1 2 | 3 5 | | 6 | 7 ] 8 a= = =‘We 
+reserve 
+all 
+rights 
+in this 
+docurnent 
+and 
+in the 
+informa fion 
+contained 
+therein, 
+Reproduction, 
+use 
+or disclosure to third 
+parties 
+without 
+express 
+authority 
+is strictly forbidden, |_@ 
+BRABENDER 
+GmbH&CO.KG 
+Duisburg ] Far 
+dieses 
+Dokument 
+und 
+den 
+darin 
+dargesteltten 
+Gegen- stand 
+behalten 
+wir 
+uns 
+alle 
+Rechte 
+vor. 
+Vervelfatigung, E ES : | @ BRABENDER 
+GmbH&CO.KG 
+Duisburg mcae TY Mee 
+1,68 Be ATE 
+BARE My 
+RAS GND 
+OAR FE 
+f1aptc BSA Tt 
+WERE | 
+E=) 
+XG1 222507.001 ii 
+USB | Kode ‘Datum | Name -K11 242034 2 | 3 4 I 5 7 8 
+Ve 
+Oe 
+ANd ym oXTA. 1M xst6r0 2 Ng At A 
+X74 sey 190 4200 GND ag ay 
+RTA ta Pho 5A 
+— 
+eit? ro mK 
+X78 tu aw oa an Seu 
+| I 
+Sern 
+1 = , , i F F i ° 
+aha 1 J oil . WH YE GN 
+N23 CNX ij | 
+Up? x zs 8 4 
+UP Squared Gateway, Pentium N4200 ret 5 | 
+USB 3.0 LANY ue? -P3.Xt ’ “a Ay 
+USE1 —USB2 (| ry HDMI ay use3usB4 : I ; prod 
+as = - t co) | crmwons = 2 
+———— tious Sond Panel ' iy 1 ! ' SS Multitouch-Control-Panel ao ie 
+sos E Ue he OP 
+x13" X102 == Use 
+USBE | Du : X44 
+ij we +t a 
+Ly ' F 
+Pa zt | roost D 
+cn 
+sven ot | 
+BR ons 28 aS 
+€ 
+my | onl 5 
+LANOUT LANIN HDMI USB USB | 
+F 
+a Brabender’ PC-Device Bm 5870 Ty —| 
+SS EEE . Wiring Diagramm — Zeichnungs Nr, Ba 14 
+Nom Ung. Fat Teed 815670E000-04 = gona 20 
+2 | 3 4 5 ? 8 20 
+wo. 
+“" 815670 —__} 
+mane 84 5670E000-04 fama 20 | 1 2 l I 
+NAb Ee 4 28 apo 
+N4AB THR GND — X14, j8 
+agg eet - 
+278 6a 30 
+wi x8 | | 
+, 32 
+pier 
++ X19.1 Le 
+zag 
+14 | tan Sade weariz | ORER™ | zy 
+Pal Stn 
+a 3) X19 
+if 438 r — 
+iy gee Bl 
+aig i fbe 6 Pe 358 6 eee & 
+ees i 4 gai 5 242008 | | 
+seed a bigdel 28580) 
+za 8 
+oXT10 243 4 5 is 
+be . 222189" 
+i 
+L U H : 288 i 
+Hi ity BuuTE 
+I m | 22.08: ] 15C-Deui 
+SS == = "Brabender| __ S22on Zustand Antenng Datum tis ia Une _liet [ema = I 
+i 2 3 | 4 5 || Bla 1 
+8 — = I =" 3 4 a ee _[ —_ id | a 
+Components i ‘ a + ' “ — — j 
+POS. | assembly | location vam component description | supplier | 
+: designations | pp page / path 
+1 | _| -B1 241362 | ‘Load cell Z6 200KG _ | Hottinger Baldwin | 12.66 
+2 -B2 241699 _Stock temperatur Modul CAN 4.ti; 4 channel Micro Control — 
+3 | F141 222023) automatic circuit breaker 3 pol 20A Type S203P-K 20 ABB Stotz _ 7B2 
+B | 4 — -F2 218935 —_—|_ automatic circuit breaker 1 pol 10A Type S281-K10 ABB Stotz | /4.B2 
+| 5 __| | -F3 221389 Fuse 6,3x32 20A ultra fast _ Schurter | /9.B2 
+L6 -F4 221389 Fuse 6,3x32 20A ultra fast _ Schurter | 19.B3 | 
+L7 | -F5 221389 Fuse 6,3x32 20A ultra fast __| Schurter | 9.83 
+[8 -F6 | 221389 | Fuse 6,3x32 20A ultra fast Schurter __/9.B5 
+= 9 | =| “~T 221389 Fuse 6,3x32 20A ultra fast | Schurter | /9.B6 | 
+; 10 -F8 | 221389 __| Fuse 6,3x32 20A ultra fast | Schurter _| /9.B7 
+e iF (i [ \ -F9 221330 __| Fuse 6,3x32 0,3A fast acting _ |Schurter /10.B3 
+88 EF || 12. _ | -F10 221330 Fuse 6,3x32 0,3A fast acting Schurter | /10.B3 
+8 : || 13 L-Fi1 | 221623 Over- and undervoltage relay IL 9077.12/800 Dold | 13.D3 
+ha FE | 14 -F12 241920 | SMC-Z20 Safety controller w. sensor interface LT-i Motion GmbH | /4.E5 
+mee 3 | 15 -K1 | 266243 servo-controller Stéber SDS5075/L 7,5KVA/10A/3x400V Stober 
+g 5 Hi | 16 -K2 241895 _Elotech R2200 8 Zonen Temperatur controller 6x H/C; 2X H; 24 Elotech 44.D7 | 
+228 2) 17 | -K3 | 222095 | Solid state Relay SUL967460-K 230-600V/25A Celduc 10.D6__ 
+: Hf id fig | -K4 | 222095 | Solid state Relay SUL967460-K 230-600V/25A Celduc 0.07 
+agees| | 19 | -K5 222095 Solid state Relay SUL967460-K 230-600V/25A ___| Celduc |__/10.D7 
+| 20 | -K6 222095 Solid state Relay SUL967460-K 230-600V/25A _Celduc |_ 140.07 
+21 — si) -K7 222095 | Solid state Relay SUL967460-K 230-600V/25A _ Celduc _ _ /10,D8 
+ke 22 -K8 222095 Solid state Relay SUL967460-K 230-600V/25A Celduc | 10.D8 
+4 : | | 23 | | -K9 | 222152 __| Safety-Relaymodul RM-24V-20/2S APPOLDT GmbH 18.07 
+if | |_24 {| -K10 | 873307.003 = : _ 
+5 i j ) {25 -K11 | 242034 | UP Squared Gateway.Pentium N4200 AAEON Technology /14,B2 
+| ji il g, | 26 I -K12 242009 _Kemo Amplifier MO31N _ Kemo Elektronik GmbH /15.E3 
+F i i | ee | __ | -Mi | 235306 __| Stéber-Servo 4,24KW i=17,517 Stober __17.E4 | 
+i gf 28 -M2 222693 | Fan 24VDC,60 x 60 x 15mm RS Pro | /4.E2 
+| : i 29 | -M3 222693 Fan 24VDC,60 x 60 x 15mm _RS Pro | /4E3 | 
+j i 30 -M4 ___| 222693 __| Fan 24VDC,60 x 60 x 15mm RS Pro | /4.E4_ | 
+H 3e| 31 | -P1 | 218580 __| piezoelectric hooter SCI 535 BS 24Vde = ___| Sonitron = 1.3 | 
+. \| 32 __| -P2 | 218580 piezoelectric hooter SCI 535 B5 24Vdc ___| Sonitron | 4.E7 | 
+——— a | Brabender| —_[Peticbanitetisi co = = - | ponents list Zeicnangs Ni, aut 16 
+[ewe | deteng [vom [nn Ne Ua Se Fr a —<—S —— 815670E000-04 yeaa 20 
+1 | 2 I 3 I 4 Tl 8 6 l z __ &1 wil _ 2 — 3 1 4 |— Ell 3 7 8 
+Components 
+A | T = j = | 
+POS.| assembly _ location device component description supplier designations P page / path 
+| 33 _ | -P3 242033 Multi-touch Control Panel CP3916-0000 |Beckhoff el 
+34 |_-P4 242008 Structure-borne driver Visatron BS 76- 8Ohm Visatron GmbH&Co.KG 5.D5 | 
+|_35 01 ‘| 221625 Power Switch 32A with undervoltage trip _ Elektra Talfinger | B.C 
+B || 36 , | -SO _| 222174 Emergency stop button - IDECG _ | 15.C2 | 
+37 | | -S1 _ | 222534 | LED T5,5K24UB;White,24V AC/DCV,7-14mA Schlegel 15.04 
+| 36 | | -S4 | 222528 Pushbutton illuminated START Schlegel | .C5 
+39 | -S1 _| 221840 | Contactor 25+20 5-250V 4A __ Schlegel | 6.C5 
+7 40 -82 221840 | Contactor 28+20 5-250V 4A = Schlegel — 
+| 41 | -S2 222529 | Pushbutton illuminated STOP | Schlegel _ 15.C5. 
+; 42 | 11 ___ | 221647 __| Puls Power pack 84-276 VAC / 24-28 VDC lout 10A | Puls /4.B2 
+is iF | 43 | -T2 241692 ___| Torque amplifier MP55 f. CAN-bus ____ | HBM == | M2.C6 
+24 = 44 -T3 221969 current transformer M2000; 50A/SOmA i= 1:1000 Elotech | 19.C5 
+HE 3| | 45 -T4 221969 current transformer M2000; 50A/50mA i= 1:1000_ Elotech 19.C6 
+ue ‘ 4| | 46 -T5 221969 current transformer M2000; 50A/50mA i= 1:1000 Elotech | 19.D7 
+eet 8) | 47 | ss -T6 | 221530 | puls power pack 84-264 VAC / 24-28 VDC /2,1A/ 50W Puls | 4B4 | 
+ry a) | 48 | -17 _ 221880 | puls power pack 84-264 VAC / 5-5,5 VDC / 54/ 25W Puls 4.86 
+a2: 5 | 49 = -T9 242036 | Industry USB-2.0 Hub fold _ Exsys | 14.B5 
+i a a Fe 50 | | -T10 | 242044 Active Adapter Displayport- DVI-D; ST DP2DVIS | Startech 4.D3_ | 
+He a 5 | -T11 222712 | adjustable DC voltage converters 3 - 15V 7 __|Kemo 15.B4 
+= 52 _ | -T12 241907.001 USB-to-CAN V2 compact HMS Ind.Net.GmbH | 
+53 | | -TF1 242035 2.1 Sound, Manhattan Hi-Speed USB 3-D Audio _ Manhattan-Products /15.B3 
+jheae || 54 | v1 | 221253 Powerline filter FN356-36/33, 3x400V+N+PE 36A ____| Schaffner | 13.61 
+® i ee | _-W17 | 221842 | Cable for Stéber-Servomotor ED704 Stéber | 7.02 
+if | 56 4 = -W18 | 618552 | Apapterkabel Resolver MDS-SMC1 221 _ Stoeber 17.04 
+3 i 57 LL -w9 618553.001 Stéber cable Motordekoder Endat_ __ | St6ber | 
+i ih 58 || -weo 618004 | Low power cable, plug 5.5/2.1 mm, 2m | Conrad — | 
+a8 59 | | -w29 | 618595 Connectioncable USB A/B 1,0 m _ InLine 
+LEH) |_60 | -w30 _ [618595 Connectioncable USB A/B 1,0 m |InLine 
+za318)| 61 ia | -Ww36 | 618005.001 ‘Connection Wire DVI 1,5 mf. Multitouch CP39xx-0000 _ EVG-Martens | 
+Hy B 62 __| -w37 618006.001 | Connection Wire USB-E 1,5m f. Multitouch CP39xx-0000 EVG-Martens __ — 
+zeake | 63 | | W838 | 222682 © Connectioncable Klinkenstecker-3,5-Stereo | VOLTCRAFT ____} 15.03 | 
+1 | | 64 aif -WG1 | 618605 _ Connection cable USB 3.0 A/A 1m _ | Delock | 
+1 or eee Betriebsmittelliste mn? 815670 | 
+a Components list IeEW. << acnn Teeny 
+ae ; — 815670E000-04 [ua z0 
+7 a a es 2 - —, Tq il 6 || | 8 7 8 mm mn T 
+Fer 
+dieses 
+Dokument 
+und 
+den 
+darin 
+dargesteliten 
+Gegen- Components - a = ; a a ; — |x 
+| POS.| assembly | location device component description supplier designations ‘page / path 
+| 65 -WG2 | 618577.001 Cable HDMI(A) male /HDMI(A) male 90° angles 0,5m ____| Bechtle direct GmbH 
+| 66 | | x1 217484 ___| CEE-Connector socket 32A 380-415V 9h, 3P+N+PE _ | __/3.F 4 
+| 67 _| x1 _| 217482 __ CEE-Connector Pin 32A 380-415V 9h, 3P+N+PE Diverse _ | B.FT 
+68 __| -X2 221363 | cable connector femal M12 4pol |Woodhead/Nies 15.D6 | |p 
+| 69 | -X3 221363 cable connectorfemalM124pol |Woodhead/Nies __ __ .C7 
+70 -X4 217248 Female receptacle 4 polig BU Tuchel-Amphenol /9,E2 
+71 -X5 217248 Female receptacle 4 polig BU | Tuchel-Amphenol __/9.E3 
+72 | | -Xx6 | 217250 _Female receptacle 7pol BU = | Tuchel-Amphenol | 9.E3 | Fy] 
+L738 | -X7 217248 __| Female receptacle 4 polig BU Tuchel-Amphenol 19.E5 
+| 74 ; | -X8 | 217248 ___| Female receptacle 4 polig BU Tuchel-Amphenol /9.E6 
+iF | 75 | -X9 |217248 Female receptacle 4 polig BU - Tuchel-Amphenol | 19.E7 és 
+24 2 76 = | -X10 218301 Thermocouple Connector type FSTC-J-FF | Merz /11.C4 ] 
+E 3 is al | UE -X10 218285 thermo short-circuit termination Spoerle | M1.C4 | 
+igs 3] | 78 | -X11 218301 Thermocouple Connector type FSTC-J-FF Merz ACS 
+See 5 79 | -x11 218285 thermo short-circuit termination Spoerle 141.05 im 
+Fy : 5 80 120 218301 | Thermocouple Connector type FSTGC-J-FF | Merz | ACS | 
+Hs H 5 | 81 i -X12 __ | 218285 thermo short-circuit termination _ = Spoerle | 111.05 _ 
+i a a | 82 ll -X13 | 218301 Thermocouple Connector type FSTC-J-FF _ Merz /11.C6 A 
+epee | 83 -X13 | 218285 _ | thermo short-circuit termination __|Spoerle 11.06 
+r——} | 84 ‘| -X14 218301 Thermocouple Connector type FSTC-J-FF _| Merz | /11.07 
+85 | | X14 218285 thermo short-circuit termination _ | Spoerle | 111.07 
+a; 86 | | __| -X15 218301 ____| Thermocouple Connector type FSTC-J-FF Merz 11.07 
+i i 87 | | -X15 218285 thermo short-circuit termination (Spoerle 111.07 
+i | | 88 | | -X16 ___| 218301 Thermocouple Connector type FSTC-J-FF | Merz N3.D5 | 
+3 U | 89 -X16 218285 © thermo short-circuit termination _|Spoerle L M13.D5 
+1 @|| 90 | X17 | 218301 Thermocouple Connector type FSTC-J-FF | Merz 3.06 F 
+ue | 91 | -X17 |. 218285 thermo short-circuit termination | Spoerle |_13.D6 
+4 5 | 92 | -X18 | 218301 Thermocouple Connector type FSTC-J-FF | Merz 13.06 | 
+j Hy 93 | | -X18 218285 thermo short-circuit termination | Spoerle | 13.D6 | 
+i | 94 1 | -X19 | 218304 _ __ | Thermocouple Connector type FSTC-J-FF Merz —| 3.07 | 
+as | 95 -X19 218285 | thermo short-circuit termination _Spoerle /13.D7 
+| 96 r | -X20 | 222038 push pull connector female 8 pol D 104 A066 Fischer Connectors | /8.E6 
+== | Brabender| Esher” = Se — = a — —?"""" §15670E000-04 axa 
+1 I 2 I 3 I 4 7 5] I 6 7 | a1 | 2 ] 3 4 il 5] i 6 7 8 ==— | Components - | _ ——<— 4 
+POS.| assembly _ location ae component description supplier 
+" designations P p page / path 
+| 97 X21 | 221376 12pol.push pull connector female | Fischer ___ 6.03 
+| 98 ( | -X22 218244 __| D-SUB female connector 9pol Ernie /12.B3 
+| 99 = | -X23 | 221592 D-SUB female connector 9pol Subcon M2 _ Ernie N2.C4 | 
+| 100 | X24 | 218616 | D-SUB male connector 15pol _ Ernie | 2.D6 
+| 101 | = “X25 218191 | D-SUB mate connector 9pol ___| Ernie , /13.B5 
+| 102 | -X26 221592 D-SUB female connector 9pol Subcon M2 _ Ernie 113.87 
+| 103 | ____| -K27 218191 D-SUB male connector 9pol = \Emie /13,B8 
+104 -X27 221332 O- Sub connector with terminal resitor 120 Ohm for CAN-bus KKC Handelsge. | __3.B8 
+105 = = -X28 217057 Terminal connector 12 pol. _Klering GmbH _ 14.03 
+106 — | -X29 222509.001 flange socket 2xUSB 2.0-A type RRJ_USB Schlegel GmbH&Co.KG 
+i i 107 | -X38 222511 flange socket RJ45 typ RRJ_RJ45 Schlegel GmbH&Co.KG | 
+3 af (108 | -X39 | 222511 flange socket RJ45 typ RRJ_RJ45 _| Schlegel GmbH&Co.KG | _ 
+ait g _109 -X40 | 222513 flange socket PS2 typ RRJ_HDMI_STB Schlegel GmbH&Co.KG 
+i é é 110 | -X44 218280 _CPC-square Flange receptacle AMP 182641-1 AMP/Tyco /10.E2 
+ge 6] | 111 | | -xD1 242042 | ©9900-K630/CU8801, USB2.0-Extender-Tx Beckhoff 
+ai 3 112 | -XG1 222507.001 Flange socket USB 2.0-ARRJ_USB_AA | Schlegel M4.F1 
+eS & 113 | | -XT1 222763 Connection block MetaStation 4E XT1 Phoenix Contact 
+es ig 114 _ -XT2 222760 Connection block MetaStation 4E XT2 - | Phoenix Contact 
+He Ab | 115 [ it -XT3 222690 Connection block XT3 Drive Unit — TE Connectivity 
+l / {116 | -XT4 | 222761 | Connection block MetaStation 4E XT4 _ Phoenix Contact | — 
+— | 117 | -XT5 222764 | Plug - PP-H 1,5/S/6 for Terminal _| Phoenix Contact. 16.D3 
+is | [118 | -XT5 222736 Plug - PP-H 1,5/S/4 for Terminal Phoenix Contact 15.A5 | 
+i 119 | I -XT5 222764 | Plug - PP-H 1,5/S/6 for Terminal _ Phoenix Contact 5.B2 | 
+Ui 120 | -XT5 222736 Plug - PP-H 1,5/S/4 for Terminal | Phoenix Contact 15.B7 | 
+4 i 121 | -XT5 222734 Plug - PP-H 1,5/S/2 for Terminal | Phoenix Contact 15.05 
+al g| | 122 | | -XT5 222694 | Connection block XT5 Drive Unit _ Phoenix Contact _| 
+Hi | 123 -XT6 | 222737 | Plug - PP-H 1,5/S/5 for Terminal Phoenix Contact ES | 
+i 6| | 124 | -XT6 222736 Plug - PP-H 1,5/S/4 for Terminal Phoenix Contact | 4.B6 
+H i i 125 | -xT6 | 222695 | Connection block XT6 Drive Unit Phoenix Contact | 
+i u 126 -XT7 | 222715 | Terminal connector PTV 2,5-Quattro | Phoenix Contact /5.B1 | 
+BIE) [407 | -XT8 222773 Plug - PP-H 1,5/S/1 GNYE Phoenix Contact | 4.B8 | 
+128 | | -XT8 | 222734 Plug - PP-H 1,5/S/2 for Terminal _ | Phoenix Contact M5.B4 | 
+| | | Datum | 22.08.2020 ] n ii A | Beugruppe | 
+=—=———— Brabender] Components it ee =a Feaearg Daim | Nore | Ao | f leet Tea T 815670E000-04 fran 20 
+1 [ 2 I 5 T 3 I | 6 7 ] 8Components ‘We 
+reserve 
+all rights 
+in this 
+document 
+and 
+in the 
+informa ‘ion 
+contained 
+therein. 
+Reproduction, 
+use 
+of disclosure to 
+third 
+parties 
+without 
+express 
+authority 
+is strictly forbidden. @ BRABENDER 
+GmbH&CO.KG 
+Duisburg - —— - 
+, device POS. | assembly | location | com ipti y | loc designations ponent description supplier page / path 
+129 -XT8 222736 _ Plug - PP-H 1,5/S/4 for Terminal | Phoenix Contact 14.87 _ 
+130 -XT8 222762 Connection block MetaStation 4E XT8 Phoenix Contact 
+131 -XT9 222189 Terminal connector 10pol Weidmiller N5.B4 | 
+132 -XT10 222189 Terminal connector 10pol | Weidmuller __116.D3 
+133 _XT4.1 221576 [Terminal connector ABB Entrelec-Schiele /10.B3 
+<i: 
+tee at 
+Be 
+me" 815670 Betriebsmittelliste 
+Brabender’ Components list 
+Ers.t Tes.2. 
+1 |?8ere 8 4 5 70E000-04 Bla 20 
+BiAnzahl_ 20 
+8 "me §t he & eS:LBrabender® GmbH & Co. KG 
+Kulturstr. 49-54 
+47055 Duisburg 
+Germany 
+@ Phone +49-203-7788-0 
+= E-mail: brabender@brabender.com 
+www.brabender.com Brabender’ 
+... where quality is measured. 
+C.W. Brabender® Instruments, Inc. 
+§0 East Wesley Street 
+South Hackensack, New Jersey 07606 
+USA 
+@ Phone +201-343-8425 
+Fax +201-343-0608 
+6 E-mail: service@cwbrabender.com 
+www.cwbrabender.com 000 «Bpa6exqep» 
+yn. Aroguuckaa, A. 25 
+420032 KasaHb 
+Pocens 
+@ Ten. +7843 23346 66 
+6 E-Mail: ooo.brabender@brabender.ru 
+www.brabender.com
